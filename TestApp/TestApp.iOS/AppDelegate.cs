@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+using CustomControls.iOS.Renderers;
 using Foundation;
 using UIKit;
 
@@ -24,6 +24,9 @@ namespace TestApp.iOS
         {
             global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             global::Xamarin.Forms.Forms.Init();
+
+            BorderlessEditorRenderer.Init();
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
