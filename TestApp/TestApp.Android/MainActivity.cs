@@ -1,12 +1,9 @@
-﻿using System;
-
-using Android.App;
+﻿using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
-using Android.Views;
-using Android.Widget;
 using Android.OS;
 using CustomControls.Droid.Renderers;
+using Plugin.CurrentActivity;
 
 namespace TestApp.Droid
 {
@@ -23,6 +20,7 @@ namespace TestApp.Droid
             global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            CrossCurrentActivity.Current.Init(this, savedInstanceState);
 
             BorderlessEditorRenderer.Init();
 
