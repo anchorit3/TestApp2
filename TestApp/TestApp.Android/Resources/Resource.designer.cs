@@ -26,6 +26,2590 @@ namespace TestApp.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::PanCardView.Droid.Resource.Animation.abc_fade_in = global::TestApp.Droid.Resource.Animation.abc_fade_in;
+			global::PanCardView.Droid.Resource.Animation.abc_fade_out = global::TestApp.Droid.Resource.Animation.abc_fade_out;
+			global::PanCardView.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::TestApp.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_popup_enter = global::TestApp.Droid.Resource.Animation.abc_popup_enter;
+			global::PanCardView.Droid.Resource.Animation.abc_popup_exit = global::TestApp.Droid.Resource.Animation.abc_popup_exit;
+			global::PanCardView.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::TestApp.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_in_bottom = global::TestApp.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_in_top = global::TestApp.Droid.Resource.Animation.abc_slide_in_top;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_out_bottom = global::TestApp.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::PanCardView.Droid.Resource.Animation.abc_slide_out_top = global::TestApp.Droid.Resource.Animation.abc_slide_out_top;
+			global::PanCardView.Droid.Resource.Animation.abc_tooltip_enter = global::TestApp.Droid.Resource.Animation.abc_tooltip_enter;
+			global::PanCardView.Droid.Resource.Animation.abc_tooltip_exit = global::TestApp.Droid.Resource.Animation.abc_tooltip_exit;
+			global::PanCardView.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::TestApp.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::PanCardView.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::TestApp.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::PanCardView.Droid.Resource.Animation.design_snackbar_in = global::TestApp.Droid.Resource.Animation.design_snackbar_in;
+			global::PanCardView.Droid.Resource.Animation.design_snackbar_out = global::TestApp.Droid.Resource.Animation.design_snackbar_out;
+			global::PanCardView.Droid.Resource.Animation.EnterFromLeft = global::TestApp.Droid.Resource.Animation.EnterFromLeft;
+			global::PanCardView.Droid.Resource.Animation.EnterFromRight = global::TestApp.Droid.Resource.Animation.EnterFromRight;
+			global::PanCardView.Droid.Resource.Animation.ExitToLeft = global::TestApp.Droid.Resource.Animation.ExitToLeft;
+			global::PanCardView.Droid.Resource.Animation.ExitToRight = global::TestApp.Droid.Resource.Animation.ExitToRight;
+			global::PanCardView.Droid.Resource.Animator.design_appbar_state_list_animator = global::TestApp.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::PanCardView.Droid.Resource.Animator.design_fab_hide_motion_spec = global::TestApp.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.design_fab_show_motion_spec = global::TestApp.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_btn_state_list_anim = global::TestApp.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::PanCardView.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::TestApp.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::PanCardView.Droid.Resource.Animator.mtrl_chip_state_list_anim = global::TestApp.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_hide_motion_spec = global::TestApp.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_show_motion_spec = global::TestApp.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::TestApp.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::PanCardView.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::TestApp.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::PanCardView.Droid.Resource.Attribute.actionBarDivider = global::TestApp.Droid.Resource.Attribute.actionBarDivider;
+			global::PanCardView.Droid.Resource.Attribute.actionBarItemBackground = global::TestApp.Droid.Resource.Attribute.actionBarItemBackground;
+			global::PanCardView.Droid.Resource.Attribute.actionBarPopupTheme = global::TestApp.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::PanCardView.Droid.Resource.Attribute.actionBarSize = global::TestApp.Droid.Resource.Attribute.actionBarSize;
+			global::PanCardView.Droid.Resource.Attribute.actionBarSplitStyle = global::TestApp.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarStyle = global::TestApp.Droid.Resource.Attribute.actionBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTabBarStyle = global::TestApp.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTabStyle = global::TestApp.Droid.Resource.Attribute.actionBarTabStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTabTextStyle = global::TestApp.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionBarTheme = global::TestApp.Droid.Resource.Attribute.actionBarTheme;
+			global::PanCardView.Droid.Resource.Attribute.actionBarWidgetTheme = global::TestApp.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::PanCardView.Droid.Resource.Attribute.actionButtonStyle = global::TestApp.Droid.Resource.Attribute.actionButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionDropDownStyle = global::TestApp.Droid.Resource.Attribute.actionDropDownStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionLayout = global::TestApp.Droid.Resource.Attribute.actionLayout;
+			global::PanCardView.Droid.Resource.Attribute.actionMenuTextAppearance = global::TestApp.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.actionMenuTextColor = global::TestApp.Droid.Resource.Attribute.actionMenuTextColor;
+			global::PanCardView.Droid.Resource.Attribute.actionModeBackground = global::TestApp.Droid.Resource.Attribute.actionModeBackground;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::TestApp.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCloseDrawable = global::TestApp.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCopyDrawable = global::TestApp.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeCutDrawable = global::TestApp.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeFindDrawable = global::TestApp.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModePasteDrawable = global::TestApp.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModePopupWindowStyle = global::TestApp.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::TestApp.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeShareDrawable = global::TestApp.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionModeSplitBackground = global::TestApp.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::PanCardView.Droid.Resource.Attribute.actionModeStyle = global::TestApp.Droid.Resource.Attribute.actionModeStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::TestApp.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::PanCardView.Droid.Resource.Attribute.actionOverflowButtonStyle = global::TestApp.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionOverflowMenuStyle = global::TestApp.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::PanCardView.Droid.Resource.Attribute.actionProviderClass = global::TestApp.Droid.Resource.Attribute.actionProviderClass;
+			global::PanCardView.Droid.Resource.Attribute.actionViewClass = global::TestApp.Droid.Resource.Attribute.actionViewClass;
+			global::PanCardView.Droid.Resource.Attribute.activityChooserViewStyle = global::TestApp.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::TestApp.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogCenterButtons = global::TestApp.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogStyle = global::TestApp.Droid.Resource.Attribute.alertDialogStyle;
+			global::PanCardView.Droid.Resource.Attribute.alertDialogTheme = global::TestApp.Droid.Resource.Attribute.alertDialogTheme;
+			global::PanCardView.Droid.Resource.Attribute.allowStacking = global::TestApp.Droid.Resource.Attribute.allowStacking;
+			global::PanCardView.Droid.Resource.Attribute.alpha = global::TestApp.Droid.Resource.Attribute.alpha;
+			global::PanCardView.Droid.Resource.Attribute.alphabeticModifiers = global::TestApp.Droid.Resource.Attribute.alphabeticModifiers;
+			global::PanCardView.Droid.Resource.Attribute.arrowHeadLength = global::TestApp.Droid.Resource.Attribute.arrowHeadLength;
+			global::PanCardView.Droid.Resource.Attribute.arrowShaftLength = global::TestApp.Droid.Resource.Attribute.arrowShaftLength;
+			global::PanCardView.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::TestApp.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeMaxTextSize = global::TestApp.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeMinTextSize = global::TestApp.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::PanCardView.Droid.Resource.Attribute.autoSizePresetSizes = global::TestApp.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeStepGranularity = global::TestApp.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::PanCardView.Droid.Resource.Attribute.autoSizeTextType = global::TestApp.Droid.Resource.Attribute.autoSizeTextType;
+			global::PanCardView.Droid.Resource.Attribute.background = global::TestApp.Droid.Resource.Attribute.background;
+			global::PanCardView.Droid.Resource.Attribute.backgroundSplit = global::TestApp.Droid.Resource.Attribute.backgroundSplit;
+			global::PanCardView.Droid.Resource.Attribute.backgroundStacked = global::TestApp.Droid.Resource.Attribute.backgroundStacked;
+			global::PanCardView.Droid.Resource.Attribute.backgroundTint = global::TestApp.Droid.Resource.Attribute.backgroundTint;
+			global::PanCardView.Droid.Resource.Attribute.backgroundTintMode = global::TestApp.Droid.Resource.Attribute.backgroundTintMode;
+			global::PanCardView.Droid.Resource.Attribute.barLength = global::TestApp.Droid.Resource.Attribute.barLength;
+			global::PanCardView.Droid.Resource.Attribute.behavior_autoHide = global::TestApp.Droid.Resource.Attribute.behavior_autoHide;
+			global::PanCardView.Droid.Resource.Attribute.behavior_fitToContents = global::TestApp.Droid.Resource.Attribute.behavior_fitToContents;
+			global::PanCardView.Droid.Resource.Attribute.behavior_hideable = global::TestApp.Droid.Resource.Attribute.behavior_hideable;
+			global::PanCardView.Droid.Resource.Attribute.behavior_overlapTop = global::TestApp.Droid.Resource.Attribute.behavior_overlapTop;
+			global::PanCardView.Droid.Resource.Attribute.behavior_peekHeight = global::TestApp.Droid.Resource.Attribute.behavior_peekHeight;
+			global::PanCardView.Droid.Resource.Attribute.behavior_skipCollapsed = global::TestApp.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::PanCardView.Droid.Resource.Attribute.borderlessButtonStyle = global::TestApp.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.borderWidth = global::TestApp.Droid.Resource.Attribute.borderWidth;
+			global::PanCardView.Droid.Resource.Attribute.bottomAppBarStyle = global::TestApp.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.bottomNavigationStyle = global::TestApp.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::PanCardView.Droid.Resource.Attribute.bottomSheetDialogTheme = global::TestApp.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::PanCardView.Droid.Resource.Attribute.bottomSheetStyle = global::TestApp.Droid.Resource.Attribute.bottomSheetStyle;
+			global::PanCardView.Droid.Resource.Attribute.boxBackgroundColor = global::TestApp.Droid.Resource.Attribute.boxBackgroundColor;
+			global::PanCardView.Droid.Resource.Attribute.boxBackgroundMode = global::TestApp.Droid.Resource.Attribute.boxBackgroundMode;
+			global::PanCardView.Droid.Resource.Attribute.boxCollapsedPaddingTop = global::TestApp.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusBottomEnd = global::TestApp.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusBottomStart = global::TestApp.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusTopEnd = global::TestApp.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::PanCardView.Droid.Resource.Attribute.boxCornerRadiusTopStart = global::TestApp.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::PanCardView.Droid.Resource.Attribute.boxStrokeColor = global::TestApp.Droid.Resource.Attribute.boxStrokeColor;
+			global::PanCardView.Droid.Resource.Attribute.boxStrokeWidth = global::TestApp.Droid.Resource.Attribute.boxStrokeWidth;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarButtonStyle = global::TestApp.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::TestApp.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::TestApp.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::TestApp.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonBarStyle = global::TestApp.Droid.Resource.Attribute.buttonBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonGravity = global::TestApp.Droid.Resource.Attribute.buttonGravity;
+			global::PanCardView.Droid.Resource.Attribute.buttonIconDimen = global::TestApp.Droid.Resource.Attribute.buttonIconDimen;
+			global::PanCardView.Droid.Resource.Attribute.buttonPanelSideLayout = global::TestApp.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::PanCardView.Droid.Resource.Attribute.buttonStyle = global::TestApp.Droid.Resource.Attribute.buttonStyle;
+			global::PanCardView.Droid.Resource.Attribute.buttonStyleSmall = global::TestApp.Droid.Resource.Attribute.buttonStyleSmall;
+			global::PanCardView.Droid.Resource.Attribute.buttonTint = global::TestApp.Droid.Resource.Attribute.buttonTint;
+			global::PanCardView.Droid.Resource.Attribute.buttonTintMode = global::TestApp.Droid.Resource.Attribute.buttonTintMode;
+			global::PanCardView.Droid.Resource.Attribute.cardBackgroundColor = global::TestApp.Droid.Resource.Attribute.cardBackgroundColor;
+			global::PanCardView.Droid.Resource.Attribute.cardCornerRadius = global::TestApp.Droid.Resource.Attribute.cardCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.cardElevation = global::TestApp.Droid.Resource.Attribute.cardElevation;
+			global::PanCardView.Droid.Resource.Attribute.cardMaxElevation = global::TestApp.Droid.Resource.Attribute.cardMaxElevation;
+			global::PanCardView.Droid.Resource.Attribute.cardPreventCornerOverlap = global::TestApp.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::PanCardView.Droid.Resource.Attribute.cardUseCompatPadding = global::TestApp.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::PanCardView.Droid.Resource.Attribute.cardViewStyle = global::TestApp.Droid.Resource.Attribute.cardViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.checkboxStyle = global::TestApp.Droid.Resource.Attribute.checkboxStyle;
+			global::PanCardView.Droid.Resource.Attribute.checkedChip = global::TestApp.Droid.Resource.Attribute.checkedChip;
+			global::PanCardView.Droid.Resource.Attribute.checkedIcon = global::TestApp.Droid.Resource.Attribute.checkedIcon;
+			global::PanCardView.Droid.Resource.Attribute.checkedIconEnabled = global::TestApp.Droid.Resource.Attribute.checkedIconEnabled;
+			global::PanCardView.Droid.Resource.Attribute.checkedIconVisible = global::TestApp.Droid.Resource.Attribute.checkedIconVisible;
+			global::PanCardView.Droid.Resource.Attribute.checkedTextViewStyle = global::TestApp.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.chipBackgroundColor = global::TestApp.Droid.Resource.Attribute.chipBackgroundColor;
+			global::PanCardView.Droid.Resource.Attribute.chipCornerRadius = global::TestApp.Droid.Resource.Attribute.chipCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.chipEndPadding = global::TestApp.Droid.Resource.Attribute.chipEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.chipGroupStyle = global::TestApp.Droid.Resource.Attribute.chipGroupStyle;
+			global::PanCardView.Droid.Resource.Attribute.chipIcon = global::TestApp.Droid.Resource.Attribute.chipIcon;
+			global::PanCardView.Droid.Resource.Attribute.chipIconEnabled = global::TestApp.Droid.Resource.Attribute.chipIconEnabled;
+			global::PanCardView.Droid.Resource.Attribute.chipIconSize = global::TestApp.Droid.Resource.Attribute.chipIconSize;
+			global::PanCardView.Droid.Resource.Attribute.chipIconTint = global::TestApp.Droid.Resource.Attribute.chipIconTint;
+			global::PanCardView.Droid.Resource.Attribute.chipIconVisible = global::TestApp.Droid.Resource.Attribute.chipIconVisible;
+			global::PanCardView.Droid.Resource.Attribute.chipMinHeight = global::TestApp.Droid.Resource.Attribute.chipMinHeight;
+			global::PanCardView.Droid.Resource.Attribute.chipSpacing = global::TestApp.Droid.Resource.Attribute.chipSpacing;
+			global::PanCardView.Droid.Resource.Attribute.chipSpacingHorizontal = global::TestApp.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::PanCardView.Droid.Resource.Attribute.chipSpacingVertical = global::TestApp.Droid.Resource.Attribute.chipSpacingVertical;
+			global::PanCardView.Droid.Resource.Attribute.chipStandaloneStyle = global::TestApp.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::PanCardView.Droid.Resource.Attribute.chipStartPadding = global::TestApp.Droid.Resource.Attribute.chipStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.chipStrokeColor = global::TestApp.Droid.Resource.Attribute.chipStrokeColor;
+			global::PanCardView.Droid.Resource.Attribute.chipStrokeWidth = global::TestApp.Droid.Resource.Attribute.chipStrokeWidth;
+			global::PanCardView.Droid.Resource.Attribute.chipStyle = global::TestApp.Droid.Resource.Attribute.chipStyle;
+			global::PanCardView.Droid.Resource.Attribute.closeIcon = global::TestApp.Droid.Resource.Attribute.closeIcon;
+			global::PanCardView.Droid.Resource.Attribute.closeIconEnabled = global::TestApp.Droid.Resource.Attribute.closeIconEnabled;
+			global::PanCardView.Droid.Resource.Attribute.closeIconEndPadding = global::TestApp.Droid.Resource.Attribute.closeIconEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.closeIconSize = global::TestApp.Droid.Resource.Attribute.closeIconSize;
+			global::PanCardView.Droid.Resource.Attribute.closeIconStartPadding = global::TestApp.Droid.Resource.Attribute.closeIconStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.closeIconTint = global::TestApp.Droid.Resource.Attribute.closeIconTint;
+			global::PanCardView.Droid.Resource.Attribute.closeIconVisible = global::TestApp.Droid.Resource.Attribute.closeIconVisible;
+			global::PanCardView.Droid.Resource.Attribute.closeItemLayout = global::TestApp.Droid.Resource.Attribute.closeItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.collapseContentDescription = global::TestApp.Droid.Resource.Attribute.collapseContentDescription;
+			global::PanCardView.Droid.Resource.Attribute.collapsedTitleGravity = global::TestApp.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::PanCardView.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::TestApp.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.collapseIcon = global::TestApp.Droid.Resource.Attribute.collapseIcon;
+			global::PanCardView.Droid.Resource.Attribute.color = global::TestApp.Droid.Resource.Attribute.color;
+			global::PanCardView.Droid.Resource.Attribute.colorAccent = global::TestApp.Droid.Resource.Attribute.colorAccent;
+			global::PanCardView.Droid.Resource.Attribute.colorBackgroundFloating = global::TestApp.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::PanCardView.Droid.Resource.Attribute.colorButtonNormal = global::TestApp.Droid.Resource.Attribute.colorButtonNormal;
+			global::PanCardView.Droid.Resource.Attribute.colorControlActivated = global::TestApp.Droid.Resource.Attribute.colorControlActivated;
+			global::PanCardView.Droid.Resource.Attribute.colorControlHighlight = global::TestApp.Droid.Resource.Attribute.colorControlHighlight;
+			global::PanCardView.Droid.Resource.Attribute.colorControlNormal = global::TestApp.Droid.Resource.Attribute.colorControlNormal;
+			global::PanCardView.Droid.Resource.Attribute.colorError = global::TestApp.Droid.Resource.Attribute.colorError;
+			global::PanCardView.Droid.Resource.Attribute.colorPrimary = global::TestApp.Droid.Resource.Attribute.colorPrimary;
+			global::PanCardView.Droid.Resource.Attribute.colorPrimaryDark = global::TestApp.Droid.Resource.Attribute.colorPrimaryDark;
+			global::PanCardView.Droid.Resource.Attribute.colorSecondary = global::TestApp.Droid.Resource.Attribute.colorSecondary;
+			global::PanCardView.Droid.Resource.Attribute.colorSwitchThumbNormal = global::TestApp.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::PanCardView.Droid.Resource.Attribute.commitIcon = global::TestApp.Droid.Resource.Attribute.commitIcon;
+			global::PanCardView.Droid.Resource.Attribute.contentDescription = global::TestApp.Droid.Resource.Attribute.contentDescription;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetEnd = global::TestApp.Droid.Resource.Attribute.contentInsetEnd;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetEndWithActions = global::TestApp.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetLeft = global::TestApp.Droid.Resource.Attribute.contentInsetLeft;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetRight = global::TestApp.Droid.Resource.Attribute.contentInsetRight;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetStart = global::TestApp.Droid.Resource.Attribute.contentInsetStart;
+			global::PanCardView.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::TestApp.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::PanCardView.Droid.Resource.Attribute.contentPadding = global::TestApp.Droid.Resource.Attribute.contentPadding;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingBottom = global::TestApp.Droid.Resource.Attribute.contentPaddingBottom;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingLeft = global::TestApp.Droid.Resource.Attribute.contentPaddingLeft;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingRight = global::TestApp.Droid.Resource.Attribute.contentPaddingRight;
+			global::PanCardView.Droid.Resource.Attribute.contentPaddingTop = global::TestApp.Droid.Resource.Attribute.contentPaddingTop;
+			global::PanCardView.Droid.Resource.Attribute.contentScrim = global::TestApp.Droid.Resource.Attribute.contentScrim;
+			global::PanCardView.Droid.Resource.Attribute.controlBackground = global::TestApp.Droid.Resource.Attribute.controlBackground;
+			global::PanCardView.Droid.Resource.Attribute.coordinatorLayoutStyle = global::TestApp.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::PanCardView.Droid.Resource.Attribute.cornerRadius = global::TestApp.Droid.Resource.Attribute.cornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.counterEnabled = global::TestApp.Droid.Resource.Attribute.counterEnabled;
+			global::PanCardView.Droid.Resource.Attribute.counterMaxLength = global::TestApp.Droid.Resource.Attribute.counterMaxLength;
+			global::PanCardView.Droid.Resource.Attribute.counterOverflowTextAppearance = global::TestApp.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.counterTextAppearance = global::TestApp.Droid.Resource.Attribute.counterTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.customNavigationLayout = global::TestApp.Droid.Resource.Attribute.customNavigationLayout;
+			global::PanCardView.Droid.Resource.Attribute.defaultQueryHint = global::TestApp.Droid.Resource.Attribute.defaultQueryHint;
+			global::PanCardView.Droid.Resource.Attribute.dialogCornerRadius = global::TestApp.Droid.Resource.Attribute.dialogCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.dialogPreferredPadding = global::TestApp.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::PanCardView.Droid.Resource.Attribute.dialogTheme = global::TestApp.Droid.Resource.Attribute.dialogTheme;
+			global::PanCardView.Droid.Resource.Attribute.displayOptions = global::TestApp.Droid.Resource.Attribute.displayOptions;
+			global::PanCardView.Droid.Resource.Attribute.divider = global::TestApp.Droid.Resource.Attribute.divider;
+			global::PanCardView.Droid.Resource.Attribute.dividerHorizontal = global::TestApp.Droid.Resource.Attribute.dividerHorizontal;
+			global::PanCardView.Droid.Resource.Attribute.dividerPadding = global::TestApp.Droid.Resource.Attribute.dividerPadding;
+			global::PanCardView.Droid.Resource.Attribute.dividerVertical = global::TestApp.Droid.Resource.Attribute.dividerVertical;
+			global::PanCardView.Droid.Resource.Attribute.drawableSize = global::TestApp.Droid.Resource.Attribute.drawableSize;
+			global::PanCardView.Droid.Resource.Attribute.drawerArrowStyle = global::TestApp.Droid.Resource.Attribute.drawerArrowStyle;
+			global::PanCardView.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::TestApp.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Attribute.dropDownListViewStyle = global::TestApp.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.editTextBackground = global::TestApp.Droid.Resource.Attribute.editTextBackground;
+			global::PanCardView.Droid.Resource.Attribute.editTextColor = global::TestApp.Droid.Resource.Attribute.editTextColor;
+			global::PanCardView.Droid.Resource.Attribute.editTextStyle = global::TestApp.Droid.Resource.Attribute.editTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.elevation = global::TestApp.Droid.Resource.Attribute.elevation;
+			global::PanCardView.Droid.Resource.Attribute.enforceMaterialTheme = global::TestApp.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::PanCardView.Droid.Resource.Attribute.enforceTextAppearance = global::TestApp.Droid.Resource.Attribute.enforceTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.errorEnabled = global::TestApp.Droid.Resource.Attribute.errorEnabled;
+			global::PanCardView.Droid.Resource.Attribute.errorTextAppearance = global::TestApp.Droid.Resource.Attribute.errorTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::TestApp.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::PanCardView.Droid.Resource.Attribute.expanded = global::TestApp.Droid.Resource.Attribute.expanded;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleGravity = global::TestApp.Droid.Resource.Attribute.expandedTitleGravity;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMargin = global::TestApp.Droid.Resource.Attribute.expandedTitleMargin;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginBottom = global::TestApp.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginEnd = global::TestApp.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginStart = global::TestApp.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleMarginTop = global::TestApp.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::PanCardView.Droid.Resource.Attribute.expandedTitleTextAppearance = global::TestApp.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.fabAlignmentMode = global::TestApp.Droid.Resource.Attribute.fabAlignmentMode;
+			global::PanCardView.Droid.Resource.Attribute.fabCradleMargin = global::TestApp.Droid.Resource.Attribute.fabCradleMargin;
+			global::PanCardView.Droid.Resource.Attribute.fabCradleRoundedCornerRadius = global::TestApp.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::PanCardView.Droid.Resource.Attribute.fabCradleVerticalOffset = global::TestApp.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::PanCardView.Droid.Resource.Attribute.fabCustomSize = global::TestApp.Droid.Resource.Attribute.fabCustomSize;
+			global::PanCardView.Droid.Resource.Attribute.fabSize = global::TestApp.Droid.Resource.Attribute.fabSize;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollEnabled = global::TestApp.Droid.Resource.Attribute.fastScrollEnabled;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::TestApp.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::TestApp.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::TestApp.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::PanCardView.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::TestApp.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::PanCardView.Droid.Resource.Attribute.firstBaselineToTopHeight = global::TestApp.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::PanCardView.Droid.Resource.Attribute.floatingActionButtonStyle = global::TestApp.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.font = global::TestApp.Droid.Resource.Attribute.font;
+			global::PanCardView.Droid.Resource.Attribute.fontFamily = global::TestApp.Droid.Resource.Attribute.fontFamily;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderAuthority = global::TestApp.Droid.Resource.Attribute.fontProviderAuthority;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderCerts = global::TestApp.Droid.Resource.Attribute.fontProviderCerts;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderFetchStrategy = global::TestApp.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderFetchTimeout = global::TestApp.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderPackage = global::TestApp.Droid.Resource.Attribute.fontProviderPackage;
+			global::PanCardView.Droid.Resource.Attribute.fontProviderQuery = global::TestApp.Droid.Resource.Attribute.fontProviderQuery;
+			global::PanCardView.Droid.Resource.Attribute.fontStyle = global::TestApp.Droid.Resource.Attribute.fontStyle;
+			global::PanCardView.Droid.Resource.Attribute.fontVariationSettings = global::TestApp.Droid.Resource.Attribute.fontVariationSettings;
+			global::PanCardView.Droid.Resource.Attribute.fontWeight = global::TestApp.Droid.Resource.Attribute.fontWeight;
+			global::PanCardView.Droid.Resource.Attribute.foregroundInsidePadding = global::TestApp.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::PanCardView.Droid.Resource.Attribute.gapBetweenBars = global::TestApp.Droid.Resource.Attribute.gapBetweenBars;
+			global::PanCardView.Droid.Resource.Attribute.goIcon = global::TestApp.Droid.Resource.Attribute.goIcon;
+			global::PanCardView.Droid.Resource.Attribute.headerLayout = global::TestApp.Droid.Resource.Attribute.headerLayout;
+			global::PanCardView.Droid.Resource.Attribute.height = global::TestApp.Droid.Resource.Attribute.height;
+			global::PanCardView.Droid.Resource.Attribute.helperText = global::TestApp.Droid.Resource.Attribute.helperText;
+			global::PanCardView.Droid.Resource.Attribute.helperTextEnabled = global::TestApp.Droid.Resource.Attribute.helperTextEnabled;
+			global::PanCardView.Droid.Resource.Attribute.helperTextTextAppearance = global::TestApp.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.hideMotionSpec = global::TestApp.Droid.Resource.Attribute.hideMotionSpec;
+			global::PanCardView.Droid.Resource.Attribute.hideOnContentScroll = global::TestApp.Droid.Resource.Attribute.hideOnContentScroll;
+			global::PanCardView.Droid.Resource.Attribute.hideOnScroll = global::TestApp.Droid.Resource.Attribute.hideOnScroll;
+			global::PanCardView.Droid.Resource.Attribute.hintAnimationEnabled = global::TestApp.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::PanCardView.Droid.Resource.Attribute.hintEnabled = global::TestApp.Droid.Resource.Attribute.hintEnabled;
+			global::PanCardView.Droid.Resource.Attribute.hintTextAppearance = global::TestApp.Droid.Resource.Attribute.hintTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.homeAsUpIndicator = global::TestApp.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::PanCardView.Droid.Resource.Attribute.homeLayout = global::TestApp.Droid.Resource.Attribute.homeLayout;
+			global::PanCardView.Droid.Resource.Attribute.hoveredFocusedTranslationZ = global::TestApp.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::PanCardView.Droid.Resource.Attribute.icon = global::TestApp.Droid.Resource.Attribute.icon;
+			global::PanCardView.Droid.Resource.Attribute.iconEndPadding = global::TestApp.Droid.Resource.Attribute.iconEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.iconGravity = global::TestApp.Droid.Resource.Attribute.iconGravity;
+			global::PanCardView.Droid.Resource.Attribute.iconifiedByDefault = global::TestApp.Droid.Resource.Attribute.iconifiedByDefault;
+			global::PanCardView.Droid.Resource.Attribute.iconPadding = global::TestApp.Droid.Resource.Attribute.iconPadding;
+			global::PanCardView.Droid.Resource.Attribute.iconSize = global::TestApp.Droid.Resource.Attribute.iconSize;
+			global::PanCardView.Droid.Resource.Attribute.iconStartPadding = global::TestApp.Droid.Resource.Attribute.iconStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.iconTint = global::TestApp.Droid.Resource.Attribute.iconTint;
+			global::PanCardView.Droid.Resource.Attribute.iconTintMode = global::TestApp.Droid.Resource.Attribute.iconTintMode;
+			global::PanCardView.Droid.Resource.Attribute.imageButtonStyle = global::TestApp.Droid.Resource.Attribute.imageButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.indeterminateProgressStyle = global::TestApp.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::PanCardView.Droid.Resource.Attribute.initialActivityCount = global::TestApp.Droid.Resource.Attribute.initialActivityCount;
+			global::PanCardView.Droid.Resource.Attribute.insetForeground = global::TestApp.Droid.Resource.Attribute.insetForeground;
+			global::PanCardView.Droid.Resource.Attribute.isLightTheme = global::TestApp.Droid.Resource.Attribute.isLightTheme;
+			global::PanCardView.Droid.Resource.Attribute.itemBackground = global::TestApp.Droid.Resource.Attribute.itemBackground;
+			global::PanCardView.Droid.Resource.Attribute.itemHorizontalPadding = global::TestApp.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::PanCardView.Droid.Resource.Attribute.itemHorizontalTranslationEnabled = global::TestApp.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::PanCardView.Droid.Resource.Attribute.itemIconPadding = global::TestApp.Droid.Resource.Attribute.itemIconPadding;
+			global::PanCardView.Droid.Resource.Attribute.itemIconSize = global::TestApp.Droid.Resource.Attribute.itemIconSize;
+			global::PanCardView.Droid.Resource.Attribute.itemIconTint = global::TestApp.Droid.Resource.Attribute.itemIconTint;
+			global::PanCardView.Droid.Resource.Attribute.itemPadding = global::TestApp.Droid.Resource.Attribute.itemPadding;
+			global::PanCardView.Droid.Resource.Attribute.itemSpacing = global::TestApp.Droid.Resource.Attribute.itemSpacing;
+			global::PanCardView.Droid.Resource.Attribute.itemTextAppearance = global::TestApp.Droid.Resource.Attribute.itemTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.itemTextAppearanceActive = global::TestApp.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::PanCardView.Droid.Resource.Attribute.itemTextAppearanceInactive = global::TestApp.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::PanCardView.Droid.Resource.Attribute.itemTextColor = global::TestApp.Droid.Resource.Attribute.itemTextColor;
+			global::PanCardView.Droid.Resource.Attribute.keylines = global::TestApp.Droid.Resource.Attribute.keylines;
+			global::PanCardView.Droid.Resource.Attribute.labelVisibilityMode = global::TestApp.Droid.Resource.Attribute.labelVisibilityMode;
+			global::PanCardView.Droid.Resource.Attribute.lastBaselineToBottomHeight = global::TestApp.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::PanCardView.Droid.Resource.Attribute.layout = global::TestApp.Droid.Resource.Attribute.layout;
+			global::PanCardView.Droid.Resource.Attribute.layoutManager = global::TestApp.Droid.Resource.Attribute.layoutManager;
+			global::PanCardView.Droid.Resource.Attribute.layout_anchor = global::TestApp.Droid.Resource.Attribute.layout_anchor;
+			global::PanCardView.Droid.Resource.Attribute.layout_anchorGravity = global::TestApp.Droid.Resource.Attribute.layout_anchorGravity;
+			global::PanCardView.Droid.Resource.Attribute.layout_behavior = global::TestApp.Droid.Resource.Attribute.layout_behavior;
+			global::PanCardView.Droid.Resource.Attribute.layout_collapseMode = global::TestApp.Droid.Resource.Attribute.layout_collapseMode;
+			global::PanCardView.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::TestApp.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::PanCardView.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::TestApp.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::PanCardView.Droid.Resource.Attribute.layout_insetEdge = global::TestApp.Droid.Resource.Attribute.layout_insetEdge;
+			global::PanCardView.Droid.Resource.Attribute.layout_keyline = global::TestApp.Droid.Resource.Attribute.layout_keyline;
+			global::PanCardView.Droid.Resource.Attribute.layout_scrollFlags = global::TestApp.Droid.Resource.Attribute.layout_scrollFlags;
+			global::PanCardView.Droid.Resource.Attribute.layout_scrollInterpolator = global::TestApp.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::PanCardView.Droid.Resource.Attribute.liftOnScroll = global::TestApp.Droid.Resource.Attribute.liftOnScroll;
+			global::PanCardView.Droid.Resource.Attribute.lineHeight = global::TestApp.Droid.Resource.Attribute.lineHeight;
+			global::PanCardView.Droid.Resource.Attribute.lineSpacing = global::TestApp.Droid.Resource.Attribute.lineSpacing;
+			global::PanCardView.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::TestApp.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::PanCardView.Droid.Resource.Attribute.listDividerAlertDialog = global::TestApp.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::PanCardView.Droid.Resource.Attribute.listItemLayout = global::TestApp.Droid.Resource.Attribute.listItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.listLayout = global::TestApp.Droid.Resource.Attribute.listLayout;
+			global::PanCardView.Droid.Resource.Attribute.listMenuViewStyle = global::TestApp.Droid.Resource.Attribute.listMenuViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.listPopupWindowStyle = global::TestApp.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemHeight = global::TestApp.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::TestApp.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::TestApp.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::TestApp.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::PanCardView.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::TestApp.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::PanCardView.Droid.Resource.Attribute.logo = global::TestApp.Droid.Resource.Attribute.logo;
+			global::PanCardView.Droid.Resource.Attribute.logoDescription = global::TestApp.Droid.Resource.Attribute.logoDescription;
+			global::PanCardView.Droid.Resource.Attribute.materialButtonStyle = global::TestApp.Droid.Resource.Attribute.materialButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.materialCardViewStyle = global::TestApp.Droid.Resource.Attribute.materialCardViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.maxActionInlineWidth = global::TestApp.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::PanCardView.Droid.Resource.Attribute.maxButtonHeight = global::TestApp.Droid.Resource.Attribute.maxButtonHeight;
+			global::PanCardView.Droid.Resource.Attribute.maxImageSize = global::TestApp.Droid.Resource.Attribute.maxImageSize;
+			global::PanCardView.Droid.Resource.Attribute.measureWithLargestChild = global::TestApp.Droid.Resource.Attribute.measureWithLargestChild;
+			global::PanCardView.Droid.Resource.Attribute.menu = global::TestApp.Droid.Resource.Attribute.menu;
+			global::PanCardView.Droid.Resource.Attribute.multiChoiceItemLayout = global::TestApp.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.navigationContentDescription = global::TestApp.Droid.Resource.Attribute.navigationContentDescription;
+			global::PanCardView.Droid.Resource.Attribute.navigationIcon = global::TestApp.Droid.Resource.Attribute.navigationIcon;
+			global::PanCardView.Droid.Resource.Attribute.navigationMode = global::TestApp.Droid.Resource.Attribute.navigationMode;
+			global::PanCardView.Droid.Resource.Attribute.navigationViewStyle = global::TestApp.Droid.Resource.Attribute.navigationViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.numericModifiers = global::TestApp.Droid.Resource.Attribute.numericModifiers;
+			global::PanCardView.Droid.Resource.Attribute.overlapAnchor = global::TestApp.Droid.Resource.Attribute.overlapAnchor;
+			global::PanCardView.Droid.Resource.Attribute.paddingBottomNoButtons = global::TestApp.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::PanCardView.Droid.Resource.Attribute.paddingEnd = global::TestApp.Droid.Resource.Attribute.paddingEnd;
+			global::PanCardView.Droid.Resource.Attribute.paddingStart = global::TestApp.Droid.Resource.Attribute.paddingStart;
+			global::PanCardView.Droid.Resource.Attribute.paddingTopNoTitle = global::TestApp.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::PanCardView.Droid.Resource.Attribute.panelBackground = global::TestApp.Droid.Resource.Attribute.panelBackground;
+			global::PanCardView.Droid.Resource.Attribute.panelMenuListTheme = global::TestApp.Droid.Resource.Attribute.panelMenuListTheme;
+			global::PanCardView.Droid.Resource.Attribute.panelMenuListWidth = global::TestApp.Droid.Resource.Attribute.panelMenuListWidth;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleContentDescription = global::TestApp.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleDrawable = global::TestApp.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleEnabled = global::TestApp.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleTint = global::TestApp.Droid.Resource.Attribute.passwordToggleTint;
+			global::PanCardView.Droid.Resource.Attribute.passwordToggleTintMode = global::TestApp.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::PanCardView.Droid.Resource.Attribute.popupMenuStyle = global::TestApp.Droid.Resource.Attribute.popupMenuStyle;
+			global::PanCardView.Droid.Resource.Attribute.popupTheme = global::TestApp.Droid.Resource.Attribute.popupTheme;
+			global::PanCardView.Droid.Resource.Attribute.popupWindowStyle = global::TestApp.Droid.Resource.Attribute.popupWindowStyle;
+			global::PanCardView.Droid.Resource.Attribute.preserveIconSpacing = global::TestApp.Droid.Resource.Attribute.preserveIconSpacing;
+			global::PanCardView.Droid.Resource.Attribute.pressedTranslationZ = global::TestApp.Droid.Resource.Attribute.pressedTranslationZ;
+			global::PanCardView.Droid.Resource.Attribute.progressBarPadding = global::TestApp.Droid.Resource.Attribute.progressBarPadding;
+			global::PanCardView.Droid.Resource.Attribute.progressBarStyle = global::TestApp.Droid.Resource.Attribute.progressBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.queryBackground = global::TestApp.Droid.Resource.Attribute.queryBackground;
+			global::PanCardView.Droid.Resource.Attribute.queryHint = global::TestApp.Droid.Resource.Attribute.queryHint;
+			global::PanCardView.Droid.Resource.Attribute.radioButtonStyle = global::TestApp.Droid.Resource.Attribute.radioButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.ratingBarStyle = global::TestApp.Droid.Resource.Attribute.ratingBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.ratingBarStyleIndicator = global::TestApp.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::PanCardView.Droid.Resource.Attribute.ratingBarStyleSmall = global::TestApp.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::PanCardView.Droid.Resource.Attribute.reverseLayout = global::TestApp.Droid.Resource.Attribute.reverseLayout;
+			global::PanCardView.Droid.Resource.Attribute.rippleColor = global::TestApp.Droid.Resource.Attribute.rippleColor;
+			global::PanCardView.Droid.Resource.Attribute.scrimAnimationDuration = global::TestApp.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::PanCardView.Droid.Resource.Attribute.scrimBackground = global::TestApp.Droid.Resource.Attribute.scrimBackground;
+			global::PanCardView.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::TestApp.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::PanCardView.Droid.Resource.Attribute.searchHintIcon = global::TestApp.Droid.Resource.Attribute.searchHintIcon;
+			global::PanCardView.Droid.Resource.Attribute.searchIcon = global::TestApp.Droid.Resource.Attribute.searchIcon;
+			global::PanCardView.Droid.Resource.Attribute.searchViewStyle = global::TestApp.Droid.Resource.Attribute.searchViewStyle;
+			global::PanCardView.Droid.Resource.Attribute.seekBarStyle = global::TestApp.Droid.Resource.Attribute.seekBarStyle;
+			global::PanCardView.Droid.Resource.Attribute.selectableItemBackground = global::TestApp.Droid.Resource.Attribute.selectableItemBackground;
+			global::PanCardView.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::TestApp.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::PanCardView.Droid.Resource.Attribute.showAsAction = global::TestApp.Droid.Resource.Attribute.showAsAction;
+			global::PanCardView.Droid.Resource.Attribute.showDividers = global::TestApp.Droid.Resource.Attribute.showDividers;
+			global::PanCardView.Droid.Resource.Attribute.showMotionSpec = global::TestApp.Droid.Resource.Attribute.showMotionSpec;
+			global::PanCardView.Droid.Resource.Attribute.showText = global::TestApp.Droid.Resource.Attribute.showText;
+			global::PanCardView.Droid.Resource.Attribute.showTitle = global::TestApp.Droid.Resource.Attribute.showTitle;
+			global::PanCardView.Droid.Resource.Attribute.singleChoiceItemLayout = global::TestApp.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Attribute.singleLine = global::TestApp.Droid.Resource.Attribute.singleLine;
+			global::PanCardView.Droid.Resource.Attribute.singleSelection = global::TestApp.Droid.Resource.Attribute.singleSelection;
+			global::PanCardView.Droid.Resource.Attribute.snackbarButtonStyle = global::TestApp.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.snackbarStyle = global::TestApp.Droid.Resource.Attribute.snackbarStyle;
+			global::PanCardView.Droid.Resource.Attribute.spanCount = global::TestApp.Droid.Resource.Attribute.spanCount;
+			global::PanCardView.Droid.Resource.Attribute.spinBars = global::TestApp.Droid.Resource.Attribute.spinBars;
+			global::PanCardView.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::TestApp.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::PanCardView.Droid.Resource.Attribute.spinnerStyle = global::TestApp.Droid.Resource.Attribute.spinnerStyle;
+			global::PanCardView.Droid.Resource.Attribute.splitTrack = global::TestApp.Droid.Resource.Attribute.splitTrack;
+			global::PanCardView.Droid.Resource.Attribute.srcCompat = global::TestApp.Droid.Resource.Attribute.srcCompat;
+			global::PanCardView.Droid.Resource.Attribute.stackFromEnd = global::TestApp.Droid.Resource.Attribute.stackFromEnd;
+			global::PanCardView.Droid.Resource.Attribute.state_above_anchor = global::TestApp.Droid.Resource.Attribute.state_above_anchor;
+			global::PanCardView.Droid.Resource.Attribute.state_collapsed = global::TestApp.Droid.Resource.Attribute.state_collapsed;
+			global::PanCardView.Droid.Resource.Attribute.state_collapsible = global::TestApp.Droid.Resource.Attribute.state_collapsible;
+			global::PanCardView.Droid.Resource.Attribute.state_liftable = global::TestApp.Droid.Resource.Attribute.state_liftable;
+			global::PanCardView.Droid.Resource.Attribute.state_lifted = global::TestApp.Droid.Resource.Attribute.state_lifted;
+			global::PanCardView.Droid.Resource.Attribute.statusBarBackground = global::TestApp.Droid.Resource.Attribute.statusBarBackground;
+			global::PanCardView.Droid.Resource.Attribute.statusBarScrim = global::TestApp.Droid.Resource.Attribute.statusBarScrim;
+			global::PanCardView.Droid.Resource.Attribute.strokeColor = global::TestApp.Droid.Resource.Attribute.strokeColor;
+			global::PanCardView.Droid.Resource.Attribute.strokeWidth = global::TestApp.Droid.Resource.Attribute.strokeWidth;
+			global::PanCardView.Droid.Resource.Attribute.subMenuArrow = global::TestApp.Droid.Resource.Attribute.subMenuArrow;
+			global::PanCardView.Droid.Resource.Attribute.submitBackground = global::TestApp.Droid.Resource.Attribute.submitBackground;
+			global::PanCardView.Droid.Resource.Attribute.subtitle = global::TestApp.Droid.Resource.Attribute.subtitle;
+			global::PanCardView.Droid.Resource.Attribute.subtitleTextAppearance = global::TestApp.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.subtitleTextColor = global::TestApp.Droid.Resource.Attribute.subtitleTextColor;
+			global::PanCardView.Droid.Resource.Attribute.subtitleTextStyle = global::TestApp.Droid.Resource.Attribute.subtitleTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.suggestionRowLayout = global::TestApp.Droid.Resource.Attribute.suggestionRowLayout;
+			global::PanCardView.Droid.Resource.Attribute.switchMinWidth = global::TestApp.Droid.Resource.Attribute.switchMinWidth;
+			global::PanCardView.Droid.Resource.Attribute.switchPadding = global::TestApp.Droid.Resource.Attribute.switchPadding;
+			global::PanCardView.Droid.Resource.Attribute.switchStyle = global::TestApp.Droid.Resource.Attribute.switchStyle;
+			global::PanCardView.Droid.Resource.Attribute.switchTextAppearance = global::TestApp.Droid.Resource.Attribute.switchTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.tabBackground = global::TestApp.Droid.Resource.Attribute.tabBackground;
+			global::PanCardView.Droid.Resource.Attribute.tabContentStart = global::TestApp.Droid.Resource.Attribute.tabContentStart;
+			global::PanCardView.Droid.Resource.Attribute.tabGravity = global::TestApp.Droid.Resource.Attribute.tabGravity;
+			global::PanCardView.Droid.Resource.Attribute.tabIconTint = global::TestApp.Droid.Resource.Attribute.tabIconTint;
+			global::PanCardView.Droid.Resource.Attribute.tabIconTintMode = global::TestApp.Droid.Resource.Attribute.tabIconTintMode;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicator = global::TestApp.Droid.Resource.Attribute.tabIndicator;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorAnimationDuration = global::TestApp.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorColor = global::TestApp.Droid.Resource.Attribute.tabIndicatorColor;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorFullWidth = global::TestApp.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorGravity = global::TestApp.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::PanCardView.Droid.Resource.Attribute.tabIndicatorHeight = global::TestApp.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::PanCardView.Droid.Resource.Attribute.tabInlineLabel = global::TestApp.Droid.Resource.Attribute.tabInlineLabel;
+			global::PanCardView.Droid.Resource.Attribute.tabMaxWidth = global::TestApp.Droid.Resource.Attribute.tabMaxWidth;
+			global::PanCardView.Droid.Resource.Attribute.tabMinWidth = global::TestApp.Droid.Resource.Attribute.tabMinWidth;
+			global::PanCardView.Droid.Resource.Attribute.tabMode = global::TestApp.Droid.Resource.Attribute.tabMode;
+			global::PanCardView.Droid.Resource.Attribute.tabPadding = global::TestApp.Droid.Resource.Attribute.tabPadding;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingBottom = global::TestApp.Droid.Resource.Attribute.tabPaddingBottom;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingEnd = global::TestApp.Droid.Resource.Attribute.tabPaddingEnd;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingStart = global::TestApp.Droid.Resource.Attribute.tabPaddingStart;
+			global::PanCardView.Droid.Resource.Attribute.tabPaddingTop = global::TestApp.Droid.Resource.Attribute.tabPaddingTop;
+			global::PanCardView.Droid.Resource.Attribute.tabRippleColor = global::TestApp.Droid.Resource.Attribute.tabRippleColor;
+			global::PanCardView.Droid.Resource.Attribute.tabSelectedTextColor = global::TestApp.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::PanCardView.Droid.Resource.Attribute.tabStyle = global::TestApp.Droid.Resource.Attribute.tabStyle;
+			global::PanCardView.Droid.Resource.Attribute.tabTextAppearance = global::TestApp.Droid.Resource.Attribute.tabTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.tabTextColor = global::TestApp.Droid.Resource.Attribute.tabTextColor;
+			global::PanCardView.Droid.Resource.Attribute.tabUnboundedRipple = global::TestApp.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::PanCardView.Droid.Resource.Attribute.textAllCaps = global::TestApp.Droid.Resource.Attribute.textAllCaps;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceBody1 = global::TestApp.Droid.Resource.Attribute.textAppearanceBody1;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceBody2 = global::TestApp.Droid.Resource.Attribute.textAppearanceBody2;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceButton = global::TestApp.Droid.Resource.Attribute.textAppearanceButton;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceCaption = global::TestApp.Droid.Resource.Attribute.textAppearanceCaption;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline1 = global::TestApp.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline2 = global::TestApp.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline3 = global::TestApp.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline4 = global::TestApp.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline5 = global::TestApp.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceHeadline6 = global::TestApp.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::TestApp.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceListItem = global::TestApp.Droid.Resource.Attribute.textAppearanceListItem;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::TestApp.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceListItemSmall = global::TestApp.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceOverline = global::TestApp.Droid.Resource.Attribute.textAppearanceOverline;
+			global::PanCardView.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::TestApp.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::TestApp.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::TestApp.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::TestApp.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSubtitle1 = global::TestApp.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::PanCardView.Droid.Resource.Attribute.textAppearanceSubtitle2 = global::TestApp.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::PanCardView.Droid.Resource.Attribute.textColorAlertDialogListItem = global::TestApp.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::PanCardView.Droid.Resource.Attribute.textColorSearchUrl = global::TestApp.Droid.Resource.Attribute.textColorSearchUrl;
+			global::PanCardView.Droid.Resource.Attribute.textEndPadding = global::TestApp.Droid.Resource.Attribute.textEndPadding;
+			global::PanCardView.Droid.Resource.Attribute.textInputStyle = global::TestApp.Droid.Resource.Attribute.textInputStyle;
+			global::PanCardView.Droid.Resource.Attribute.textStartPadding = global::TestApp.Droid.Resource.Attribute.textStartPadding;
+			global::PanCardView.Droid.Resource.Attribute.theme = global::TestApp.Droid.Resource.Attribute.theme;
+			global::PanCardView.Droid.Resource.Attribute.thickness = global::TestApp.Droid.Resource.Attribute.thickness;
+			global::PanCardView.Droid.Resource.Attribute.thumbTextPadding = global::TestApp.Droid.Resource.Attribute.thumbTextPadding;
+			global::PanCardView.Droid.Resource.Attribute.thumbTint = global::TestApp.Droid.Resource.Attribute.thumbTint;
+			global::PanCardView.Droid.Resource.Attribute.thumbTintMode = global::TestApp.Droid.Resource.Attribute.thumbTintMode;
+			global::PanCardView.Droid.Resource.Attribute.tickMark = global::TestApp.Droid.Resource.Attribute.tickMark;
+			global::PanCardView.Droid.Resource.Attribute.tickMarkTint = global::TestApp.Droid.Resource.Attribute.tickMarkTint;
+			global::PanCardView.Droid.Resource.Attribute.tickMarkTintMode = global::TestApp.Droid.Resource.Attribute.tickMarkTintMode;
+			global::PanCardView.Droid.Resource.Attribute.tint = global::TestApp.Droid.Resource.Attribute.tint;
+			global::PanCardView.Droid.Resource.Attribute.tintMode = global::TestApp.Droid.Resource.Attribute.tintMode;
+			global::PanCardView.Droid.Resource.Attribute.title = global::TestApp.Droid.Resource.Attribute.title;
+			global::PanCardView.Droid.Resource.Attribute.titleEnabled = global::TestApp.Droid.Resource.Attribute.titleEnabled;
+			global::PanCardView.Droid.Resource.Attribute.titleMargin = global::TestApp.Droid.Resource.Attribute.titleMargin;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginBottom = global::TestApp.Droid.Resource.Attribute.titleMarginBottom;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginEnd = global::TestApp.Droid.Resource.Attribute.titleMarginEnd;
+			global::PanCardView.Droid.Resource.Attribute.titleMargins = global::TestApp.Droid.Resource.Attribute.titleMargins;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginStart = global::TestApp.Droid.Resource.Attribute.titleMarginStart;
+			global::PanCardView.Droid.Resource.Attribute.titleMarginTop = global::TestApp.Droid.Resource.Attribute.titleMarginTop;
+			global::PanCardView.Droid.Resource.Attribute.titleTextAppearance = global::TestApp.Droid.Resource.Attribute.titleTextAppearance;
+			global::PanCardView.Droid.Resource.Attribute.titleTextColor = global::TestApp.Droid.Resource.Attribute.titleTextColor;
+			global::PanCardView.Droid.Resource.Attribute.titleTextStyle = global::TestApp.Droid.Resource.Attribute.titleTextStyle;
+			global::PanCardView.Droid.Resource.Attribute.toolbarId = global::TestApp.Droid.Resource.Attribute.toolbarId;
+			global::PanCardView.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::TestApp.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::PanCardView.Droid.Resource.Attribute.toolbarStyle = global::TestApp.Droid.Resource.Attribute.toolbarStyle;
+			global::PanCardView.Droid.Resource.Attribute.tooltipForegroundColor = global::TestApp.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::PanCardView.Droid.Resource.Attribute.tooltipFrameBackground = global::TestApp.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::PanCardView.Droid.Resource.Attribute.tooltipText = global::TestApp.Droid.Resource.Attribute.tooltipText;
+			global::PanCardView.Droid.Resource.Attribute.track = global::TestApp.Droid.Resource.Attribute.track;
+			global::PanCardView.Droid.Resource.Attribute.trackTint = global::TestApp.Droid.Resource.Attribute.trackTint;
+			global::PanCardView.Droid.Resource.Attribute.trackTintMode = global::TestApp.Droid.Resource.Attribute.trackTintMode;
+			global::PanCardView.Droid.Resource.Attribute.ttcIndex = global::TestApp.Droid.Resource.Attribute.ttcIndex;
+			global::PanCardView.Droid.Resource.Attribute.useCompatPadding = global::TestApp.Droid.Resource.Attribute.useCompatPadding;
+			global::PanCardView.Droid.Resource.Attribute.viewInflaterClass = global::TestApp.Droid.Resource.Attribute.viewInflaterClass;
+			global::PanCardView.Droid.Resource.Attribute.voiceIcon = global::TestApp.Droid.Resource.Attribute.voiceIcon;
+			global::PanCardView.Droid.Resource.Attribute.windowActionBar = global::TestApp.Droid.Resource.Attribute.windowActionBar;
+			global::PanCardView.Droid.Resource.Attribute.windowActionBarOverlay = global::TestApp.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::PanCardView.Droid.Resource.Attribute.windowActionModeOverlay = global::TestApp.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedHeightMajor = global::TestApp.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedHeightMinor = global::TestApp.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedWidthMajor = global::TestApp.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::PanCardView.Droid.Resource.Attribute.windowFixedWidthMinor = global::TestApp.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::PanCardView.Droid.Resource.Attribute.windowMinWidthMajor = global::TestApp.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::PanCardView.Droid.Resource.Attribute.windowMinWidthMinor = global::TestApp.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::PanCardView.Droid.Resource.Attribute.windowNoTitle = global::TestApp.Droid.Resource.Attribute.windowNoTitle;
+			global::PanCardView.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::TestApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::PanCardView.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::TestApp.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::PanCardView.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::TestApp.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::PanCardView.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::TestApp.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::PanCardView.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::TestApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::TestApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::TestApp.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::PanCardView.Droid.Resource.Color.abc_btn_colored_text_material = global::TestApp.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::PanCardView.Droid.Resource.Color.abc_color_highlight_material = global::TestApp.Droid.Resource.Color.abc_color_highlight_material;
+			global::PanCardView.Droid.Resource.Color.abc_hint_foreground_material_dark = global::TestApp.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_hint_foreground_material_light = global::TestApp.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_input_method_navigation_guard = global::TestApp.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::TestApp.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::TestApp.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_material_dark = global::TestApp.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_primary_text_material_light = global::TestApp.Droid.Resource.Color.abc_primary_text_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text = global::TestApp.Droid.Resource.Color.abc_search_url_text;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text_normal = global::TestApp.Droid.Resource.Color.abc_search_url_text_normal;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text_pressed = global::TestApp.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::PanCardView.Droid.Resource.Color.abc_search_url_text_selected = global::TestApp.Droid.Resource.Color.abc_search_url_text_selected;
+			global::PanCardView.Droid.Resource.Color.abc_secondary_text_material_dark = global::TestApp.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::PanCardView.Droid.Resource.Color.abc_secondary_text_material_light = global::TestApp.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::PanCardView.Droid.Resource.Color.abc_tint_btn_checkable = global::TestApp.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::PanCardView.Droid.Resource.Color.abc_tint_default = global::TestApp.Droid.Resource.Color.abc_tint_default;
+			global::PanCardView.Droid.Resource.Color.abc_tint_edittext = global::TestApp.Droid.Resource.Color.abc_tint_edittext;
+			global::PanCardView.Droid.Resource.Color.abc_tint_seek_thumb = global::TestApp.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::PanCardView.Droid.Resource.Color.abc_tint_spinner = global::TestApp.Droid.Resource.Color.abc_tint_spinner;
+			global::PanCardView.Droid.Resource.Color.abc_tint_switch_track = global::TestApp.Droid.Resource.Color.abc_tint_switch_track;
+			global::PanCardView.Droid.Resource.Color.accent_material_dark = global::TestApp.Droid.Resource.Color.accent_material_dark;
+			global::PanCardView.Droid.Resource.Color.accent_material_light = global::TestApp.Droid.Resource.Color.accent_material_light;
+			global::PanCardView.Droid.Resource.Color.background_floating_material_dark = global::TestApp.Droid.Resource.Color.background_floating_material_dark;
+			global::PanCardView.Droid.Resource.Color.background_floating_material_light = global::TestApp.Droid.Resource.Color.background_floating_material_light;
+			global::PanCardView.Droid.Resource.Color.background_material_dark = global::TestApp.Droid.Resource.Color.background_material_dark;
+			global::PanCardView.Droid.Resource.Color.background_material_light = global::TestApp.Droid.Resource.Color.background_material_light;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::TestApp.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_disabled_material_light = global::TestApp.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::TestApp.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_inverse_material_light = global::TestApp.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_material_dark = global::TestApp.Droid.Resource.Color.bright_foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.bright_foreground_material_light = global::TestApp.Droid.Resource.Color.bright_foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.browser_actions_bg_grey = global::TestApp.Droid.Resource.Color.browser_actions_bg_grey;
+			global::PanCardView.Droid.Resource.Color.browser_actions_divider_color = global::TestApp.Droid.Resource.Color.browser_actions_divider_color;
+			global::PanCardView.Droid.Resource.Color.browser_actions_text_color = global::TestApp.Droid.Resource.Color.browser_actions_text_color;
+			global::PanCardView.Droid.Resource.Color.browser_actions_title_color = global::TestApp.Droid.Resource.Color.browser_actions_title_color;
+			global::PanCardView.Droid.Resource.Color.button_material_dark = global::TestApp.Droid.Resource.Color.button_material_dark;
+			global::PanCardView.Droid.Resource.Color.button_material_light = global::TestApp.Droid.Resource.Color.button_material_light;
+			global::PanCardView.Droid.Resource.Color.cardview_dark_background = global::TestApp.Droid.Resource.Color.cardview_dark_background;
+			global::PanCardView.Droid.Resource.Color.cardview_light_background = global::TestApp.Droid.Resource.Color.cardview_light_background;
+			global::PanCardView.Droid.Resource.Color.cardview_shadow_end_color = global::TestApp.Droid.Resource.Color.cardview_shadow_end_color;
+			global::PanCardView.Droid.Resource.Color.cardview_shadow_start_color = global::TestApp.Droid.Resource.Color.cardview_shadow_start_color;
+			global::PanCardView.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::TestApp.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::PanCardView.Droid.Resource.Color.design_default_color_primary = global::TestApp.Droid.Resource.Color.design_default_color_primary;
+			global::PanCardView.Droid.Resource.Color.design_default_color_primary_dark = global::TestApp.Droid.Resource.Color.design_default_color_primary_dark;
+			global::PanCardView.Droid.Resource.Color.design_error = global::TestApp.Droid.Resource.Color.design_error;
+			global::PanCardView.Droid.Resource.Color.design_fab_shadow_end_color = global::TestApp.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_shadow_mid_color = global::TestApp.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_shadow_start_color = global::TestApp.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::TestApp.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::TestApp.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::TestApp.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::PanCardView.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::TestApp.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::PanCardView.Droid.Resource.Color.design_snackbar_background_color = global::TestApp.Droid.Resource.Color.design_snackbar_background_color;
+			global::PanCardView.Droid.Resource.Color.design_tint_password_toggle = global::TestApp.Droid.Resource.Color.design_tint_password_toggle;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::TestApp.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_disabled_material_light = global::TestApp.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_material_dark = global::TestApp.Droid.Resource.Color.dim_foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.dim_foreground_material_light = global::TestApp.Droid.Resource.Color.dim_foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.error_color_material_dark = global::TestApp.Droid.Resource.Color.error_color_material_dark;
+			global::PanCardView.Droid.Resource.Color.error_color_material_light = global::TestApp.Droid.Resource.Color.error_color_material_light;
+			global::PanCardView.Droid.Resource.Color.foreground_material_dark = global::TestApp.Droid.Resource.Color.foreground_material_dark;
+			global::PanCardView.Droid.Resource.Color.foreground_material_light = global::TestApp.Droid.Resource.Color.foreground_material_light;
+			global::PanCardView.Droid.Resource.Color.highlighted_text_material_dark = global::TestApp.Droid.Resource.Color.highlighted_text_material_dark;
+			global::PanCardView.Droid.Resource.Color.highlighted_text_material_light = global::TestApp.Droid.Resource.Color.highlighted_text_material_light;
+			global::PanCardView.Droid.Resource.Color.material_blue_grey_800 = global::TestApp.Droid.Resource.Color.material_blue_grey_800;
+			global::PanCardView.Droid.Resource.Color.material_blue_grey_900 = global::TestApp.Droid.Resource.Color.material_blue_grey_900;
+			global::PanCardView.Droid.Resource.Color.material_blue_grey_950 = global::TestApp.Droid.Resource.Color.material_blue_grey_950;
+			global::PanCardView.Droid.Resource.Color.material_deep_teal_200 = global::TestApp.Droid.Resource.Color.material_deep_teal_200;
+			global::PanCardView.Droid.Resource.Color.material_deep_teal_500 = global::TestApp.Droid.Resource.Color.material_deep_teal_500;
+			global::PanCardView.Droid.Resource.Color.material_grey_100 = global::TestApp.Droid.Resource.Color.material_grey_100;
+			global::PanCardView.Droid.Resource.Color.material_grey_300 = global::TestApp.Droid.Resource.Color.material_grey_300;
+			global::PanCardView.Droid.Resource.Color.material_grey_50 = global::TestApp.Droid.Resource.Color.material_grey_50;
+			global::PanCardView.Droid.Resource.Color.material_grey_600 = global::TestApp.Droid.Resource.Color.material_grey_600;
+			global::PanCardView.Droid.Resource.Color.material_grey_800 = global::TestApp.Droid.Resource.Color.material_grey_800;
+			global::PanCardView.Droid.Resource.Color.material_grey_850 = global::TestApp.Droid.Resource.Color.material_grey_850;
+			global::PanCardView.Droid.Resource.Color.material_grey_900 = global::TestApp.Droid.Resource.Color.material_grey_900;
+			global::PanCardView.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::TestApp.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::PanCardView.Droid.Resource.Color.mtrl_bottom_nav_item_tint = global::TestApp.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_bg_color_disabled = global::TestApp.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_bg_color_selector = global::TestApp.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_ripple_color = global::TestApp.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_stroke_color_selector = global::TestApp.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color = global::TestApp.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_text_color_disabled = global::TestApp.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_text_color_selector = global::TestApp.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_btn_transparent_bg_color = global::TestApp.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_background_color = global::TestApp.Droid.Resource.Color.mtrl_chip_background_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_close_icon_tint = global::TestApp.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_ripple_color = global::TestApp.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_chip_text_color = global::TestApp.Droid.Resource.Color.mtrl_chip_text_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_fab_ripple_color = global::TestApp.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_scrim_color = global::TestApp.Droid.Resource.Color.mtrl_scrim_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_colored_ripple_color = global::TestApp.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_icon_color_selector = global::TestApp.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::TestApp.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::TestApp.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::PanCardView.Droid.Resource.Color.mtrl_tabs_ripple_color = global::TestApp.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color = global::TestApp.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_disabled_color = global::TestApp.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::TestApp.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::TestApp.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::PanCardView.Droid.Resource.Color.mtrl_text_btn_text_color_selector = global::TestApp.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::PanCardView.Droid.Resource.Color.notification_action_color_filter = global::TestApp.Droid.Resource.Color.notification_action_color_filter;
+			global::PanCardView.Droid.Resource.Color.notification_icon_bg_color = global::TestApp.Droid.Resource.Color.notification_icon_bg_color;
+			global::PanCardView.Droid.Resource.Color.notification_material_background_media_default_color = global::TestApp.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::PanCardView.Droid.Resource.Color.primary_dark_material_dark = global::TestApp.Droid.Resource.Color.primary_dark_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_dark_material_light = global::TestApp.Droid.Resource.Color.primary_dark_material_light;
+			global::PanCardView.Droid.Resource.Color.primary_material_dark = global::TestApp.Droid.Resource.Color.primary_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_material_light = global::TestApp.Droid.Resource.Color.primary_material_light;
+			global::PanCardView.Droid.Resource.Color.primary_text_default_material_dark = global::TestApp.Droid.Resource.Color.primary_text_default_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_text_default_material_light = global::TestApp.Droid.Resource.Color.primary_text_default_material_light;
+			global::PanCardView.Droid.Resource.Color.primary_text_disabled_material_dark = global::TestApp.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.primary_text_disabled_material_light = global::TestApp.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.ripple_material_dark = global::TestApp.Droid.Resource.Color.ripple_material_dark;
+			global::PanCardView.Droid.Resource.Color.ripple_material_light = global::TestApp.Droid.Resource.Color.ripple_material_light;
+			global::PanCardView.Droid.Resource.Color.secondary_text_default_material_dark = global::TestApp.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::PanCardView.Droid.Resource.Color.secondary_text_default_material_light = global::TestApp.Droid.Resource.Color.secondary_text_default_material_light;
+			global::PanCardView.Droid.Resource.Color.secondary_text_disabled_material_dark = global::TestApp.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.secondary_text_disabled_material_light = global::TestApp.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::TestApp.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_disabled_material_light = global::TestApp.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_material_dark = global::TestApp.Droid.Resource.Color.switch_thumb_material_dark;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_material_light = global::TestApp.Droid.Resource.Color.switch_thumb_material_light;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_normal_material_dark = global::TestApp.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::PanCardView.Droid.Resource.Color.switch_thumb_normal_material_light = global::TestApp.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::PanCardView.Droid.Resource.Color.tooltip_background_dark = global::TestApp.Droid.Resource.Color.tooltip_background_dark;
+			global::PanCardView.Droid.Resource.Color.tooltip_background_light = global::TestApp.Droid.Resource.Color.tooltip_background_light;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::TestApp.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::TestApp.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::TestApp.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::TestApp.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_button_min_height_material = global::TestApp.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_button_min_width_material = global::TestApp.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::TestApp.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::TestApp.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::PanCardView.Droid.Resource.Dimension.abc_alert_dialog_button_dimen = global::TestApp.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::TestApp.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::TestApp.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::TestApp.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::TestApp.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::TestApp.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::TestApp.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::PanCardView.Droid.Resource.Dimension.abc_control_corner_material = global::TestApp.Droid.Resource.Dimension.abc_control_corner_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_control_inset_material = global::TestApp.Droid.Resource.Dimension.abc_control_inset_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_control_padding_material = global::TestApp.Droid.Resource.Dimension.abc_control_padding_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_corner_radius_material = global::TestApp.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::TestApp.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::TestApp.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::TestApp.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::TestApp.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::TestApp.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::TestApp.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_min_width_major = global::TestApp.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::TestApp.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_padding_material = global::TestApp.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::TestApp.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::TestApp.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::TestApp.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::TestApp.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::TestApp.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::TestApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::TestApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::PanCardView.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::TestApp.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::TestApp.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::TestApp.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_floating_window_z = global::TestApp.Droid.Resource.Dimension.abc_floating_window_z;
+			global::PanCardView.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::TestApp.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_panel_menu_list_width = global::TestApp.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_progress_bar_height_material = global::TestApp.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_search_view_preferred_height = global::TestApp.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::PanCardView.Droid.Resource.Dimension.abc_search_view_preferred_width = global::TestApp.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::PanCardView.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::TestApp.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::TestApp.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::TestApp.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_switch_padding = global::TestApp.Droid.Resource.Dimension.abc_switch_padding;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_body_1_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_body_2_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_button_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_caption_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_1_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_2_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_3_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_display_4_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_headline_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_large_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_medium_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_menu_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_small_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_subhead_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::TestApp.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_title_material = global::TestApp.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::PanCardView.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::TestApp.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::PanCardView.Droid.Resource.Dimension.browser_actions_context_menu_max_width = global::TestApp.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::PanCardView.Droid.Resource.Dimension.browser_actions_context_menu_min_padding = global::TestApp.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::PanCardView.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::TestApp.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::PanCardView.Droid.Resource.Dimension.cardview_default_elevation = global::TestApp.Droid.Resource.Dimension.cardview_default_elevation;
+			global::PanCardView.Droid.Resource.Dimension.cardview_default_radius = global::TestApp.Droid.Resource.Dimension.cardview_default_radius;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::TestApp.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::TestApp.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::TestApp.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::TestApp.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_control_corner_material = global::TestApp.Droid.Resource.Dimension.compat_control_corner_material;
+			global::PanCardView.Droid.Resource.Dimension.compat_notification_large_icon_max_height = global::TestApp.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::PanCardView.Droid.Resource.Dimension.compat_notification_large_icon_max_width = global::TestApp.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_appbar_elevation = global::TestApp.Droid.Resource.Dimension.design_appbar_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_height = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_icon_size = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_margin = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::TestApp.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::TestApp.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::TestApp.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_border_width = global::TestApp.Droid.Resource.Dimension.design_fab_border_width;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_elevation = global::TestApp.Droid.Resource.Dimension.design_fab_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_image_size = global::TestApp.Droid.Resource.Dimension.design_fab_image_size;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_size_mini = global::TestApp.Droid.Resource.Dimension.design_fab_size_mini;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_size_normal = global::TestApp.Droid.Resource.Dimension.design_fab_size_normal;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused = global::TestApp.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::PanCardView.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::TestApp.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_elevation = global::TestApp.Droid.Resource.Dimension.design_navigation_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_icon_padding = global::TestApp.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_icon_size = global::TestApp.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_item_horizontal_padding = global::TestApp.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_item_icon_padding = global::TestApp.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_max_width = global::TestApp.Droid.Resource.Dimension.design_navigation_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_padding_bottom = global::TestApp.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::PanCardView.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::TestApp.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::TestApp.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::TestApp.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_elevation = global::TestApp.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::TestApp.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_max_width = global::TestApp.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_min_width = global::TestApp.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::TestApp.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::TestApp.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::TestApp.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::PanCardView.Droid.Resource.Dimension.design_snackbar_text_size = global::TestApp.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_max_width = global::TestApp.Droid.Resource.Dimension.design_tab_max_width;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::TestApp.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_text_size = global::TestApp.Droid.Resource.Dimension.design_tab_text_size;
+			global::PanCardView.Droid.Resource.Dimension.design_tab_text_size_2line = global::TestApp.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::PanCardView.Droid.Resource.Dimension.design_textinput_caption_translate_y = global::TestApp.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::PanCardView.Droid.Resource.Dimension.disabled_alpha_material_dark = global::TestApp.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.disabled_alpha_material_light = global::TestApp.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.fastscroll_default_thickness = global::TestApp.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::PanCardView.Droid.Resource.Dimension.fastscroll_margin = global::TestApp.Droid.Resource.Dimension.fastscroll_margin;
+			global::PanCardView.Droid.Resource.Dimension.fastscroll_minimum_range = global::TestApp.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::PanCardView.Droid.Resource.Dimension.highlight_alpha_material_colored = global::TestApp.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::PanCardView.Droid.Resource.Dimension.highlight_alpha_material_dark = global::TestApp.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.highlight_alpha_material_light = global::TestApp.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.hint_alpha_material_dark = global::TestApp.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.hint_alpha_material_light = global::TestApp.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::TestApp.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::PanCardView.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::TestApp.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::PanCardView.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::TestApp.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::PanCardView.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::TestApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::PanCardView.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::TestApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::TestApp.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::TestApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::TestApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::TestApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_bottomappbar_height = global::TestApp.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_corner_radius = global::TestApp.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::TestApp.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_disabled_elevation = global::TestApp.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_disabled_z = global::TestApp.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_elevation = global::TestApp.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_focused_z = global::TestApp.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_hovered_z = global::TestApp.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::TestApp.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_icon_padding = global::TestApp.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_inset = global::TestApp.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_letter_spacing = global::TestApp.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_bottom = global::TestApp.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_left = global::TestApp.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_right = global::TestApp.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_padding_top = global::TestApp.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_pressed_z = global::TestApp.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_stroke_size = global::TestApp.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::TestApp.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::TestApp.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::TestApp.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_text_size = global::TestApp.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_btn_z = global::TestApp.Droid.Resource.Dimension.mtrl_btn_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_card_elevation = global::TestApp.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_card_spacing = global::TestApp.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z = global::TestApp.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_chip_text_size = global::TestApp.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_fab_elevation = global::TestApp.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::TestApp.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed = global::TestApp.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_navigation_elevation = global::TestApp.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::TestApp.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding = global::TestApp.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::TestApp.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_snackbar_margin = global::TestApp.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_padding_end = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::TestApp.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::PanCardView.Droid.Resource.Dimension.mtrl_toolbar_default_height = global::TestApp.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::PanCardView.Droid.Resource.Dimension.notification_action_icon_size = global::TestApp.Droid.Resource.Dimension.notification_action_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_action_text_size = global::TestApp.Droid.Resource.Dimension.notification_action_text_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_big_circle_margin = global::TestApp.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::PanCardView.Droid.Resource.Dimension.notification_content_margin_start = global::TestApp.Droid.Resource.Dimension.notification_content_margin_start;
+			global::PanCardView.Droid.Resource.Dimension.notification_large_icon_height = global::TestApp.Droid.Resource.Dimension.notification_large_icon_height;
+			global::PanCardView.Droid.Resource.Dimension.notification_large_icon_width = global::TestApp.Droid.Resource.Dimension.notification_large_icon_width;
+			global::PanCardView.Droid.Resource.Dimension.notification_main_column_padding_top = global::TestApp.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::PanCardView.Droid.Resource.Dimension.notification_media_narrow_margin = global::TestApp.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::PanCardView.Droid.Resource.Dimension.notification_right_icon_size = global::TestApp.Droid.Resource.Dimension.notification_right_icon_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_right_side_padding_top = global::TestApp.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::PanCardView.Droid.Resource.Dimension.notification_small_icon_background_padding = global::TestApp.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::PanCardView.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::TestApp.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::PanCardView.Droid.Resource.Dimension.notification_subtext_size = global::TestApp.Droid.Resource.Dimension.notification_subtext_size;
+			global::PanCardView.Droid.Resource.Dimension.notification_top_pad = global::TestApp.Droid.Resource.Dimension.notification_top_pad;
+			global::PanCardView.Droid.Resource.Dimension.notification_top_pad_large_text = global::TestApp.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_corner_radius = global::TestApp.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_outline_width = global::TestApp.Droid.Resource.Dimension.subtitle_outline_width;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_shadow_offset = global::TestApp.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::PanCardView.Droid.Resource.Dimension.subtitle_shadow_radius = global::TestApp.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_corner_radius = global::TestApp.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_horizontal_padding = global::TestApp.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_margin = global::TestApp.Droid.Resource.Dimension.tooltip_margin;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::TestApp.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::TestApp.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_vertical_padding = global::TestApp.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::TestApp.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::PanCardView.Droid.Resource.Dimension.tooltip_y_offset_touch = global::TestApp.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::PanCardView.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::TestApp.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_borderless_material = global::TestApp.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_check_material = global::TestApp.Droid.Resource.Drawable.abc_btn_check_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::TestApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::TestApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_colored_material = global::TestApp.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::TestApp.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_radio_material = global::TestApp.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::TestApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::TestApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::TestApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::PanCardView.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::TestApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::PanCardView.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::TestApp.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::PanCardView.Droid.Resource.Drawable.abc_cab_background_top_material = global::TestApp.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_control_background_material = global::TestApp.Droid.Resource.Drawable.abc_control_background_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_dialog_material_background = global::TestApp.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::PanCardView.Droid.Resource.Drawable.abc_edit_text_material = global::TestApp.Droid.Resource.Drawable.abc_edit_text_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_ab_back_material = global::TestApp.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::TestApp.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_clear_material = global::TestApp.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::TestApp.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::TestApp.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::TestApp.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::TestApp.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_search_api_material = global::TestApp.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::TestApp.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::TestApp.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::TestApp.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::TestApp.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::TestApp.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::TestApp.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::PanCardView.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::TestApp.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_item_background_holo_dark = global::TestApp.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_item_background_holo_light = global::TestApp.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_divider_material = global::TestApp.Droid.Resource.Drawable.abc_list_divider_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_focused_holo = global::TestApp.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_longpressed_holo = global::TestApp.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::TestApp.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::TestApp.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::TestApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::TestApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::TestApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::TestApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::TestApp.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_list_selector_holo_light = global::TestApp.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::TestApp.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::PanCardView.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::TestApp.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::PanCardView.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::TestApp.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ratingbar_material = global::TestApp.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_ratingbar_small_material = global::TestApp.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::TestApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::TestApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::TestApp.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::TestApp.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_seekbar_track_material = global::TestApp.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::TestApp.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::TestApp.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_switch_thumb_material = global::TestApp.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_tab_indicator_material = global::TestApp.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::TestApp.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::PanCardView.Droid.Resource.Drawable.abc_textfield_search_material = global::TestApp.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_cursor_material = global::TestApp.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::TestApp.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::TestApp.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::TestApp.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::TestApp.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::TestApp.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::PanCardView.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::TestApp.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::PanCardView.Droid.Resource.Drawable.abc_vector_test = global::TestApp.Droid.Resource.Drawable.abc_vector_test;
+			global::PanCardView.Droid.Resource.Drawable.avd_hide_password = global::TestApp.Droid.Resource.Drawable.avd_hide_password;
+			global::PanCardView.Droid.Resource.Drawable.avd_show_password = global::TestApp.Droid.Resource.Drawable.avd_show_password;
+			global::PanCardView.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::TestApp.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::PanCardView.Droid.Resource.Drawable.design_fab_background = global::TestApp.Droid.Resource.Drawable.design_fab_background;
+			global::PanCardView.Droid.Resource.Drawable.design_ic_visibility = global::TestApp.Droid.Resource.Drawable.design_ic_visibility;
+			global::PanCardView.Droid.Resource.Drawable.design_ic_visibility_off = global::TestApp.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::PanCardView.Droid.Resource.Drawable.design_password_eye = global::TestApp.Droid.Resource.Drawable.design_password_eye;
+			global::PanCardView.Droid.Resource.Drawable.design_snackbar_background = global::TestApp.Droid.Resource.Drawable.design_snackbar_background;
+			global::PanCardView.Droid.Resource.Drawable.ic_mtrl_chip_checked_black = global::TestApp.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::PanCardView.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle = global::TestApp.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::PanCardView.Droid.Resource.Drawable.ic_mtrl_chip_close_circle = global::TestApp.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::PanCardView.Droid.Resource.Drawable.mtrl_snackbar_background = global::TestApp.Droid.Resource.Drawable.mtrl_snackbar_background;
+			global::PanCardView.Droid.Resource.Drawable.mtrl_tabs_default_indicator = global::TestApp.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::PanCardView.Droid.Resource.Drawable.navigation_empty_icon = global::TestApp.Droid.Resource.Drawable.navigation_empty_icon;
+			global::PanCardView.Droid.Resource.Drawable.notification_action_background = global::TestApp.Droid.Resource.Drawable.notification_action_background;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg = global::TestApp.Droid.Resource.Drawable.notification_bg;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_low = global::TestApp.Droid.Resource.Drawable.notification_bg_low;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_low_normal = global::TestApp.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_low_pressed = global::TestApp.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_normal = global::TestApp.Droid.Resource.Drawable.notification_bg_normal;
+			global::PanCardView.Droid.Resource.Drawable.notification_bg_normal_pressed = global::TestApp.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::PanCardView.Droid.Resource.Drawable.notification_icon_background = global::TestApp.Droid.Resource.Drawable.notification_icon_background;
+			global::PanCardView.Droid.Resource.Drawable.notification_template_icon_bg = global::TestApp.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::PanCardView.Droid.Resource.Drawable.notification_template_icon_low_bg = global::TestApp.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::PanCardView.Droid.Resource.Drawable.notification_tile_bg = global::TestApp.Droid.Resource.Drawable.notification_tile_bg;
+			global::PanCardView.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::TestApp.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::PanCardView.Droid.Resource.Drawable.tooltip_frame_dark = global::TestApp.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::PanCardView.Droid.Resource.Drawable.tooltip_frame_light = global::TestApp.Droid.Resource.Drawable.tooltip_frame_light;
+			global::PanCardView.Droid.Resource.Id.action0 = global::TestApp.Droid.Resource.Id.action0;
+			global::PanCardView.Droid.Resource.Id.actions = global::TestApp.Droid.Resource.Id.actions;
+			global::PanCardView.Droid.Resource.Id.action_bar = global::TestApp.Droid.Resource.Id.action_bar;
+			global::PanCardView.Droid.Resource.Id.action_bar_activity_content = global::TestApp.Droid.Resource.Id.action_bar_activity_content;
+			global::PanCardView.Droid.Resource.Id.action_bar_container = global::TestApp.Droid.Resource.Id.action_bar_container;
+			global::PanCardView.Droid.Resource.Id.action_bar_root = global::TestApp.Droid.Resource.Id.action_bar_root;
+			global::PanCardView.Droid.Resource.Id.action_bar_spinner = global::TestApp.Droid.Resource.Id.action_bar_spinner;
+			global::PanCardView.Droid.Resource.Id.action_bar_subtitle = global::TestApp.Droid.Resource.Id.action_bar_subtitle;
+			global::PanCardView.Droid.Resource.Id.action_bar_title = global::TestApp.Droid.Resource.Id.action_bar_title;
+			global::PanCardView.Droid.Resource.Id.action_container = global::TestApp.Droid.Resource.Id.action_container;
+			global::PanCardView.Droid.Resource.Id.action_context_bar = global::TestApp.Droid.Resource.Id.action_context_bar;
+			global::PanCardView.Droid.Resource.Id.action_divider = global::TestApp.Droid.Resource.Id.action_divider;
+			global::PanCardView.Droid.Resource.Id.action_image = global::TestApp.Droid.Resource.Id.action_image;
+			global::PanCardView.Droid.Resource.Id.action_menu_divider = global::TestApp.Droid.Resource.Id.action_menu_divider;
+			global::PanCardView.Droid.Resource.Id.action_menu_presenter = global::TestApp.Droid.Resource.Id.action_menu_presenter;
+			global::PanCardView.Droid.Resource.Id.action_mode_bar = global::TestApp.Droid.Resource.Id.action_mode_bar;
+			global::PanCardView.Droid.Resource.Id.action_mode_bar_stub = global::TestApp.Droid.Resource.Id.action_mode_bar_stub;
+			global::PanCardView.Droid.Resource.Id.action_mode_close_button = global::TestApp.Droid.Resource.Id.action_mode_close_button;
+			global::PanCardView.Droid.Resource.Id.action_text = global::TestApp.Droid.Resource.Id.action_text;
+			global::PanCardView.Droid.Resource.Id.activity_chooser_view_content = global::TestApp.Droid.Resource.Id.activity_chooser_view_content;
+			global::PanCardView.Droid.Resource.Id.add = global::TestApp.Droid.Resource.Id.add;
+			global::PanCardView.Droid.Resource.Id.alertTitle = global::TestApp.Droid.Resource.Id.alertTitle;
+			global::PanCardView.Droid.Resource.Id.all = global::TestApp.Droid.Resource.Id.all;
+			global::PanCardView.Droid.Resource.Id.ALT = global::TestApp.Droid.Resource.Id.ALT;
+			global::PanCardView.Droid.Resource.Id.always = global::TestApp.Droid.Resource.Id.always;
+			global::PanCardView.Droid.Resource.Id.async = global::TestApp.Droid.Resource.Id.async;
+			global::PanCardView.Droid.Resource.Id.auto = global::TestApp.Droid.Resource.Id.auto;
+			global::PanCardView.Droid.Resource.Id.beginning = global::TestApp.Droid.Resource.Id.beginning;
+			global::PanCardView.Droid.Resource.Id.blocking = global::TestApp.Droid.Resource.Id.blocking;
+			global::PanCardView.Droid.Resource.Id.bottom = global::TestApp.Droid.Resource.Id.bottom;
+			global::PanCardView.Droid.Resource.Id.bottomtab_navarea = global::TestApp.Droid.Resource.Id.bottomtab_navarea;
+			global::PanCardView.Droid.Resource.Id.bottomtab_tabbar = global::TestApp.Droid.Resource.Id.bottomtab_tabbar;
+			global::PanCardView.Droid.Resource.Id.browser_actions_header_text = global::TestApp.Droid.Resource.Id.browser_actions_header_text;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_items = global::TestApp.Droid.Resource.Id.browser_actions_menu_items;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_item_icon = global::TestApp.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_item_text = global::TestApp.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::PanCardView.Droid.Resource.Id.browser_actions_menu_view = global::TestApp.Droid.Resource.Id.browser_actions_menu_view;
+			global::PanCardView.Droid.Resource.Id.buttonPanel = global::TestApp.Droid.Resource.Id.buttonPanel;
+			global::PanCardView.Droid.Resource.Id.cancel_action = global::TestApp.Droid.Resource.Id.cancel_action;
+			global::PanCardView.Droid.Resource.Id.center = global::TestApp.Droid.Resource.Id.center;
+			global::PanCardView.Droid.Resource.Id.center_horizontal = global::TestApp.Droid.Resource.Id.center_horizontal;
+			global::PanCardView.Droid.Resource.Id.center_vertical = global::TestApp.Droid.Resource.Id.center_vertical;
+			global::PanCardView.Droid.Resource.Id.checkbox = global::TestApp.Droid.Resource.Id.checkbox;
+			global::PanCardView.Droid.Resource.Id.chronometer = global::TestApp.Droid.Resource.Id.chronometer;
+			global::PanCardView.Droid.Resource.Id.clip_horizontal = global::TestApp.Droid.Resource.Id.clip_horizontal;
+			global::PanCardView.Droid.Resource.Id.clip_vertical = global::TestApp.Droid.Resource.Id.clip_vertical;
+			global::PanCardView.Droid.Resource.Id.collapseActionView = global::TestApp.Droid.Resource.Id.collapseActionView;
+			global::PanCardView.Droid.Resource.Id.container = global::TestApp.Droid.Resource.Id.container;
+			global::PanCardView.Droid.Resource.Id.content = global::TestApp.Droid.Resource.Id.content;
+			global::PanCardView.Droid.Resource.Id.contentPanel = global::TestApp.Droid.Resource.Id.contentPanel;
+			global::PanCardView.Droid.Resource.Id.coordinator = global::TestApp.Droid.Resource.Id.coordinator;
+			global::PanCardView.Droid.Resource.Id.CTRL = global::TestApp.Droid.Resource.Id.CTRL;
+			global::PanCardView.Droid.Resource.Id.custom = global::TestApp.Droid.Resource.Id.custom;
+			global::PanCardView.Droid.Resource.Id.customPanel = global::TestApp.Droid.Resource.Id.customPanel;
+			global::PanCardView.Droid.Resource.Id.decor_content_parent = global::TestApp.Droid.Resource.Id.decor_content_parent;
+			global::PanCardView.Droid.Resource.Id.default_activity_button = global::TestApp.Droid.Resource.Id.default_activity_button;
+			global::PanCardView.Droid.Resource.Id.design_bottom_sheet = global::TestApp.Droid.Resource.Id.design_bottom_sheet;
+			global::PanCardView.Droid.Resource.Id.design_menu_item_action_area = global::TestApp.Droid.Resource.Id.design_menu_item_action_area;
+			global::PanCardView.Droid.Resource.Id.design_menu_item_action_area_stub = global::TestApp.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::PanCardView.Droid.Resource.Id.design_menu_item_text = global::TestApp.Droid.Resource.Id.design_menu_item_text;
+			global::PanCardView.Droid.Resource.Id.design_navigation_view = global::TestApp.Droid.Resource.Id.design_navigation_view;
+			global::PanCardView.Droid.Resource.Id.disableHome = global::TestApp.Droid.Resource.Id.disableHome;
+			global::PanCardView.Droid.Resource.Id.edit_query = global::TestApp.Droid.Resource.Id.edit_query;
+			global::PanCardView.Droid.Resource.Id.end = global::TestApp.Droid.Resource.Id.end;
+			global::PanCardView.Droid.Resource.Id.end_padder = global::TestApp.Droid.Resource.Id.end_padder;
+			global::PanCardView.Droid.Resource.Id.enterAlways = global::TestApp.Droid.Resource.Id.enterAlways;
+			global::PanCardView.Droid.Resource.Id.enterAlwaysCollapsed = global::TestApp.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::PanCardView.Droid.Resource.Id.exitUntilCollapsed = global::TestApp.Droid.Resource.Id.exitUntilCollapsed;
+			global::PanCardView.Droid.Resource.Id.expanded_menu = global::TestApp.Droid.Resource.Id.expanded_menu;
+			global::PanCardView.Droid.Resource.Id.expand_activities_button = global::TestApp.Droid.Resource.Id.expand_activities_button;
+			global::PanCardView.Droid.Resource.Id.fill = global::TestApp.Droid.Resource.Id.fill;
+			global::PanCardView.Droid.Resource.Id.filled = global::TestApp.Droid.Resource.Id.filled;
+			global::PanCardView.Droid.Resource.Id.fill_horizontal = global::TestApp.Droid.Resource.Id.fill_horizontal;
+			global::PanCardView.Droid.Resource.Id.fill_vertical = global::TestApp.Droid.Resource.Id.fill_vertical;
+			global::PanCardView.Droid.Resource.Id.@fixed = global::TestApp.Droid.Resource.Id.@fixed;
+			global::PanCardView.Droid.Resource.Id.flyoutcontent_appbar = global::TestApp.Droid.Resource.Id.flyoutcontent_appbar;
+			global::PanCardView.Droid.Resource.Id.flyoutcontent_recycler = global::TestApp.Droid.Resource.Id.flyoutcontent_recycler;
+			global::PanCardView.Droid.Resource.Id.forever = global::TestApp.Droid.Resource.Id.forever;
+			global::PanCardView.Droid.Resource.Id.FUNCTION = global::TestApp.Droid.Resource.Id.FUNCTION;
+			global::PanCardView.Droid.Resource.Id.ghost_view = global::TestApp.Droid.Resource.Id.ghost_view;
+			global::PanCardView.Droid.Resource.Id.group_divider = global::TestApp.Droid.Resource.Id.group_divider;
+			global::PanCardView.Droid.Resource.Id.home = global::TestApp.Droid.Resource.Id.home;
+			global::PanCardView.Droid.Resource.Id.homeAsUp = global::TestApp.Droid.Resource.Id.homeAsUp;
+			global::PanCardView.Droid.Resource.Id.icon = global::TestApp.Droid.Resource.Id.icon;
+			global::PanCardView.Droid.Resource.Id.icon_group = global::TestApp.Droid.Resource.Id.icon_group;
+			global::PanCardView.Droid.Resource.Id.ifRoom = global::TestApp.Droid.Resource.Id.ifRoom;
+			global::PanCardView.Droid.Resource.Id.image = global::TestApp.Droid.Resource.Id.image;
+			global::PanCardView.Droid.Resource.Id.info = global::TestApp.Droid.Resource.Id.info;
+			global::PanCardView.Droid.Resource.Id.italic = global::TestApp.Droid.Resource.Id.italic;
+			global::PanCardView.Droid.Resource.Id.item_touch_helper_previous_elevation = global::TestApp.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::PanCardView.Droid.Resource.Id.labeled = global::TestApp.Droid.Resource.Id.labeled;
+			global::PanCardView.Droid.Resource.Id.largeLabel = global::TestApp.Droid.Resource.Id.largeLabel;
+			global::PanCardView.Droid.Resource.Id.left = global::TestApp.Droid.Resource.Id.left;
+			global::PanCardView.Droid.Resource.Id.line1 = global::TestApp.Droid.Resource.Id.line1;
+			global::PanCardView.Droid.Resource.Id.line3 = global::TestApp.Droid.Resource.Id.line3;
+			global::PanCardView.Droid.Resource.Id.listMode = global::TestApp.Droid.Resource.Id.listMode;
+			global::PanCardView.Droid.Resource.Id.list_item = global::TestApp.Droid.Resource.Id.list_item;
+			global::PanCardView.Droid.Resource.Id.main_appbar = global::TestApp.Droid.Resource.Id.main_appbar;
+			global::PanCardView.Droid.Resource.Id.main_tablayout = global::TestApp.Droid.Resource.Id.main_tablayout;
+			global::PanCardView.Droid.Resource.Id.main_toolbar = global::TestApp.Droid.Resource.Id.main_toolbar;
+			global::PanCardView.Droid.Resource.Id.main_viewpager = global::TestApp.Droid.Resource.Id.main_viewpager;
+			global::PanCardView.Droid.Resource.Id.masked = global::TestApp.Droid.Resource.Id.masked;
+			global::PanCardView.Droid.Resource.Id.media_actions = global::TestApp.Droid.Resource.Id.media_actions;
+			global::PanCardView.Droid.Resource.Id.message = global::TestApp.Droid.Resource.Id.message;
+			global::PanCardView.Droid.Resource.Id.META = global::TestApp.Droid.Resource.Id.META;
+			global::PanCardView.Droid.Resource.Id.middle = global::TestApp.Droid.Resource.Id.middle;
+			global::PanCardView.Droid.Resource.Id.mini = global::TestApp.Droid.Resource.Id.mini;
+			global::PanCardView.Droid.Resource.Id.mtrl_child_content_container = global::TestApp.Droid.Resource.Id.mtrl_child_content_container;
+			global::PanCardView.Droid.Resource.Id.mtrl_internal_children_alpha_tag = global::TestApp.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::PanCardView.Droid.Resource.Id.multiply = global::TestApp.Droid.Resource.Id.multiply;
+			global::PanCardView.Droid.Resource.Id.navigation_header_container = global::TestApp.Droid.Resource.Id.navigation_header_container;
+			global::PanCardView.Droid.Resource.Id.never = global::TestApp.Droid.Resource.Id.never;
+			global::PanCardView.Droid.Resource.Id.none = global::TestApp.Droid.Resource.Id.none;
+			global::PanCardView.Droid.Resource.Id.normal = global::TestApp.Droid.Resource.Id.normal;
+			global::PanCardView.Droid.Resource.Id.notification_background = global::TestApp.Droid.Resource.Id.notification_background;
+			global::PanCardView.Droid.Resource.Id.notification_main_column = global::TestApp.Droid.Resource.Id.notification_main_column;
+			global::PanCardView.Droid.Resource.Id.notification_main_column_container = global::TestApp.Droid.Resource.Id.notification_main_column_container;
+			global::PanCardView.Droid.Resource.Id.outline = global::TestApp.Droid.Resource.Id.outline;
+			global::PanCardView.Droid.Resource.Id.parallax = global::TestApp.Droid.Resource.Id.parallax;
+			global::PanCardView.Droid.Resource.Id.parentPanel = global::TestApp.Droid.Resource.Id.parentPanel;
+			global::PanCardView.Droid.Resource.Id.parent_matrix = global::TestApp.Droid.Resource.Id.parent_matrix;
+			global::PanCardView.Droid.Resource.Id.pin = global::TestApp.Droid.Resource.Id.pin;
+			global::PanCardView.Droid.Resource.Id.progress_circular = global::TestApp.Droid.Resource.Id.progress_circular;
+			global::PanCardView.Droid.Resource.Id.progress_horizontal = global::TestApp.Droid.Resource.Id.progress_horizontal;
+			global::PanCardView.Droid.Resource.Id.radio = global::TestApp.Droid.Resource.Id.radio;
+			global::PanCardView.Droid.Resource.Id.right = global::TestApp.Droid.Resource.Id.right;
+			global::PanCardView.Droid.Resource.Id.right_icon = global::TestApp.Droid.Resource.Id.right_icon;
+			global::PanCardView.Droid.Resource.Id.right_side = global::TestApp.Droid.Resource.Id.right_side;
+			global::PanCardView.Droid.Resource.Id.save_image_matrix = global::TestApp.Droid.Resource.Id.save_image_matrix;
+			global::PanCardView.Droid.Resource.Id.save_non_transition_alpha = global::TestApp.Droid.Resource.Id.save_non_transition_alpha;
+			global::PanCardView.Droid.Resource.Id.save_scale_type = global::TestApp.Droid.Resource.Id.save_scale_type;
+			global::PanCardView.Droid.Resource.Id.screen = global::TestApp.Droid.Resource.Id.screen;
+			global::PanCardView.Droid.Resource.Id.scroll = global::TestApp.Droid.Resource.Id.scroll;
+			global::PanCardView.Droid.Resource.Id.scrollable = global::TestApp.Droid.Resource.Id.scrollable;
+			global::PanCardView.Droid.Resource.Id.scrollIndicatorDown = global::TestApp.Droid.Resource.Id.scrollIndicatorDown;
+			global::PanCardView.Droid.Resource.Id.scrollIndicatorUp = global::TestApp.Droid.Resource.Id.scrollIndicatorUp;
+			global::PanCardView.Droid.Resource.Id.scrollView = global::TestApp.Droid.Resource.Id.scrollView;
+			global::PanCardView.Droid.Resource.Id.search_badge = global::TestApp.Droid.Resource.Id.search_badge;
+			global::PanCardView.Droid.Resource.Id.search_bar = global::TestApp.Droid.Resource.Id.search_bar;
+			global::PanCardView.Droid.Resource.Id.search_button = global::TestApp.Droid.Resource.Id.search_button;
+			global::PanCardView.Droid.Resource.Id.search_close_btn = global::TestApp.Droid.Resource.Id.search_close_btn;
+			global::PanCardView.Droid.Resource.Id.search_edit_frame = global::TestApp.Droid.Resource.Id.search_edit_frame;
+			global::PanCardView.Droid.Resource.Id.search_go_btn = global::TestApp.Droid.Resource.Id.search_go_btn;
+			global::PanCardView.Droid.Resource.Id.search_mag_icon = global::TestApp.Droid.Resource.Id.search_mag_icon;
+			global::PanCardView.Droid.Resource.Id.search_plate = global::TestApp.Droid.Resource.Id.search_plate;
+			global::PanCardView.Droid.Resource.Id.search_src_text = global::TestApp.Droid.Resource.Id.search_src_text;
+			global::PanCardView.Droid.Resource.Id.search_voice_btn = global::TestApp.Droid.Resource.Id.search_voice_btn;
+			global::PanCardView.Droid.Resource.Id.selected = global::TestApp.Droid.Resource.Id.selected;
+			global::PanCardView.Droid.Resource.Id.select_dialog_listview = global::TestApp.Droid.Resource.Id.select_dialog_listview;
+			global::PanCardView.Droid.Resource.Id.shellcontent_appbar = global::TestApp.Droid.Resource.Id.shellcontent_appbar;
+			global::PanCardView.Droid.Resource.Id.shellcontent_toolbar = global::TestApp.Droid.Resource.Id.shellcontent_toolbar;
+			global::PanCardView.Droid.Resource.Id.SHIFT = global::TestApp.Droid.Resource.Id.SHIFT;
+			global::PanCardView.Droid.Resource.Id.shortcut = global::TestApp.Droid.Resource.Id.shortcut;
+			global::PanCardView.Droid.Resource.Id.showCustom = global::TestApp.Droid.Resource.Id.showCustom;
+			global::PanCardView.Droid.Resource.Id.showHome = global::TestApp.Droid.Resource.Id.showHome;
+			global::PanCardView.Droid.Resource.Id.showTitle = global::TestApp.Droid.Resource.Id.showTitle;
+			global::PanCardView.Droid.Resource.Id.smallLabel = global::TestApp.Droid.Resource.Id.smallLabel;
+			global::PanCardView.Droid.Resource.Id.snackbar_action = global::TestApp.Droid.Resource.Id.snackbar_action;
+			global::PanCardView.Droid.Resource.Id.snackbar_text = global::TestApp.Droid.Resource.Id.snackbar_text;
+			global::PanCardView.Droid.Resource.Id.snap = global::TestApp.Droid.Resource.Id.snap;
+			global::PanCardView.Droid.Resource.Id.snapMargins = global::TestApp.Droid.Resource.Id.snapMargins;
+			global::PanCardView.Droid.Resource.Id.spacer = global::TestApp.Droid.Resource.Id.spacer;
+			global::PanCardView.Droid.Resource.Id.split_action_bar = global::TestApp.Droid.Resource.Id.split_action_bar;
+			global::PanCardView.Droid.Resource.Id.src_atop = global::TestApp.Droid.Resource.Id.src_atop;
+			global::PanCardView.Droid.Resource.Id.src_in = global::TestApp.Droid.Resource.Id.src_in;
+			global::PanCardView.Droid.Resource.Id.src_over = global::TestApp.Droid.Resource.Id.src_over;
+			global::PanCardView.Droid.Resource.Id.start = global::TestApp.Droid.Resource.Id.start;
+			global::PanCardView.Droid.Resource.Id.status_bar_latest_event_content = global::TestApp.Droid.Resource.Id.status_bar_latest_event_content;
+			global::PanCardView.Droid.Resource.Id.stretch = global::TestApp.Droid.Resource.Id.stretch;
+			global::PanCardView.Droid.Resource.Id.submenuarrow = global::TestApp.Droid.Resource.Id.submenuarrow;
+			global::PanCardView.Droid.Resource.Id.submit_area = global::TestApp.Droid.Resource.Id.submit_area;
+			global::PanCardView.Droid.Resource.Id.SYM = global::TestApp.Droid.Resource.Id.SYM;
+			global::PanCardView.Droid.Resource.Id.tabMode = global::TestApp.Droid.Resource.Id.tabMode;
+			global::PanCardView.Droid.Resource.Id.tag_transition_group = global::TestApp.Droid.Resource.Id.tag_transition_group;
+			global::PanCardView.Droid.Resource.Id.tag_unhandled_key_event_manager = global::TestApp.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::PanCardView.Droid.Resource.Id.tag_unhandled_key_listeners = global::TestApp.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::PanCardView.Droid.Resource.Id.text = global::TestApp.Droid.Resource.Id.text;
+			global::PanCardView.Droid.Resource.Id.text2 = global::TestApp.Droid.Resource.Id.text2;
+			global::PanCardView.Droid.Resource.Id.textinput_counter = global::TestApp.Droid.Resource.Id.textinput_counter;
+			global::PanCardView.Droid.Resource.Id.textinput_error = global::TestApp.Droid.Resource.Id.textinput_error;
+			global::PanCardView.Droid.Resource.Id.textinput_helper_text = global::TestApp.Droid.Resource.Id.textinput_helper_text;
+			global::PanCardView.Droid.Resource.Id.textSpacerNoButtons = global::TestApp.Droid.Resource.Id.textSpacerNoButtons;
+			global::PanCardView.Droid.Resource.Id.textSpacerNoTitle = global::TestApp.Droid.Resource.Id.textSpacerNoTitle;
+			global::PanCardView.Droid.Resource.Id.textStart = global::TestApp.Droid.Resource.Id.textStart;
+			global::PanCardView.Droid.Resource.Id.text_input_password_toggle = global::TestApp.Droid.Resource.Id.text_input_password_toggle;
+			global::PanCardView.Droid.Resource.Id.time = global::TestApp.Droid.Resource.Id.time;
+			global::PanCardView.Droid.Resource.Id.title = global::TestApp.Droid.Resource.Id.title;
+			global::PanCardView.Droid.Resource.Id.titleDividerNoCustom = global::TestApp.Droid.Resource.Id.titleDividerNoCustom;
+			global::PanCardView.Droid.Resource.Id.title_template = global::TestApp.Droid.Resource.Id.title_template;
+			global::PanCardView.Droid.Resource.Id.top = global::TestApp.Droid.Resource.Id.top;
+			global::PanCardView.Droid.Resource.Id.topPanel = global::TestApp.Droid.Resource.Id.topPanel;
+			global::PanCardView.Droid.Resource.Id.touch_outside = global::TestApp.Droid.Resource.Id.touch_outside;
+			global::PanCardView.Droid.Resource.Id.transition_current_scene = global::TestApp.Droid.Resource.Id.transition_current_scene;
+			global::PanCardView.Droid.Resource.Id.transition_layout_save = global::TestApp.Droid.Resource.Id.transition_layout_save;
+			global::PanCardView.Droid.Resource.Id.transition_position = global::TestApp.Droid.Resource.Id.transition_position;
+			global::PanCardView.Droid.Resource.Id.transition_scene_layoutid_cache = global::TestApp.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::PanCardView.Droid.Resource.Id.transition_transform = global::TestApp.Droid.Resource.Id.transition_transform;
+			global::PanCardView.Droid.Resource.Id.uniform = global::TestApp.Droid.Resource.Id.uniform;
+			global::PanCardView.Droid.Resource.Id.unlabeled = global::TestApp.Droid.Resource.Id.unlabeled;
+			global::PanCardView.Droid.Resource.Id.up = global::TestApp.Droid.Resource.Id.up;
+			global::PanCardView.Droid.Resource.Id.useLogo = global::TestApp.Droid.Resource.Id.useLogo;
+			global::PanCardView.Droid.Resource.Id.view_offset_helper = global::TestApp.Droid.Resource.Id.view_offset_helper;
+			global::PanCardView.Droid.Resource.Id.visible = global::TestApp.Droid.Resource.Id.visible;
+			global::PanCardView.Droid.Resource.Id.withText = global::TestApp.Droid.Resource.Id.withText;
+			global::PanCardView.Droid.Resource.Id.wrap_content = global::TestApp.Droid.Resource.Id.wrap_content;
+			global::PanCardView.Droid.Resource.Integer.abc_config_activityDefaultDur = global::TestApp.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::PanCardView.Droid.Resource.Integer.abc_config_activityShortDur = global::TestApp.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::PanCardView.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::TestApp.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::PanCardView.Droid.Resource.Integer.bottom_sheet_slide_duration = global::TestApp.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::PanCardView.Droid.Resource.Integer.cancel_button_image_alpha = global::TestApp.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::PanCardView.Droid.Resource.Integer.config_tooltipAnimTime = global::TestApp.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::PanCardView.Droid.Resource.Integer.design_snackbar_text_max_lines = global::TestApp.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::PanCardView.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms = global::TestApp.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.hide_password_duration = global::TestApp.Droid.Resource.Integer.hide_password_duration;
+			global::PanCardView.Droid.Resource.Integer.mtrl_btn_anim_delay_ms = global::TestApp.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::PanCardView.Droid.Resource.Integer.mtrl_btn_anim_duration_ms = global::TestApp.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.mtrl_chip_anim_duration = global::TestApp.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::PanCardView.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::TestApp.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::PanCardView.Droid.Resource.Integer.show_password_duration = global::TestApp.Droid.Resource.Integer.show_password_duration;
+			global::PanCardView.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::TestApp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_fast_out_linear_in = global::TestApp.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_fast_out_slow_in = global::TestApp.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_linear = global::TestApp.Droid.Resource.Interpolator.mtrl_linear;
+			global::PanCardView.Droid.Resource.Interpolator.mtrl_linear_out_slow_in = global::TestApp.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::PanCardView.Droid.Resource.Layout.abc_action_bar_title_item = global::TestApp.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::PanCardView.Droid.Resource.Layout.abc_action_bar_up_container = global::TestApp.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::PanCardView.Droid.Resource.Layout.abc_action_menu_item_layout = global::TestApp.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_action_menu_layout = global::TestApp.Droid.Resource.Layout.abc_action_menu_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_action_mode_bar = global::TestApp.Droid.Resource.Layout.abc_action_mode_bar;
+			global::PanCardView.Droid.Resource.Layout.abc_action_mode_close_item_material = global::TestApp.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::PanCardView.Droid.Resource.Layout.abc_activity_chooser_view = global::TestApp.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::PanCardView.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::TestApp.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::PanCardView.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::TestApp.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::PanCardView.Droid.Resource.Layout.abc_alert_dialog_material = global::TestApp.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::PanCardView.Droid.Resource.Layout.abc_alert_dialog_title_material = global::TestApp.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::PanCardView.Droid.Resource.Layout.abc_cascading_menu_item_layout = global::TestApp.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_dialog_title_material = global::TestApp.Droid.Resource.Layout.abc_dialog_title_material;
+			global::PanCardView.Droid.Resource.Layout.abc_expanded_menu_layout = global::TestApp.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::TestApp.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_icon = global::TestApp.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_layout = global::TestApp.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_list_menu_item_radio = global::TestApp.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::PanCardView.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::TestApp.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_popup_menu_item_layout = global::TestApp.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_content_include = global::TestApp.Droid.Resource.Layout.abc_screen_content_include;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_simple = global::TestApp.Droid.Resource.Layout.abc_screen_simple;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::TestApp.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::PanCardView.Droid.Resource.Layout.abc_screen_toolbar = global::TestApp.Droid.Resource.Layout.abc_screen_toolbar;
+			global::PanCardView.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::TestApp.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::PanCardView.Droid.Resource.Layout.abc_search_view = global::TestApp.Droid.Resource.Layout.abc_search_view;
+			global::PanCardView.Droid.Resource.Layout.abc_select_dialog_material = global::TestApp.Droid.Resource.Layout.abc_select_dialog_material;
+			global::PanCardView.Droid.Resource.Layout.abc_tooltip = global::TestApp.Droid.Resource.Layout.abc_tooltip;
+			global::PanCardView.Droid.Resource.Layout.BottomTabLayout = global::TestApp.Droid.Resource.Layout.BottomTabLayout;
+			global::PanCardView.Droid.Resource.Layout.browser_actions_context_menu_page = global::TestApp.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::PanCardView.Droid.Resource.Layout.browser_actions_context_menu_row = global::TestApp.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::PanCardView.Droid.Resource.Layout.design_bottom_navigation_item = global::TestApp.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::PanCardView.Droid.Resource.Layout.design_bottom_sheet_dialog = global::TestApp.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::PanCardView.Droid.Resource.Layout.design_layout_snackbar = global::TestApp.Droid.Resource.Layout.design_layout_snackbar;
+			global::PanCardView.Droid.Resource.Layout.design_layout_snackbar_include = global::TestApp.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::PanCardView.Droid.Resource.Layout.design_layout_tab_icon = global::TestApp.Droid.Resource.Layout.design_layout_tab_icon;
+			global::PanCardView.Droid.Resource.Layout.design_layout_tab_text = global::TestApp.Droid.Resource.Layout.design_layout_tab_text;
+			global::PanCardView.Droid.Resource.Layout.design_menu_item_action_area = global::TestApp.Droid.Resource.Layout.design_menu_item_action_area;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item = global::TestApp.Droid.Resource.Layout.design_navigation_item;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item_header = global::TestApp.Droid.Resource.Layout.design_navigation_item_header;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item_separator = global::TestApp.Droid.Resource.Layout.design_navigation_item_separator;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_item_subheader = global::TestApp.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_menu = global::TestApp.Droid.Resource.Layout.design_navigation_menu;
+			global::PanCardView.Droid.Resource.Layout.design_navigation_menu_item = global::TestApp.Droid.Resource.Layout.design_navigation_menu_item;
+			global::PanCardView.Droid.Resource.Layout.design_text_input_password_icon = global::TestApp.Droid.Resource.Layout.design_text_input_password_icon;
+			global::PanCardView.Droid.Resource.Layout.FlyoutContent = global::TestApp.Droid.Resource.Layout.FlyoutContent;
+			global::PanCardView.Droid.Resource.Layout.mtrl_layout_snackbar = global::TestApp.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::PanCardView.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::TestApp.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::PanCardView.Droid.Resource.Layout.notification_action = global::TestApp.Droid.Resource.Layout.notification_action;
+			global::PanCardView.Droid.Resource.Layout.notification_action_tombstone = global::TestApp.Droid.Resource.Layout.notification_action_tombstone;
+			global::PanCardView.Droid.Resource.Layout.notification_media_action = global::TestApp.Droid.Resource.Layout.notification_media_action;
+			global::PanCardView.Droid.Resource.Layout.notification_media_cancel_action = global::TestApp.Droid.Resource.Layout.notification_media_cancel_action;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media = global::TestApp.Droid.Resource.Layout.notification_template_big_media;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media_custom = global::TestApp.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media_narrow = global::TestApp.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::PanCardView.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::TestApp.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::PanCardView.Droid.Resource.Layout.notification_template_custom_big = global::TestApp.Droid.Resource.Layout.notification_template_custom_big;
+			global::PanCardView.Droid.Resource.Layout.notification_template_icon_group = global::TestApp.Droid.Resource.Layout.notification_template_icon_group;
+			global::PanCardView.Droid.Resource.Layout.notification_template_lines_media = global::TestApp.Droid.Resource.Layout.notification_template_lines_media;
+			global::PanCardView.Droid.Resource.Layout.notification_template_media = global::TestApp.Droid.Resource.Layout.notification_template_media;
+			global::PanCardView.Droid.Resource.Layout.notification_template_media_custom = global::TestApp.Droid.Resource.Layout.notification_template_media_custom;
+			global::PanCardView.Droid.Resource.Layout.notification_template_part_chronometer = global::TestApp.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::PanCardView.Droid.Resource.Layout.notification_template_part_time = global::TestApp.Droid.Resource.Layout.notification_template_part_time;
+			global::PanCardView.Droid.Resource.Layout.RootLayout = global::TestApp.Droid.Resource.Layout.RootLayout;
+			global::PanCardView.Droid.Resource.Layout.select_dialog_item_material = global::TestApp.Droid.Resource.Layout.select_dialog_item_material;
+			global::PanCardView.Droid.Resource.Layout.select_dialog_multichoice_material = global::TestApp.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::PanCardView.Droid.Resource.Layout.select_dialog_singlechoice_material = global::TestApp.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::PanCardView.Droid.Resource.Layout.ShellContent = global::TestApp.Droid.Resource.Layout.ShellContent;
+			global::PanCardView.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::TestApp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::PanCardView.Droid.Resource.String.abc_action_bar_home_description = global::TestApp.Droid.Resource.String.abc_action_bar_home_description;
+			global::PanCardView.Droid.Resource.String.abc_action_bar_up_description = global::TestApp.Droid.Resource.String.abc_action_bar_up_description;
+			global::PanCardView.Droid.Resource.String.abc_action_menu_overflow_description = global::TestApp.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::PanCardView.Droid.Resource.String.abc_action_mode_done = global::TestApp.Droid.Resource.String.abc_action_mode_done;
+			global::PanCardView.Droid.Resource.String.abc_activitychooserview_choose_application = global::TestApp.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::PanCardView.Droid.Resource.String.abc_activity_chooser_view_see_all = global::TestApp.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::PanCardView.Droid.Resource.String.abc_capital_off = global::TestApp.Droid.Resource.String.abc_capital_off;
+			global::PanCardView.Droid.Resource.String.abc_capital_on = global::TestApp.Droid.Resource.String.abc_capital_on;
+			global::PanCardView.Droid.Resource.String.abc_font_family_body_1_material = global::TestApp.Droid.Resource.String.abc_font_family_body_1_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_body_2_material = global::TestApp.Droid.Resource.String.abc_font_family_body_2_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_button_material = global::TestApp.Droid.Resource.String.abc_font_family_button_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_caption_material = global::TestApp.Droid.Resource.String.abc_font_family_caption_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_1_material = global::TestApp.Droid.Resource.String.abc_font_family_display_1_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_2_material = global::TestApp.Droid.Resource.String.abc_font_family_display_2_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_3_material = global::TestApp.Droid.Resource.String.abc_font_family_display_3_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_display_4_material = global::TestApp.Droid.Resource.String.abc_font_family_display_4_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_headline_material = global::TestApp.Droid.Resource.String.abc_font_family_headline_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_menu_material = global::TestApp.Droid.Resource.String.abc_font_family_menu_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_subhead_material = global::TestApp.Droid.Resource.String.abc_font_family_subhead_material;
+			global::PanCardView.Droid.Resource.String.abc_font_family_title_material = global::TestApp.Droid.Resource.String.abc_font_family_title_material;
+			global::PanCardView.Droid.Resource.String.abc_menu_alt_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_ctrl_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_delete_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_enter_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_function_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_meta_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_shift_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_space_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_menu_sym_shortcut_label = global::TestApp.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_prepend_shortcut_label = global::TestApp.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_clear = global::TestApp.Droid.Resource.String.abc_searchview_description_clear;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_query = global::TestApp.Droid.Resource.String.abc_searchview_description_query;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_search = global::TestApp.Droid.Resource.String.abc_searchview_description_search;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_submit = global::TestApp.Droid.Resource.String.abc_searchview_description_submit;
+			global::PanCardView.Droid.Resource.String.abc_searchview_description_voice = global::TestApp.Droid.Resource.String.abc_searchview_description_voice;
+			global::PanCardView.Droid.Resource.String.abc_search_hint = global::TestApp.Droid.Resource.String.abc_search_hint;
+			global::PanCardView.Droid.Resource.String.abc_shareactionprovider_share_with = global::TestApp.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::PanCardView.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::TestApp.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::PanCardView.Droid.Resource.String.abc_toolbar_collapse_description = global::TestApp.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::PanCardView.Droid.Resource.String.appbar_scrolling_view_behavior = global::TestApp.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::PanCardView.Droid.Resource.String.bottom_sheet_behavior = global::TestApp.Droid.Resource.String.bottom_sheet_behavior;
+			global::PanCardView.Droid.Resource.String.character_counter_content_description = global::TestApp.Droid.Resource.String.character_counter_content_description;
+			global::PanCardView.Droid.Resource.String.character_counter_pattern = global::TestApp.Droid.Resource.String.character_counter_pattern;
+			global::PanCardView.Droid.Resource.String.fab_transformation_scrim_behavior = global::TestApp.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::PanCardView.Droid.Resource.String.fab_transformation_sheet_behavior = global::TestApp.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::PanCardView.Droid.Resource.String.hide_bottom_view_on_scroll_behavior = global::TestApp.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::PanCardView.Droid.Resource.String.library_name = global::TestApp.Droid.Resource.String.library_name;
+			global::PanCardView.Droid.Resource.String.mtrl_chip_close_icon_content_description = global::TestApp.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::PanCardView.Droid.Resource.String.password_toggle_content_description = global::TestApp.Droid.Resource.String.password_toggle_content_description;
+			global::PanCardView.Droid.Resource.String.path_password_eye = global::TestApp.Droid.Resource.String.path_password_eye;
+			global::PanCardView.Droid.Resource.String.path_password_eye_mask_strike_through = global::TestApp.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::PanCardView.Droid.Resource.String.path_password_eye_mask_visible = global::TestApp.Droid.Resource.String.path_password_eye_mask_visible;
+			global::PanCardView.Droid.Resource.String.path_password_strike_through = global::TestApp.Droid.Resource.String.path_password_strike_through;
+			global::PanCardView.Droid.Resource.String.search_menu_title = global::TestApp.Droid.Resource.String.search_menu_title;
+			global::PanCardView.Droid.Resource.String.status_bar_notification_info_overflow = global::TestApp.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::PanCardView.Droid.Resource.Style.AlertDialog_AppCompat = global::TestApp.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::PanCardView.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::TestApp.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Animation_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::TestApp.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::PanCardView.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::TestApp.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::TestApp.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::TestApp.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::TestApp.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::PanCardView.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::TestApp.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.Base_CardView = global::TestApp.Droid.Resource.Style.Base_CardView;
+			global::PanCardView.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::TestApp.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::TestApp.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TestApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TestApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TestApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::TestApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::TestApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::PanCardView.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::TestApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::TestApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents = global::TestApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::TestApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::TestApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::TestApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::TestApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::TestApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::TestApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::TestApp.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::TestApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::TestApp.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::TestApp.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::TestApp.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::TestApp.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Base_V28_Theme_AppCompat = global::TestApp.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::TestApp.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::TestApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::TestApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::TestApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::PanCardView.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::TestApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::TestApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::TestApp.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip = global::TestApp.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::TestApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::PanCardView.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::TestApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::PanCardView.Droid.Resource.Style.CardView = global::TestApp.Droid.Resource.Style.CardView;
+			global::PanCardView.Droid.Resource.Style.CardView_Dark = global::TestApp.Droid.Resource.Style.CardView_Dark;
+			global::PanCardView.Droid.Resource.Style.CardView_Light = global::TestApp.Droid.Resource.Style.CardView_Light;
+			global::PanCardView.Droid.Resource.Style.collectionViewStyle = global::TestApp.Droid.Resource.Style.collectionViewStyle;
+			global::PanCardView.Droid.Resource.Style.NestedScrollBarStyle = global::TestApp.Droid.Resource.Style.NestedScrollBarStyle;
+			global::PanCardView.Droid.Resource.Style.Platform_AppCompat = global::TestApp.Droid.Resource.Style.Platform_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_AppCompat_Light = global::TestApp.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents = global::TestApp.Droid.Resource.Style.Platform_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents_Dialog = global::TestApp.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents_Light = global::TestApp.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::TestApp.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::TestApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::TestApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::PanCardView.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::TestApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_V21_AppCompat = global::TestApp.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::TestApp.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_V25_AppCompat = global::TestApp.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::TestApp.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::TestApp.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::TestApp.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::PanCardView.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::TestApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::PanCardView.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::TestApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::PanCardView.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::TestApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TestApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::TestApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::TestApp.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Counter = global::TestApp.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::TestApp.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Error = global::TestApp.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_HelperText = global::TestApp.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Hint = global::TestApp.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::TestApp.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Design_Tab = global::TestApp.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Button = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab = global::TestApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TestApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TestApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::PanCardView.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::TestApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat = global::TestApp.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::TestApp.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::TestApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::TestApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::TestApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::TestApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::PanCardView.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::TestApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat = global::TestApp.Droid.Resource.Style.Theme_AppCompat;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::TestApp.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Dialog = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::TestApp.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::TestApp.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_Design = global::TestApp.Droid.Resource.Style.Theme_Design;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::TestApp.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_Light = global::TestApp.Droid.Resource.Style.Theme_Design_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::TestApp.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::TestApp.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_Design_NoActionBar = global::TestApp.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Bridge = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Dialog = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::PanCardView.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::TestApp.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::TestApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::TestApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::TestApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::TestApp.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::TestApp.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_EditText = global::TestApp.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::TestApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::TestApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::TestApp.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::TestApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::TestApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::TestApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SearchView = global::TestApp.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::TestApp.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::TestApp.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::TestApp.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::PanCardView.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::TestApp.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::PanCardView.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::TestApp.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_AppBarLayout = global::TestApp.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::TestApp.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::TestApp.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::TestApp.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::TestApp.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_NavigationView = global::TestApp.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::TestApp.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_Snackbar = global::TestApp.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_TabLayout = global::TestApp.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_Design_TextInputLayout = global::TestApp.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_CardView = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_NavigationView = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Snackbar = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TabLayout = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::PanCardView.Droid.Resource.Style.Widget_MaterialComponents_Toolbar = global::TestApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::PanCardView.Droid.Resource.Style.Widget_Support_CoordinatorLayout = global::TestApp.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar = global::TestApp.Droid.Resource.Styleable.ActionBar;
+			global::PanCardView.Droid.Resource.Styleable.ActionBarLayout = global::TestApp.Droid.Resource.Styleable.ActionBarLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::TestApp.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_background = global::TestApp.Droid.Resource.Styleable.ActionBar_background;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::TestApp.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::TestApp.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::TestApp.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::TestApp.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::TestApp.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::TestApp.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::TestApp.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::TestApp.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::TestApp.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_displayOptions = global::TestApp.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_divider = global::TestApp.Droid.Resource.Styleable.ActionBar_divider;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_elevation = global::TestApp.Droid.Resource.Styleable.ActionBar_elevation;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_height = global::TestApp.Droid.Resource.Styleable.ActionBar_height;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::TestApp.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::TestApp.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_homeLayout = global::TestApp.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_icon = global::TestApp.Droid.Resource.Styleable.ActionBar_icon;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::TestApp.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_itemPadding = global::TestApp.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_logo = global::TestApp.Droid.Resource.Styleable.ActionBar_logo;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_navigationMode = global::TestApp.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_popupTheme = global::TestApp.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::TestApp.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::TestApp.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_subtitle = global::TestApp.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::TestApp.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_title = global::TestApp.Droid.Resource.Styleable.ActionBar_title;
+			global::PanCardView.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::TestApp.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionMenuItemView = global::TestApp.Droid.Resource.Styleable.ActionMenuItemView;
+			global::PanCardView.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::TestApp.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::PanCardView.Droid.Resource.Styleable.ActionMenuView = global::TestApp.Droid.Resource.Styleable.ActionMenuView;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode = global::TestApp.Droid.Resource.Styleable.ActionMode;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_background = global::TestApp.Droid.Resource.Styleable.ActionMode_background;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::TestApp.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::TestApp.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_height = global::TestApp.Droid.Resource.Styleable.ActionMode_height;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::TestApp.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::TestApp.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.ActivityChooserView = global::TestApp.Droid.Resource.Styleable.ActivityChooserView;
+			global::PanCardView.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::TestApp.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::PanCardView.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::TestApp.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog = global::TestApp.Droid.Resource.Styleable.AlertDialog;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_android_layout = global::TestApp.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_buttonIconDimen = global::TestApp.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::TestApp.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::TestApp.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_listLayout = global::TestApp.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::TestApp.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_showTitle = global::TestApp.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::PanCardView.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::TestApp.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableItem = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::PanCardView.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::TestApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout = global::TestApp.Droid.Resource.Styleable.AppBarLayout;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates = global::TestApp.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::TestApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::TestApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable = global::TestApp.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted = global::TestApp.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_android_background = global::TestApp.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::TestApp.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::TestApp.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_elevation = global::TestApp.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_expanded = global::TestApp.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_Layout = global::TestApp.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::TestApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::TestApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::PanCardView.Droid.Resource.Styleable.AppBarLayout_liftOnScroll = global::TestApp.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView = global::TestApp.Droid.Resource.Styleable.AppCompatImageView;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_android_src = global::TestApp.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::TestApp.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_tint = global::TestApp.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::TestApp.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar = global::TestApp.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::TestApp.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::TestApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::TestApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::TestApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::TestApp.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView = global::TestApp.Droid.Resource.Styleable.AppCompatTextView;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_lineHeight = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::TestApp.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme = global::TestApp.Droid.Resource.Styleable.AppCompatTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorError = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::PanCardView.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::TestApp.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar = global::TestApp.Droid.Resource.Styleable.BottomAppBar;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_backgroundTint = global::TestApp.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::TestApp.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin = global::TestApp.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::TestApp.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::TestApp.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::PanCardView.Droid.Resource.Styleable.BottomAppBar_hideOnScroll = global::TestApp.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView = global::TestApp.Droid.Resource.Styleable.BottomNavigationView;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_elevation = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemIconSize = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::PanCardView.Droid.Resource.Styleable.BottomNavigationView_menu = global::TestApp.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::TestApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::TestApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::TestApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::TestApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::PanCardView.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::TestApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::PanCardView.Droid.Resource.Styleable.ButtonBarLayout = global::TestApp.Droid.Resource.Styleable.ButtonBarLayout;
+			global::PanCardView.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::TestApp.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::PanCardView.Droid.Resource.Styleable.CardView = global::TestApp.Droid.Resource.Styleable.CardView;
+			global::PanCardView.Droid.Resource.Styleable.CardView_android_minHeight = global::TestApp.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::PanCardView.Droid.Resource.Styleable.CardView_android_minWidth = global::TestApp.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::TestApp.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardCornerRadius = global::TestApp.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardElevation = global::TestApp.Droid.Resource.Styleable.CardView_cardElevation;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardMaxElevation = global::TestApp.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::TestApp.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::PanCardView.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::TestApp.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPadding = global::TestApp.Droid.Resource.Styleable.CardView_contentPadding;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::TestApp.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::TestApp.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingRight = global::TestApp.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::PanCardView.Droid.Resource.Styleable.CardView_contentPaddingTop = global::TestApp.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::PanCardView.Droid.Resource.Styleable.Chip = global::TestApp.Droid.Resource.Styleable.Chip;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup = global::TestApp.Droid.Resource.Styleable.ChipGroup;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_checkedChip = global::TestApp.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_chipSpacing = global::TestApp.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::TestApp.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical = global::TestApp.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_singleLine = global::TestApp.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::PanCardView.Droid.Resource.Styleable.ChipGroup_singleSelection = global::TestApp.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_checkable = global::TestApp.Droid.Resource.Styleable.Chip_android_checkable;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_ellipsize = global::TestApp.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_maxWidth = global::TestApp.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_text = global::TestApp.Droid.Resource.Styleable.Chip_android_text;
+			global::PanCardView.Droid.Resource.Styleable.Chip_android_textAppearance = global::TestApp.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Chip_checkedIcon = global::TestApp.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::PanCardView.Droid.Resource.Styleable.Chip_checkedIconEnabled = global::TestApp.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::PanCardView.Droid.Resource.Styleable.Chip_checkedIconVisible = global::TestApp.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipBackgroundColor = global::TestApp.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipCornerRadius = global::TestApp.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipEndPadding = global::TestApp.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIcon = global::TestApp.Droid.Resource.Styleable.Chip_chipIcon;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconEnabled = global::TestApp.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconSize = global::TestApp.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconTint = global::TestApp.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipIconVisible = global::TestApp.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipMinHeight = global::TestApp.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipStartPadding = global::TestApp.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipStrokeColor = global::TestApp.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::PanCardView.Droid.Resource.Styleable.Chip_chipStrokeWidth = global::TestApp.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIcon = global::TestApp.Droid.Resource.Styleable.Chip_closeIcon;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconEnabled = global::TestApp.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconEndPadding = global::TestApp.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconSize = global::TestApp.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconStartPadding = global::TestApp.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconTint = global::TestApp.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::PanCardView.Droid.Resource.Styleable.Chip_closeIconVisible = global::TestApp.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::PanCardView.Droid.Resource.Styleable.Chip_hideMotionSpec = global::TestApp.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.Chip_iconEndPadding = global::TestApp.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_iconStartPadding = global::TestApp.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_rippleColor = global::TestApp.Droid.Resource.Styleable.Chip_rippleColor;
+			global::PanCardView.Droid.Resource.Styleable.Chip_showMotionSpec = global::TestApp.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.Chip_textEndPadding = global::TestApp.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::PanCardView.Droid.Resource.Styleable.Chip_textStartPadding = global::TestApp.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::PanCardView.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::TestApp.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem = global::TestApp.Droid.Resource.Styleable.ColorStateListItem;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem_alpha = global::TestApp.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::TestApp.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::PanCardView.Droid.Resource.Styleable.ColorStateListItem_android_color = global::TestApp.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton = global::TestApp.Droid.Resource.Styleable.CompoundButton;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton_android_button = global::TestApp.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton_buttonTint = global::TestApp.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::PanCardView.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::TestApp.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::PanCardView.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::TestApp.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::PanCardView.Droid.Resource.Styleable.DesignTheme = global::TestApp.Droid.Resource.Styleable.DesignTheme;
+			global::PanCardView.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::TestApp.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::TestApp.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_color = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::PanCardView.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::TestApp.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton = global::TestApp.Droid.Resource.Styleable.FloatingActionButton;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_elevation = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_maxImageSize = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::PanCardView.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::TestApp.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::PanCardView.Droid.Resource.Styleable.FlowLayout = global::TestApp.Droid.Resource.Styleable.FlowLayout;
+			global::PanCardView.Droid.Resource.Styleable.FlowLayout_itemSpacing = global::TestApp.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::PanCardView.Droid.Resource.Styleable.FlowLayout_lineSpacing = global::TestApp.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily = global::TestApp.Droid.Resource.Styleable.FontFamily;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont = global::TestApp.Droid.Resource.Styleable.FontFamilyFont;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_font = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_font = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::PanCardView.Droid.Resource.Styleable.FontFamilyFont_ttcIndex = global::TestApp.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::TestApp.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::TestApp.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::TestApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::TestApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::TestApp.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::PanCardView.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::TestApp.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout = global::TestApp.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::TestApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::TestApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::PanCardView.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::TestApp.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor = global::TestApp.Droid.Resource.Styleable.GradientColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColorItem = global::TestApp.Droid.Resource.Styleable.GradientColorItem;
+			global::PanCardView.Droid.Resource.Styleable.GradientColorItem_android_color = global::TestApp.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::PanCardView.Droid.Resource.Styleable.GradientColorItem_android_offset = global::TestApp.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_centerColor = global::TestApp.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_centerX = global::TestApp.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_centerY = global::TestApp.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_endColor = global::TestApp.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_endX = global::TestApp.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_endY = global::TestApp.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_gradientRadius = global::TestApp.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_startColor = global::TestApp.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_startX = global::TestApp.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_startY = global::TestApp.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_tileMode = global::TestApp.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::PanCardView.Droid.Resource.Styleable.GradientColor_android_type = global::TestApp.Droid.Resource.Styleable.GradientColor_android_type;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::PanCardView.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::TestApp.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::PanCardView.Droid.Resource.Styleable.ListPopupWindow = global::TestApp.Droid.Resource.Styleable.ListPopupWindow;
+			global::PanCardView.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::TestApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::PanCardView.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::TestApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton = global::TestApp.Droid.Resource.Styleable.MaterialButton;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetBottom = global::TestApp.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetLeft = global::TestApp.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetRight = global::TestApp.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_android_insetTop = global::TestApp.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_backgroundTint = global::TestApp.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_backgroundTintMode = global::TestApp.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_cornerRadius = global::TestApp.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_icon = global::TestApp.Droid.Resource.Styleable.MaterialButton_icon;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconGravity = global::TestApp.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconPadding = global::TestApp.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconSize = global::TestApp.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconTint = global::TestApp.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_iconTintMode = global::TestApp.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_rippleColor = global::TestApp.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_strokeColor = global::TestApp.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::PanCardView.Droid.Resource.Styleable.MaterialButton_strokeWidth = global::TestApp.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.MaterialCardView = global::TestApp.Droid.Resource.Styleable.MaterialCardView;
+			global::PanCardView.Droid.Resource.Styleable.MaterialCardView_strokeColor = global::TestApp.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::PanCardView.Droid.Resource.Styleable.MaterialCardView_strokeWidth = global::TestApp.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::PanCardView.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::TestApp.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup = global::TestApp.Droid.Resource.Styleable.MenuGroup;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::TestApp.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_enabled = global::TestApp.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_id = global::TestApp.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::TestApp.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::TestApp.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuGroup_android_visible = global::TestApp.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem = global::TestApp.Droid.Resource.Styleable.MenuItem;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_actionLayout = global::TestApp.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::TestApp.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_actionViewClass = global::TestApp.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::TestApp.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::TestApp.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_checkable = global::TestApp.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_checked = global::TestApp.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_enabled = global::TestApp.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_icon = global::TestApp.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_id = global::TestApp.Droid.Resource.Styleable.MenuItem_android_id;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::TestApp.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::TestApp.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_onClick = global::TestApp.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::TestApp.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_title = global::TestApp.Droid.Resource.Styleable.MenuItem_android_title;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::TestApp.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_android_visible = global::TestApp.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_contentDescription = global::TestApp.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_iconTint = global::TestApp.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_iconTintMode = global::TestApp.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_numericModifiers = global::TestApp.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_showAsAction = global::TestApp.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::PanCardView.Droid.Resource.Styleable.MenuItem_tooltipText = global::TestApp.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::PanCardView.Droid.Resource.Styleable.MenuView = global::TestApp.Droid.Resource.Styleable.MenuView;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_headerBackground = global::TestApp.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::TestApp.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_itemBackground = global::TestApp.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::TestApp.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::TestApp.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::TestApp.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::TestApp.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::TestApp.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::PanCardView.Droid.Resource.Styleable.MenuView_subMenuArrow = global::TestApp.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView = global::TestApp.Droid.Resource.Styleable.NavigationView;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_android_background = global::TestApp.Droid.Resource.Styleable.NavigationView_android_background;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::TestApp.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::TestApp.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_elevation = global::TestApp.Droid.Resource.Styleable.NavigationView_elevation;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_headerLayout = global::TestApp.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemBackground = global::TestApp.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding = global::TestApp.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemIconPadding = global::TestApp.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemIconTint = global::TestApp.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::TestApp.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_itemTextColor = global::TestApp.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::PanCardView.Droid.Resource.Styleable.NavigationView_menu = global::TestApp.Droid.Resource.Styleable.NavigationView_menu;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow = global::TestApp.Droid.Resource.Styleable.PopupWindow;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindowBackgroundState = global::TestApp.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::TestApp.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::TestApp.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::TestApp.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::PanCardView.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::TestApp.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::PanCardView.Droid.Resource.Styleable.RecycleListView = global::TestApp.Droid.Resource.Styleable.RecycleListView;
+			global::PanCardView.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::TestApp.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::PanCardView.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::TestApp.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView = global::TestApp.Droid.Resource.Styleable.RecyclerView;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::TestApp.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_android_orientation = global::TestApp.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::TestApp.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::TestApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::TestApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::TestApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::TestApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_layoutManager = global::TestApp.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::TestApp.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_spanCount = global::TestApp.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::PanCardView.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::TestApp.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::PanCardView.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::TestApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::PanCardView.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::TestApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::PanCardView.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::TestApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::PanCardView.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::TestApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::PanCardView.Droid.Resource.Styleable.SearchView = global::TestApp.Droid.Resource.Styleable.SearchView;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_focusable = global::TestApp.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_imeOptions = global::TestApp.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_inputType = global::TestApp.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_android_maxWidth = global::TestApp.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_closeIcon = global::TestApp.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_commitIcon = global::TestApp.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::TestApp.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_goIcon = global::TestApp.Droid.Resource.Styleable.SearchView_goIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::TestApp.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_layout = global::TestApp.Droid.Resource.Styleable.SearchView_layout;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_queryBackground = global::TestApp.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_queryHint = global::TestApp.Droid.Resource.Styleable.SearchView_queryHint;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_searchHintIcon = global::TestApp.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_searchIcon = global::TestApp.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_submitBackground = global::TestApp.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::TestApp.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::PanCardView.Droid.Resource.Styleable.SearchView_voiceIcon = global::TestApp.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::PanCardView.Droid.Resource.Styleable.Snackbar = global::TestApp.Droid.Resource.Styleable.Snackbar;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout = global::TestApp.Droid.Resource.Styleable.SnackbarLayout;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::TestApp.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout_elevation = global::TestApp.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::PanCardView.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::TestApp.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::PanCardView.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle = global::TestApp.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::PanCardView.Droid.Resource.Styleable.Snackbar_snackbarStyle = global::TestApp.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::PanCardView.Droid.Resource.Styleable.Spinner = global::TestApp.Droid.Resource.Styleable.Spinner;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::TestApp.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_entries = global::TestApp.Droid.Resource.Styleable.Spinner_android_entries;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_popupBackground = global::TestApp.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_android_prompt = global::TestApp.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::PanCardView.Droid.Resource.Styleable.Spinner_popupTheme = global::TestApp.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable = global::TestApp.Droid.Resource.Styleable.StateListDrawable;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawableItem = global::TestApp.Droid.Resource.Styleable.StateListDrawableItem;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawableItem_android_drawable = global::TestApp.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_constantSize = global::TestApp.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_dither = global::TestApp.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::TestApp.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::TestApp.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_variablePadding = global::TestApp.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::PanCardView.Droid.Resource.Styleable.StateListDrawable_android_visible = global::TestApp.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat = global::TestApp.Droid.Resource.Styleable.SwitchCompat;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::TestApp.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::TestApp.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::TestApp.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_showText = global::TestApp.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::TestApp.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::TestApp.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::TestApp.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::TestApp.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::TestApp.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::TestApp.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::TestApp.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_track = global::TestApp.Droid.Resource.Styleable.SwitchCompat_track;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_trackTint = global::TestApp.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::PanCardView.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::TestApp.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::PanCardView.Droid.Resource.Styleable.TabItem = global::TestApp.Droid.Resource.Styleable.TabItem;
+			global::PanCardView.Droid.Resource.Styleable.TabItem_android_icon = global::TestApp.Droid.Resource.Styleable.TabItem_android_icon;
+			global::PanCardView.Droid.Resource.Styleable.TabItem_android_layout = global::TestApp.Droid.Resource.Styleable.TabItem_android_layout;
+			global::PanCardView.Droid.Resource.Styleable.TabItem_android_text = global::TestApp.Droid.Resource.Styleable.TabItem_android_text;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout = global::TestApp.Droid.Resource.Styleable.TabLayout;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabBackground = global::TestApp.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabContentStart = global::TestApp.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabGravity = global::TestApp.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIconTint = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIconTintMode = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicator = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::TestApp.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabInlineLabel = global::TestApp.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::TestApp.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::TestApp.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabMode = global::TestApp.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPadding = global::TestApp.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::TestApp.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::TestApp.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::TestApp.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::TestApp.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabRippleColor = global::TestApp.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::TestApp.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::TestApp.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabTextColor = global::TestApp.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::PanCardView.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple = global::TestApp.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance = global::TestApp.Droid.Resource.Styleable.TextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textColor = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textSize = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_android_typeface = global::TestApp.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_fontFamily = global::TestApp.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::PanCardView.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::TestApp.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout = global::TestApp.Droid.Resource.Styleable.TextInputLayout;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_android_hint = global::TestApp.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::TestApp.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::TestApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::TestApp.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::TestApp.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::TestApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::TestApp.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::TestApp.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::TestApp.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_helperText = global::TestApp.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled = global::TestApp.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::TestApp.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::TestApp.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::TestApp.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::TestApp.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::TestApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::TestApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::TestApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::TestApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::PanCardView.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::TestApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement = global::TestApp.Droid.Resource.Styleable.ThemeEnforcement;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::TestApp.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::TestApp.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::PanCardView.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::TestApp.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar = global::TestApp.Droid.Resource.Styleable.Toolbar;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_android_gravity = global::TestApp.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_android_minHeight = global::TestApp.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_buttonGravity = global::TestApp.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::TestApp.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_collapseIcon = global::TestApp.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::TestApp.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::TestApp.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::TestApp.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::TestApp.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::TestApp.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::TestApp.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_logo = global::TestApp.Droid.Resource.Styleable.Toolbar_logo;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_logoDescription = global::TestApp.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::TestApp.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::TestApp.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_navigationIcon = global::TestApp.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_popupTheme = global::TestApp.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_subtitle = global::TestApp.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::TestApp.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::TestApp.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_title = global::TestApp.Droid.Resource.Styleable.Toolbar_title;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMargin = global::TestApp.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::TestApp.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::TestApp.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMargins = global::TestApp.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::TestApp.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::TestApp.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::TestApp.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::PanCardView.Droid.Resource.Styleable.Toolbar_titleTextColor = global::TestApp.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::PanCardView.Droid.Resource.Styleable.View = global::TestApp.Droid.Resource.Styleable.View;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper = global::TestApp.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::TestApp.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::TestApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::PanCardView.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::TestApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat = global::TestApp.Droid.Resource.Styleable.ViewStubCompat;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_id = global::TestApp.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::TestApp.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::TestApp.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::PanCardView.Droid.Resource.Styleable.View_android_focusable = global::TestApp.Droid.Resource.Styleable.View_android_focusable;
+			global::PanCardView.Droid.Resource.Styleable.View_android_theme = global::TestApp.Droid.Resource.Styleable.View_android_theme;
+			global::PanCardView.Droid.Resource.Styleable.View_paddingEnd = global::TestApp.Droid.Resource.Styleable.View_paddingEnd;
+			global::PanCardView.Droid.Resource.Styleable.View_paddingStart = global::TestApp.Droid.Resource.Styleable.View_paddingStart;
+			global::PanCardView.Droid.Resource.Styleable.View_theme = global::TestApp.Droid.Resource.Styleable.View_theme;
+			global::Plugin.Fingerprint.Resource.Drawable.fingerprint_white = global::TestApp.Droid.Resource.Drawable.fingerprint_white;
+			global::Plugin.Fingerprint.Resource.Id.fingerprint_btnCancel = global::TestApp.Droid.Resource.Id.fingerprint_btnCancel;
+			global::Plugin.Fingerprint.Resource.Id.fingerprint_btnFallback = global::TestApp.Droid.Resource.Id.fingerprint_btnFallback;
+			global::Plugin.Fingerprint.Resource.Id.fingerprint_imgFingerprint = global::TestApp.Droid.Resource.Id.fingerprint_imgFingerprint;
+			global::Plugin.Fingerprint.Resource.Id.fingerprint_txtHelp = global::TestApp.Droid.Resource.Id.fingerprint_txtHelp;
+			global::Plugin.Fingerprint.Resource.Id.fingerprint_txtReason = global::TestApp.Droid.Resource.Id.fingerprint_txtReason;
+			global::Plugin.Fingerprint.Resource.Layout.FingerprintDialog = global::TestApp.Droid.Resource.Layout.FingerprintDialog;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::TestApp.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::TestApp.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::TestApp.Droid.Resource.Attribute.font;
@@ -1715,6 +4299,7 @@ namespace TestApp.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::TestApp.Droid.Resource.Style.CardView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::TestApp.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::TestApp.Droid.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.NestedScrollBarStyle = global::TestApp.Droid.Resource.Style.NestedScrollBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::TestApp.Droid.Resource.Style.Platform_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::TestApp.Droid.Resource.Style.Platform_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::TestApp.Droid.Resource.Style.Platform_MaterialComponents;
@@ -5734,73 +8319,76 @@ namespace TestApp.Droid
 			public const int design_snackbar_background = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int ic_mtrl_chip_checked_black = 2131165282;
+			public const int fingerprint_white = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int ic_mtrl_chip_checked_circle = 2131165283;
+			public const int ic_mtrl_chip_checked_black = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int ic_mtrl_chip_close_circle = 2131165284;
+			public const int ic_mtrl_chip_checked_circle = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int mtrl_snackbar_background = 2131165285;
+			public const int ic_mtrl_chip_close_circle = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int mtrl_tabs_default_indicator = 2131165286;
+			public const int mtrl_snackbar_background = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int navigation_empty_icon = 2131165287;
+			public const int mtrl_tabs_default_indicator = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int notification_action_background = 2131165288;
+			public const int navigation_empty_icon = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int notification_bg = 2131165289;
+			public const int notification_action_background = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int notification_bg_low = 2131165290;
+			public const int notification_bg = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int notification_bg_low_normal = 2131165291;
+			public const int notification_bg_low = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int notification_bg_low_pressed = 2131165292;
+			public const int notification_bg_low_normal = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int notification_bg_normal = 2131165293;
+			public const int notification_bg_low_pressed = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int notification_bg_normal_pressed = 2131165294;
+			public const int notification_bg_normal = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int notification_icon_background = 2131165295;
+			public const int notification_bg_normal_pressed = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int notification_template_icon_bg = 2131165296;
+			public const int notification_icon_background = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int notification_template_icon_low_bg = 2131165297;
+			public const int notification_template_icon_bg = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int notification_tile_bg = 2131165298;
+			public const int notification_template_icon_low_bg = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int notify_panel_notification_icon_bg = 2131165299;
+			public const int notification_tile_bg = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int tab_about = 2131165300;
+			public const int notify_panel_notification_icon_bg = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int tab_feed = 2131165301;
+			public const int tab_about = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int tooltip_frame_dark = 2131165302;
+			public const int tab_feed = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int tooltip_frame_light = 2131165303;
+			public const int tooltip_frame_dark = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int xamarin_logo = 2131165304;
+			public const int tooltip_frame_light = 2131165304;
+			
+			// aapt resource value: 0x7F070079
+			public const int xamarin_logo = 2131165305;
 			
 			static Drawable()
 			{
@@ -6038,403 +8626,418 @@ namespace TestApp.Droid
 			public const int fill_vertical = 2131230796;
 			
 			// aapt resource value: 0x7F08004E
-			public const int @fixed = 2131230798;
+			public const int fingerprint_btnCancel = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int flyoutcontent_appbar = 2131230799;
+			public const int fingerprint_btnFallback = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int flyoutcontent_recycler = 2131230800;
+			public const int fingerprint_imgFingerprint = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int forever = 2131230801;
+			public const int fingerprint_txtHelp = 2131230801;
+			
+			// aapt resource value: 0x7F080052
+			public const int fingerprint_txtReason = 2131230802;
+			
+			// aapt resource value: 0x7F080053
+			public const int @fixed = 2131230803;
+			
+			// aapt resource value: 0x7F080054
+			public const int flyoutcontent_appbar = 2131230804;
+			
+			// aapt resource value: 0x7F080055
+			public const int flyoutcontent_recycler = 2131230805;
+			
+			// aapt resource value: 0x7F080056
+			public const int forever = 2131230806;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F080052
-			public const int ghost_view = 2131230802;
-			
-			// aapt resource value: 0x7F080053
-			public const int group_divider = 2131230803;
-			
-			// aapt resource value: 0x7F080054
-			public const int home = 2131230804;
-			
-			// aapt resource value: 0x7F080055
-			public const int homeAsUp = 2131230805;
-			
-			// aapt resource value: 0x7F080056
-			public const int icon = 2131230806;
-			
 			// aapt resource value: 0x7F080057
-			public const int icon_group = 2131230807;
+			public const int ghost_view = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int ifRoom = 2131230808;
+			public const int group_divider = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int image = 2131230809;
+			public const int home = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int info = 2131230810;
+			public const int homeAsUp = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int italic = 2131230811;
+			public const int icon = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int item_touch_helper_previous_elevation = 2131230812;
+			public const int icon_group = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int labeled = 2131230813;
+			public const int ifRoom = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int largeLabel = 2131230814;
+			public const int image = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int left = 2131230815;
+			public const int info = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int line1 = 2131230816;
+			public const int italic = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int line3 = 2131230817;
+			public const int item_touch_helper_previous_elevation = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int listMode = 2131230818;
+			public const int labeled = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int list_item = 2131230819;
+			public const int largeLabel = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int main_appbar = 2131230820;
+			public const int left = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int main_tablayout = 2131230821;
+			public const int line1 = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int main_toolbar = 2131230822;
+			public const int line3 = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int main_viewpager = 2131230823;
+			public const int listMode = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int masked = 2131230824;
+			public const int list_item = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int media_actions = 2131230825;
+			public const int main_appbar = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int message = 2131230826;
+			public const int main_tablayout = 2131230826;
+			
+			// aapt resource value: 0x7F08006B
+			public const int main_toolbar = 2131230827;
+			
+			// aapt resource value: 0x7F08006C
+			public const int main_viewpager = 2131230828;
+			
+			// aapt resource value: 0x7F08006D
+			public const int masked = 2131230829;
+			
+			// aapt resource value: 0x7F08006E
+			public const int media_actions = 2131230830;
+			
+			// aapt resource value: 0x7F08006F
+			public const int message = 2131230831;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F08006B
-			public const int middle = 2131230827;
-			
-			// aapt resource value: 0x7F08006C
-			public const int mini = 2131230828;
-			
-			// aapt resource value: 0x7F08006D
-			public const int mtrl_child_content_container = 2131230829;
-			
-			// aapt resource value: 0x7F08006E
-			public const int mtrl_internal_children_alpha_tag = 2131230830;
-			
-			// aapt resource value: 0x7F08006F
-			public const int multiply = 2131230831;
-			
 			// aapt resource value: 0x7F080070
-			public const int navigation_header_container = 2131230832;
+			public const int middle = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int never = 2131230833;
+			public const int mini = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int none = 2131230834;
+			public const int mtrl_child_content_container = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int normal = 2131230835;
+			public const int mtrl_internal_children_alpha_tag = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int notification_background = 2131230836;
+			public const int multiply = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int notification_main_column = 2131230837;
+			public const int navigation_header_container = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int notification_main_column_container = 2131230838;
+			public const int never = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int outline = 2131230839;
+			public const int none = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int parallax = 2131230840;
+			public const int normal = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int parentPanel = 2131230841;
+			public const int notification_background = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int parent_matrix = 2131230842;
+			public const int notification_main_column = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int pin = 2131230843;
+			public const int notification_main_column_container = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int progress_circular = 2131230844;
+			public const int outline = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int progress_horizontal = 2131230845;
+			public const int parallax = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int radio = 2131230846;
+			public const int parentPanel = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int right = 2131230847;
+			public const int parent_matrix = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int right_icon = 2131230848;
+			public const int pin = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int right_side = 2131230849;
+			public const int progress_circular = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int save_image_matrix = 2131230850;
+			public const int progress_horizontal = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int save_non_transition_alpha = 2131230851;
+			public const int radio = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int save_scale_type = 2131230852;
+			public const int right = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int screen = 2131230853;
+			public const int right_icon = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int scroll = 2131230854;
-			
-			// aapt resource value: 0x7F08008A
-			public const int scrollable = 2131230858;
+			public const int right_side = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int scrollIndicatorDown = 2131230855;
+			public const int save_image_matrix = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int scrollIndicatorUp = 2131230856;
+			public const int save_non_transition_alpha = 2131230856;
 			
 			// aapt resource value: 0x7F080089
-			public const int scrollView = 2131230857;
+			public const int save_scale_type = 2131230857;
+			
+			// aapt resource value: 0x7F08008A
+			public const int screen = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int search_badge = 2131230859;
-			
-			// aapt resource value: 0x7F08008C
-			public const int search_bar = 2131230860;
-			
-			// aapt resource value: 0x7F08008D
-			public const int search_button = 2131230861;
-			
-			// aapt resource value: 0x7F08008E
-			public const int search_close_btn = 2131230862;
+			public const int scroll = 2131230859;
 			
 			// aapt resource value: 0x7F08008F
-			public const int search_edit_frame = 2131230863;
+			public const int scrollable = 2131230863;
+			
+			// aapt resource value: 0x7F08008C
+			public const int scrollIndicatorDown = 2131230860;
+			
+			// aapt resource value: 0x7F08008D
+			public const int scrollIndicatorUp = 2131230861;
+			
+			// aapt resource value: 0x7F08008E
+			public const int scrollView = 2131230862;
 			
 			// aapt resource value: 0x7F080090
-			public const int search_go_btn = 2131230864;
+			public const int search_badge = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int search_mag_icon = 2131230865;
+			public const int search_bar = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int search_plate = 2131230866;
+			public const int search_button = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int search_src_text = 2131230867;
+			public const int search_close_btn = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int search_voice_btn = 2131230868;
-			
-			// aapt resource value: 0x7F080096
-			public const int selected = 2131230870;
+			public const int search_edit_frame = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int select_dialog_listview = 2131230869;
+			public const int search_go_btn = 2131230869;
+			
+			// aapt resource value: 0x7F080096
+			public const int search_mag_icon = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int shellcontent_appbar = 2131230871;
+			public const int search_plate = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int shellcontent_toolbar = 2131230872;
+			public const int search_src_text = 2131230872;
+			
+			// aapt resource value: 0x7F080099
+			public const int search_voice_btn = 2131230873;
+			
+			// aapt resource value: 0x7F08009B
+			public const int selected = 2131230875;
+			
+			// aapt resource value: 0x7F08009A
+			public const int select_dialog_listview = 2131230874;
+			
+			// aapt resource value: 0x7F08009C
+			public const int shellcontent_appbar = 2131230876;
+			
+			// aapt resource value: 0x7F08009D
+			public const int shellcontent_toolbar = 2131230877;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F080099
-			public const int shortcut = 2131230873;
-			
-			// aapt resource value: 0x7F08009A
-			public const int showCustom = 2131230874;
-			
-			// aapt resource value: 0x7F08009B
-			public const int showHome = 2131230875;
-			
-			// aapt resource value: 0x7F08009C
-			public const int showTitle = 2131230876;
-			
-			// aapt resource value: 0x7F08009D
-			public const int sliding_tabs = 2131230877;
-			
 			// aapt resource value: 0x7F08009E
-			public const int smallLabel = 2131230878;
+			public const int shortcut = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int snackbar_action = 2131230879;
+			public const int showCustom = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int snackbar_text = 2131230880;
+			public const int showHome = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int snap = 2131230881;
+			public const int showTitle = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int snapMargins = 2131230882;
+			public const int sliding_tabs = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int spacer = 2131230883;
+			public const int smallLabel = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int split_action_bar = 2131230884;
+			public const int snackbar_action = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int src_atop = 2131230885;
+			public const int snackbar_text = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int src_in = 2131230886;
+			public const int snap = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int src_over = 2131230887;
+			public const int snapMargins = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int start = 2131230888;
+			public const int spacer = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int status_bar_latest_event_content = 2131230889;
+			public const int split_action_bar = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int stretch = 2131230890;
+			public const int src_atop = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int submenuarrow = 2131230891;
+			public const int src_in = 2131230891;
 			
 			// aapt resource value: 0x7F0800AC
-			public const int submit_area = 2131230892;
+			public const int src_over = 2131230892;
+			
+			// aapt resource value: 0x7F0800AD
+			public const int start = 2131230893;
+			
+			// aapt resource value: 0x7F0800AE
+			public const int status_bar_latest_event_content = 2131230894;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int stretch = 2131230895;
+			
+			// aapt resource value: 0x7F0800B0
+			public const int submenuarrow = 2131230896;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int submit_area = 2131230897;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800AD
-			public const int tabMode = 2131230893;
-			
-			// aapt resource value: 0x7F0800AE
-			public const int tag_transition_group = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int tag_unhandled_key_event_manager = 2131230895;
-			
-			// aapt resource value: 0x7F0800B0
-			public const int tag_unhandled_key_listeners = 2131230896;
-			
-			// aapt resource value: 0x7F0800B1
-			public const int text = 2131230897;
-			
 			// aapt resource value: 0x7F0800B2
-			public const int text2 = 2131230898;
-			
-			// aapt resource value: 0x7F0800B7
-			public const int textinput_counter = 2131230903;
-			
-			// aapt resource value: 0x7F0800B8
-			public const int textinput_error = 2131230904;
-			
-			// aapt resource value: 0x7F0800B9
-			public const int textinput_helper_text = 2131230905;
+			public const int tabMode = 2131230898;
 			
 			// aapt resource value: 0x7F0800B3
-			public const int textSpacerNoButtons = 2131230899;
+			public const int tag_transition_group = 2131230899;
 			
 			// aapt resource value: 0x7F0800B4
-			public const int textSpacerNoTitle = 2131230900;
+			public const int tag_unhandled_key_event_manager = 2131230900;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int textStart = 2131230901;
+			public const int tag_unhandled_key_listeners = 2131230901;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int text_input_password_toggle = 2131230902;
+			public const int text = 2131230902;
 			
-			// aapt resource value: 0x7F0800BA
-			public const int time = 2131230906;
-			
-			// aapt resource value: 0x7F0800BB
-			public const int title = 2131230907;
+			// aapt resource value: 0x7F0800B7
+			public const int text2 = 2131230903;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int titleDividerNoCustom = 2131230908;
+			public const int textinput_counter = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int title_template = 2131230909;
+			public const int textinput_error = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int toolbar = 2131230910;
+			public const int textinput_helper_text = 2131230910;
+			
+			// aapt resource value: 0x7F0800B8
+			public const int textSpacerNoButtons = 2131230904;
+			
+			// aapt resource value: 0x7F0800B9
+			public const int textSpacerNoTitle = 2131230905;
+			
+			// aapt resource value: 0x7F0800BA
+			public const int textStart = 2131230906;
+			
+			// aapt resource value: 0x7F0800BB
+			public const int text_input_password_toggle = 2131230907;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int top = 2131230911;
+			public const int time = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int topPanel = 2131230912;
+			public const int title = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int touch_outside = 2131230913;
+			public const int titleDividerNoCustom = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int transition_current_scene = 2131230914;
+			public const int title_template = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int transition_layout_save = 2131230915;
+			public const int toolbar = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int transition_position = 2131230916;
+			public const int top = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int transition_scene_layoutid_cache = 2131230917;
+			public const int topPanel = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int transition_transform = 2131230918;
+			public const int touch_outside = 2131230918;
 			
 			// aapt resource value: 0x7F0800C7
-			public const int uniform = 2131230919;
+			public const int transition_current_scene = 2131230919;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int unlabeled = 2131230920;
+			public const int transition_layout_save = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int up = 2131230921;
+			public const int transition_position = 2131230921;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int useLogo = 2131230922;
+			public const int transition_scene_layoutid_cache = 2131230922;
 			
 			// aapt resource value: 0x7F0800CB
-			public const int view_offset_helper = 2131230923;
+			public const int transition_transform = 2131230923;
 			
 			// aapt resource value: 0x7F0800CC
-			public const int visible = 2131230924;
+			public const int uniform = 2131230924;
 			
 			// aapt resource value: 0x7F0800CD
-			public const int withText = 2131230925;
+			public const int unlabeled = 2131230925;
 			
 			// aapt resource value: 0x7F0800CE
-			public const int wrap_content = 2131230926;
+			public const int up = 2131230926;
+			
+			// aapt resource value: 0x7F0800CF
+			public const int useLogo = 2131230927;
+			
+			// aapt resource value: 0x7F0800D0
+			public const int view_offset_helper = 2131230928;
+			
+			// aapt resource value: 0x7F0800D1
+			public const int visible = 2131230929;
+			
+			// aapt resource value: 0x7F0800D2
+			public const int withText = 2131230930;
+			
+			// aapt resource value: 0x7F0800D3
+			public const int wrap_content = 2131230931;
 			
 			static Id()
 			{
@@ -6668,82 +9271,85 @@ namespace TestApp.Droid
 			public const int design_text_input_password_icon = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int FlyoutContent = 2131427373;
+			public const int FingerprintDialog = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int mtrl_layout_snackbar = 2131427374;
+			public const int FlyoutContent = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int mtrl_layout_snackbar_include = 2131427375;
+			public const int mtrl_layout_snackbar = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int notification_action = 2131427376;
+			public const int mtrl_layout_snackbar_include = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int notification_action_tombstone = 2131427377;
+			public const int notification_action = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int notification_media_action = 2131427378;
+			public const int notification_action_tombstone = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int notification_media_cancel_action = 2131427379;
+			public const int notification_media_action = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int notification_template_big_media = 2131427380;
+			public const int notification_media_cancel_action = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int notification_template_big_media_custom = 2131427381;
+			public const int notification_template_big_media = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int notification_template_big_media_narrow = 2131427382;
+			public const int notification_template_big_media_custom = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int notification_template_big_media_narrow_custom = 2131427383;
+			public const int notification_template_big_media_narrow = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int notification_template_custom_big = 2131427384;
+			public const int notification_template_big_media_narrow_custom = 2131427384;
 			
 			// aapt resource value: 0x7F0B0039
-			public const int notification_template_icon_group = 2131427385;
+			public const int notification_template_custom_big = 2131427385;
 			
 			// aapt resource value: 0x7F0B003A
-			public const int notification_template_lines_media = 2131427386;
+			public const int notification_template_icon_group = 2131427386;
 			
 			// aapt resource value: 0x7F0B003B
-			public const int notification_template_media = 2131427387;
+			public const int notification_template_lines_media = 2131427387;
 			
 			// aapt resource value: 0x7F0B003C
-			public const int notification_template_media_custom = 2131427388;
+			public const int notification_template_media = 2131427388;
 			
 			// aapt resource value: 0x7F0B003D
-			public const int notification_template_part_chronometer = 2131427389;
+			public const int notification_template_media_custom = 2131427389;
 			
 			// aapt resource value: 0x7F0B003E
-			public const int notification_template_part_time = 2131427390;
+			public const int notification_template_part_chronometer = 2131427390;
 			
 			// aapt resource value: 0x7F0B003F
-			public const int RootLayout = 2131427391;
+			public const int notification_template_part_time = 2131427391;
 			
 			// aapt resource value: 0x7F0B0040
-			public const int select_dialog_item_material = 2131427392;
+			public const int RootLayout = 2131427392;
 			
 			// aapt resource value: 0x7F0B0041
-			public const int select_dialog_multichoice_material = 2131427393;
+			public const int select_dialog_item_material = 2131427393;
 			
 			// aapt resource value: 0x7F0B0042
-			public const int select_dialog_singlechoice_material = 2131427394;
+			public const int select_dialog_multichoice_material = 2131427394;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int ShellContent = 2131427395;
+			public const int select_dialog_singlechoice_material = 2131427395;
 			
 			// aapt resource value: 0x7F0B0044
-			public const int support_simple_spinner_dropdown_item = 2131427396;
+			public const int ShellContent = 2131427396;
 			
 			// aapt resource value: 0x7F0B0045
-			public const int Tabbar = 2131427397;
+			public const int support_simple_spinner_dropdown_item = 2131427397;
 			
 			// aapt resource value: 0x7F0B0046
-			public const int Toolbar = 2131427398;
+			public const int Tabbar = 2131427398;
+			
+			// aapt resource value: 0x7F0B0047
+			public const int Toolbar = 2131427399;
 			
 			static Layout()
 			{
@@ -6919,28 +9525,31 @@ namespace TestApp.Droid
 			public const int hide_bottom_view_on_scroll_behavior = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int mtrl_chip_close_icon_content_description = 2131558446;
+			public const int library_name = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int password_toggle_content_description = 2131558447;
+			public const int mtrl_chip_close_icon_content_description = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int path_password_eye = 2131558448;
+			public const int password_toggle_content_description = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int path_password_eye_mask_strike_through = 2131558449;
+			public const int path_password_eye = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int path_password_eye_mask_visible = 2131558450;
+			public const int path_password_eye_mask_strike_through = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int path_password_strike_through = 2131558451;
+			public const int path_password_eye_mask_visible = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int search_menu_title = 2131558452;
+			public const int path_password_strike_through = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int status_bar_notification_info_overflow = 2131558453;
+			public const int search_menu_title = 2131558453;
+			
+			// aapt resource value: 0x7F0D0036
+			public const int status_bar_notification_info_overflow = 2131558454;
 			
 			static String()
 			{
@@ -7549,8 +10158,8 @@ namespace TestApp.Droid
 			// aapt resource value: 0x7F0E00C5
 			public const int CardView_Light = 2131624133;
 			
-			// aapt resource value: 0x7F0E01F7
-			public const int collectionViewStyle = 2131624439;
+			// aapt resource value: 0x7F0E01F8
+			public const int collectionViewStyle = 2131624440;
 			
 			// aapt resource value: 0x7F0E00C6
 			public const int MainTheme = 2131624134;
@@ -7559,913 +10168,916 @@ namespace TestApp.Droid
 			public const int MainTheme_Base = 2131624135;
 			
 			// aapt resource value: 0x7F0E00C8
-			public const int Platform_AppCompat = 2131624136;
+			public const int NestedScrollBarStyle = 2131624136;
 			
 			// aapt resource value: 0x7F0E00C9
-			public const int Platform_AppCompat_Light = 2131624137;
+			public const int Platform_AppCompat = 2131624137;
 			
 			// aapt resource value: 0x7F0E00CA
-			public const int Platform_MaterialComponents = 2131624138;
+			public const int Platform_AppCompat_Light = 2131624138;
 			
 			// aapt resource value: 0x7F0E00CB
-			public const int Platform_MaterialComponents_Dialog = 2131624139;
+			public const int Platform_MaterialComponents = 2131624139;
 			
 			// aapt resource value: 0x7F0E00CC
-			public const int Platform_MaterialComponents_Light = 2131624140;
+			public const int Platform_MaterialComponents_Dialog = 2131624140;
 			
 			// aapt resource value: 0x7F0E00CD
-			public const int Platform_MaterialComponents_Light_Dialog = 2131624141;
+			public const int Platform_MaterialComponents_Light = 2131624141;
 			
 			// aapt resource value: 0x7F0E00CE
-			public const int Platform_ThemeOverlay_AppCompat = 2131624142;
+			public const int Platform_MaterialComponents_Light_Dialog = 2131624142;
 			
 			// aapt resource value: 0x7F0E00CF
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624143;
+			public const int Platform_ThemeOverlay_AppCompat = 2131624143;
 			
 			// aapt resource value: 0x7F0E00D0
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624144;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624144;
 			
 			// aapt resource value: 0x7F0E00D1
-			public const int Platform_V21_AppCompat = 2131624145;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624145;
 			
 			// aapt resource value: 0x7F0E00D2
-			public const int Platform_V21_AppCompat_Light = 2131624146;
+			public const int Platform_V21_AppCompat = 2131624146;
 			
 			// aapt resource value: 0x7F0E00D3
-			public const int Platform_V25_AppCompat = 2131624147;
+			public const int Platform_V21_AppCompat_Light = 2131624147;
 			
 			// aapt resource value: 0x7F0E00D4
-			public const int Platform_V25_AppCompat_Light = 2131624148;
+			public const int Platform_V25_AppCompat = 2131624148;
 			
 			// aapt resource value: 0x7F0E00D5
-			public const int Platform_Widget_AppCompat_Spinner = 2131624149;
+			public const int Platform_V25_AppCompat_Light = 2131624149;
 			
 			// aapt resource value: 0x7F0E00D6
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624150;
+			public const int Platform_Widget_AppCompat_Spinner = 2131624150;
 			
 			// aapt resource value: 0x7F0E00D7
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624151;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624151;
 			
 			// aapt resource value: 0x7F0E00D8
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624152;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624152;
 			
 			// aapt resource value: 0x7F0E00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624153;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624153;
 			
 			// aapt resource value: 0x7F0E00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624154;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624154;
 			
 			// aapt resource value: 0x7F0E00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624155;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624155;
 			
 			// aapt resource value: 0x7F0E00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624156;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624156;
 			
 			// aapt resource value: 0x7F0E00DD
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624157;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624157;
 			
 			// aapt resource value: 0x7F0E00DE
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624158;
-			
-			// aapt resource value: 0x7F0E00E4
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624164;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624158;
 			
 			// aapt resource value: 0x7F0E00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624159;
-			
-			// aapt resource value: 0x7F0E00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624160;
-			
-			// aapt resource value: 0x7F0E00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624161;
-			
-			// aapt resource value: 0x7F0E00E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624162;
-			
-			// aapt resource value: 0x7F0E00E3
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624163;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624159;
 			
 			// aapt resource value: 0x7F0E00E5
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624165;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624165;
+			
+			// aapt resource value: 0x7F0E00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624160;
+			
+			// aapt resource value: 0x7F0E00E1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624161;
+			
+			// aapt resource value: 0x7F0E00E2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624162;
+			
+			// aapt resource value: 0x7F0E00E3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624163;
+			
+			// aapt resource value: 0x7F0E00E4
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624164;
 			
 			// aapt resource value: 0x7F0E00E6
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624166;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624166;
 			
 			// aapt resource value: 0x7F0E00E7
-			public const int TextAppearance_AppCompat = 2131624167;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624167;
 			
 			// aapt resource value: 0x7F0E00E8
-			public const int TextAppearance_AppCompat_Body1 = 2131624168;
+			public const int TextAppearance_AppCompat = 2131624168;
 			
 			// aapt resource value: 0x7F0E00E9
-			public const int TextAppearance_AppCompat_Body2 = 2131624169;
+			public const int TextAppearance_AppCompat_Body1 = 2131624169;
 			
 			// aapt resource value: 0x7F0E00EA
-			public const int TextAppearance_AppCompat_Button = 2131624170;
+			public const int TextAppearance_AppCompat_Body2 = 2131624170;
 			
 			// aapt resource value: 0x7F0E00EB
-			public const int TextAppearance_AppCompat_Caption = 2131624171;
+			public const int TextAppearance_AppCompat_Button = 2131624171;
 			
 			// aapt resource value: 0x7F0E00EC
-			public const int TextAppearance_AppCompat_Display1 = 2131624172;
+			public const int TextAppearance_AppCompat_Caption = 2131624172;
 			
 			// aapt resource value: 0x7F0E00ED
-			public const int TextAppearance_AppCompat_Display2 = 2131624173;
+			public const int TextAppearance_AppCompat_Display1 = 2131624173;
 			
 			// aapt resource value: 0x7F0E00EE
-			public const int TextAppearance_AppCompat_Display3 = 2131624174;
+			public const int TextAppearance_AppCompat_Display2 = 2131624174;
 			
 			// aapt resource value: 0x7F0E00EF
-			public const int TextAppearance_AppCompat_Display4 = 2131624175;
+			public const int TextAppearance_AppCompat_Display3 = 2131624175;
 			
 			// aapt resource value: 0x7F0E00F0
-			public const int TextAppearance_AppCompat_Headline = 2131624176;
+			public const int TextAppearance_AppCompat_Display4 = 2131624176;
 			
 			// aapt resource value: 0x7F0E00F1
-			public const int TextAppearance_AppCompat_Inverse = 2131624177;
+			public const int TextAppearance_AppCompat_Headline = 2131624177;
 			
 			// aapt resource value: 0x7F0E00F2
-			public const int TextAppearance_AppCompat_Large = 2131624178;
+			public const int TextAppearance_AppCompat_Inverse = 2131624178;
 			
 			// aapt resource value: 0x7F0E00F3
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131624179;
+			public const int TextAppearance_AppCompat_Large = 2131624179;
 			
 			// aapt resource value: 0x7F0E00F4
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624180;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131624180;
 			
 			// aapt resource value: 0x7F0E00F5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624181;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624181;
 			
 			// aapt resource value: 0x7F0E00F6
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624182;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624182;
 			
 			// aapt resource value: 0x7F0E00F7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624183;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624183;
 			
 			// aapt resource value: 0x7F0E00F8
-			public const int TextAppearance_AppCompat_Medium = 2131624184;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624184;
 			
 			// aapt resource value: 0x7F0E00F9
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624185;
+			public const int TextAppearance_AppCompat_Medium = 2131624185;
 			
 			// aapt resource value: 0x7F0E00FA
-			public const int TextAppearance_AppCompat_Menu = 2131624186;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624186;
 			
 			// aapt resource value: 0x7F0E00FB
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624187;
+			public const int TextAppearance_AppCompat_Menu = 2131624187;
 			
 			// aapt resource value: 0x7F0E00FC
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624188;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624188;
 			
 			// aapt resource value: 0x7F0E00FD
-			public const int TextAppearance_AppCompat_Small = 2131624189;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624189;
 			
 			// aapt resource value: 0x7F0E00FE
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131624190;
+			public const int TextAppearance_AppCompat_Small = 2131624190;
 			
 			// aapt resource value: 0x7F0E00FF
-			public const int TextAppearance_AppCompat_Subhead = 2131624191;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131624191;
 			
 			// aapt resource value: 0x7F0E0100
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624192;
+			public const int TextAppearance_AppCompat_Subhead = 2131624192;
 			
 			// aapt resource value: 0x7F0E0101
-			public const int TextAppearance_AppCompat_Title = 2131624193;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624193;
 			
 			// aapt resource value: 0x7F0E0102
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131624194;
+			public const int TextAppearance_AppCompat_Title = 2131624194;
 			
 			// aapt resource value: 0x7F0E0103
-			public const int TextAppearance_AppCompat_Tooltip = 2131624195;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131624195;
 			
 			// aapt resource value: 0x7F0E0104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624196;
+			public const int TextAppearance_AppCompat_Tooltip = 2131624196;
 			
 			// aapt resource value: 0x7F0E0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624197;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624197;
 			
 			// aapt resource value: 0x7F0E0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624198;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624198;
 			
 			// aapt resource value: 0x7F0E0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624199;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624199;
 			
 			// aapt resource value: 0x7F0E0108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624200;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624200;
 			
 			// aapt resource value: 0x7F0E0109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624201;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624201;
 			
 			// aapt resource value: 0x7F0E010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624202;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624202;
 			
 			// aapt resource value: 0x7F0E010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624203;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624203;
 			
 			// aapt resource value: 0x7F0E010C
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624204;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624204;
 			
 			// aapt resource value: 0x7F0E010D
-			public const int TextAppearance_AppCompat_Widget_Button = 2131624205;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624205;
 			
 			// aapt resource value: 0x7F0E010E
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624206;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131624206;
 			
 			// aapt resource value: 0x7F0E010F
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624207;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624207;
 			
 			// aapt resource value: 0x7F0E0110
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624208;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624208;
 			
 			// aapt resource value: 0x7F0E0111
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624209;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624209;
 			
 			// aapt resource value: 0x7F0E0112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624210;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624210;
 			
 			// aapt resource value: 0x7F0E0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624211;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624211;
 			
 			// aapt resource value: 0x7F0E0114
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624212;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624212;
 			
 			// aapt resource value: 0x7F0E0115
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131624213;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624213;
 			
 			// aapt resource value: 0x7F0E0116
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624214;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131624214;
 			
 			// aapt resource value: 0x7F0E0117
-			public const int TextAppearance_Compat_Notification = 2131624215;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624215;
 			
 			// aapt resource value: 0x7F0E0118
-			public const int TextAppearance_Compat_Notification_Info = 2131624216;
+			public const int TextAppearance_Compat_Notification = 2131624216;
 			
 			// aapt resource value: 0x7F0E0119
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131624217;
+			public const int TextAppearance_Compat_Notification_Info = 2131624217;
 			
 			// aapt resource value: 0x7F0E011A
-			public const int TextAppearance_Compat_Notification_Line2 = 2131624218;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131624218;
 			
 			// aapt resource value: 0x7F0E011B
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624219;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131624219;
 			
 			// aapt resource value: 0x7F0E011C
-			public const int TextAppearance_Compat_Notification_Media = 2131624220;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624220;
 			
 			// aapt resource value: 0x7F0E011D
-			public const int TextAppearance_Compat_Notification_Time = 2131624221;
+			public const int TextAppearance_Compat_Notification_Media = 2131624221;
 			
 			// aapt resource value: 0x7F0E011E
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131624222;
+			public const int TextAppearance_Compat_Notification_Time = 2131624222;
 			
 			// aapt resource value: 0x7F0E011F
-			public const int TextAppearance_Compat_Notification_Title = 2131624223;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131624223;
 			
 			// aapt resource value: 0x7F0E0120
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131624224;
+			public const int TextAppearance_Compat_Notification_Title = 2131624224;
 			
 			// aapt resource value: 0x7F0E0121
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624225;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131624225;
 			
 			// aapt resource value: 0x7F0E0122
-			public const int TextAppearance_Design_Counter = 2131624226;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624226;
 			
 			// aapt resource value: 0x7F0E0123
-			public const int TextAppearance_Design_Counter_Overflow = 2131624227;
+			public const int TextAppearance_Design_Counter = 2131624227;
 			
 			// aapt resource value: 0x7F0E0124
-			public const int TextAppearance_Design_Error = 2131624228;
+			public const int TextAppearance_Design_Counter_Overflow = 2131624228;
 			
 			// aapt resource value: 0x7F0E0125
-			public const int TextAppearance_Design_HelperText = 2131624229;
+			public const int TextAppearance_Design_Error = 2131624229;
 			
 			// aapt resource value: 0x7F0E0126
-			public const int TextAppearance_Design_Hint = 2131624230;
+			public const int TextAppearance_Design_HelperText = 2131624230;
 			
 			// aapt resource value: 0x7F0E0127
-			public const int TextAppearance_Design_Snackbar_Message = 2131624231;
+			public const int TextAppearance_Design_Hint = 2131624231;
 			
 			// aapt resource value: 0x7F0E0128
-			public const int TextAppearance_Design_Tab = 2131624232;
+			public const int TextAppearance_Design_Snackbar_Message = 2131624232;
 			
 			// aapt resource value: 0x7F0E0129
-			public const int TextAppearance_MaterialComponents_Body1 = 2131624233;
+			public const int TextAppearance_Design_Tab = 2131624233;
 			
 			// aapt resource value: 0x7F0E012A
-			public const int TextAppearance_MaterialComponents_Body2 = 2131624234;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131624234;
 			
 			// aapt resource value: 0x7F0E012B
-			public const int TextAppearance_MaterialComponents_Button = 2131624235;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131624235;
 			
 			// aapt resource value: 0x7F0E012C
-			public const int TextAppearance_MaterialComponents_Caption = 2131624236;
+			public const int TextAppearance_MaterialComponents_Button = 2131624236;
 			
 			// aapt resource value: 0x7F0E012D
-			public const int TextAppearance_MaterialComponents_Chip = 2131624237;
+			public const int TextAppearance_MaterialComponents_Caption = 2131624237;
 			
 			// aapt resource value: 0x7F0E012E
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131624238;
+			public const int TextAppearance_MaterialComponents_Chip = 2131624238;
 			
 			// aapt resource value: 0x7F0E012F
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131624239;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131624239;
 			
 			// aapt resource value: 0x7F0E0130
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131624240;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131624240;
 			
 			// aapt resource value: 0x7F0E0131
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131624241;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131624241;
 			
 			// aapt resource value: 0x7F0E0132
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131624242;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131624242;
 			
 			// aapt resource value: 0x7F0E0133
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131624243;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131624243;
 			
 			// aapt resource value: 0x7F0E0134
-			public const int TextAppearance_MaterialComponents_Overline = 2131624244;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131624244;
 			
 			// aapt resource value: 0x7F0E0135
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624245;
+			public const int TextAppearance_MaterialComponents_Overline = 2131624245;
 			
 			// aapt resource value: 0x7F0E0136
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624246;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624246;
 			
 			// aapt resource value: 0x7F0E0137
-			public const int TextAppearance_MaterialComponents_Tab = 2131624247;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624247;
 			
 			// aapt resource value: 0x7F0E0138
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624248;
+			public const int TextAppearance_MaterialComponents_Tab = 2131624248;
 			
 			// aapt resource value: 0x7F0E0139
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624249;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624249;
 			
 			// aapt resource value: 0x7F0E013A
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624250;
-			
-			// aapt resource value: 0x7F0E016B
-			public const int ThemeOverlay_AppCompat = 2131624299;
-			
-			// aapt resource value: 0x7F0E016C
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131624300;
-			
-			// aapt resource value: 0x7F0E016D
-			public const int ThemeOverlay_AppCompat_Dark = 2131624301;
-			
-			// aapt resource value: 0x7F0E016E
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624302;
-			
-			// aapt resource value: 0x7F0E016F
-			public const int ThemeOverlay_AppCompat_Dialog = 2131624303;
-			
-			// aapt resource value: 0x7F0E0170
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624304;
-			
-			// aapt resource value: 0x7F0E0171
-			public const int ThemeOverlay_AppCompat_Light = 2131624305;
-			
-			// aapt resource value: 0x7F0E0172
-			public const int ThemeOverlay_MaterialComponents = 2131624306;
-			
-			// aapt resource value: 0x7F0E0173
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624307;
-			
-			// aapt resource value: 0x7F0E0174
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131624308;
-			
-			// aapt resource value: 0x7F0E0175
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624309;
-			
-			// aapt resource value: 0x7F0E0176
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624310;
-			
-			// aapt resource value: 0x7F0E0177
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624311;
-			
-			// aapt resource value: 0x7F0E0178
-			public const int ThemeOverlay_MaterialComponents_Light = 2131624312;
-			
-			// aapt resource value: 0x7F0E0179
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624313;
-			
-			// aapt resource value: 0x7F0E017A
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624314;
-			
-			// aapt resource value: 0x7F0E017B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624315;
-			
-			// aapt resource value: 0x7F0E017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624316;
-			
-			// aapt resource value: 0x7F0E017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624317;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624250;
 			
 			// aapt resource value: 0x7F0E013B
-			public const int Theme_AppCompat = 2131624251;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624251;
 			
-			// aapt resource value: 0x7F0E013C
-			public const int Theme_AppCompat_CompactMenu = 2131624252;
+			// aapt resource value: 0x7F0E016C
+			public const int ThemeOverlay_AppCompat = 2131624300;
 			
-			// aapt resource value: 0x7F0E013D
-			public const int Theme_AppCompat_DayNight = 2131624253;
+			// aapt resource value: 0x7F0E016D
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131624301;
 			
-			// aapt resource value: 0x7F0E013E
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624254;
+			// aapt resource value: 0x7F0E016E
+			public const int ThemeOverlay_AppCompat_Dark = 2131624302;
 			
-			// aapt resource value: 0x7F0E013F
-			public const int Theme_AppCompat_DayNight_Dialog = 2131624255;
+			// aapt resource value: 0x7F0E016F
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624303;
 			
-			// aapt resource value: 0x7F0E0142
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624258;
+			// aapt resource value: 0x7F0E0170
+			public const int ThemeOverlay_AppCompat_Dialog = 2131624304;
 			
-			// aapt resource value: 0x7F0E0140
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624256;
+			// aapt resource value: 0x7F0E0171
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624305;
 			
-			// aapt resource value: 0x7F0E0141
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624257;
+			// aapt resource value: 0x7F0E0172
+			public const int ThemeOverlay_AppCompat_Light = 2131624306;
 			
-			// aapt resource value: 0x7F0E0143
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624259;
+			// aapt resource value: 0x7F0E0173
+			public const int ThemeOverlay_MaterialComponents = 2131624307;
 			
-			// aapt resource value: 0x7F0E0144
-			public const int Theme_AppCompat_Dialog = 2131624260;
+			// aapt resource value: 0x7F0E0174
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624308;
 			
-			// aapt resource value: 0x7F0E0147
-			public const int Theme_AppCompat_DialogWhenLarge = 2131624263;
+			// aapt resource value: 0x7F0E0175
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131624309;
 			
-			// aapt resource value: 0x7F0E0145
-			public const int Theme_AppCompat_Dialog_Alert = 2131624261;
+			// aapt resource value: 0x7F0E0176
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624310;
 			
-			// aapt resource value: 0x7F0E0146
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131624262;
+			// aapt resource value: 0x7F0E0177
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624311;
 			
-			// aapt resource value: 0x7F0E0148
-			public const int Theme_AppCompat_Light = 2131624264;
+			// aapt resource value: 0x7F0E0178
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624312;
 			
-			// aapt resource value: 0x7F0E0149
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131624265;
+			// aapt resource value: 0x7F0E0179
+			public const int ThemeOverlay_MaterialComponents_Light = 2131624313;
 			
-			// aapt resource value: 0x7F0E014A
-			public const int Theme_AppCompat_Light_Dialog = 2131624266;
+			// aapt resource value: 0x7F0E017A
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624314;
 			
-			// aapt resource value: 0x7F0E014D
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624269;
+			// aapt resource value: 0x7F0E017B
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624315;
 			
-			// aapt resource value: 0x7F0E014B
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624267;
+			// aapt resource value: 0x7F0E017C
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624316;
 			
-			// aapt resource value: 0x7F0E014C
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624268;
-			
-			// aapt resource value: 0x7F0E014E
-			public const int Theme_AppCompat_Light_NoActionBar = 2131624270;
-			
-			// aapt resource value: 0x7F0E014F
-			public const int Theme_AppCompat_NoActionBar = 2131624271;
-			
-			// aapt resource value: 0x7F0E0150
-			public const int Theme_Design = 2131624272;
-			
-			// aapt resource value: 0x7F0E0151
-			public const int Theme_Design_BottomSheetDialog = 2131624273;
-			
-			// aapt resource value: 0x7F0E0152
-			public const int Theme_Design_Light = 2131624274;
-			
-			// aapt resource value: 0x7F0E0153
-			public const int Theme_Design_Light_BottomSheetDialog = 2131624275;
-			
-			// aapt resource value: 0x7F0E0154
-			public const int Theme_Design_Light_NoActionBar = 2131624276;
-			
-			// aapt resource value: 0x7F0E0155
-			public const int Theme_Design_NoActionBar = 2131624277;
-			
-			// aapt resource value: 0x7F0E0156
-			public const int Theme_MaterialComponents = 2131624278;
-			
-			// aapt resource value: 0x7F0E0157
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624279;
-			
-			// aapt resource value: 0x7F0E0158
-			public const int Theme_MaterialComponents_Bridge = 2131624280;
-			
-			// aapt resource value: 0x7F0E0159
-			public const int Theme_MaterialComponents_CompactMenu = 2131624281;
-			
-			// aapt resource value: 0x7F0E015A
-			public const int Theme_MaterialComponents_Dialog = 2131624282;
-			
-			// aapt resource value: 0x7F0E015D
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624285;
-			
-			// aapt resource value: 0x7F0E015B
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131624283;
-			
-			// aapt resource value: 0x7F0E015C
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624284;
-			
-			// aapt resource value: 0x7F0E015E
-			public const int Theme_MaterialComponents_Light = 2131624286;
-			
-			// aapt resource value: 0x7F0E015F
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624287;
-			
-			// aapt resource value: 0x7F0E0160
-			public const int Theme_MaterialComponents_Light_Bridge = 2131624288;
-			
-			// aapt resource value: 0x7F0E0161
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624289;
-			
-			// aapt resource value: 0x7F0E0162
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624290;
-			
-			// aapt resource value: 0x7F0E0163
-			public const int Theme_MaterialComponents_Light_Dialog = 2131624291;
-			
-			// aapt resource value: 0x7F0E0166
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624294;
-			
-			// aapt resource value: 0x7F0E0164
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624292;
-			
-			// aapt resource value: 0x7F0E0165
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624293;
-			
-			// aapt resource value: 0x7F0E0167
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624295;
-			
-			// aapt resource value: 0x7F0E0168
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624296;
-			
-			// aapt resource value: 0x7F0E0169
-			public const int Theme_MaterialComponents_NoActionBar = 2131624297;
-			
-			// aapt resource value: 0x7F0E016A
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624298;
+			// aapt resource value: 0x7F0E017D
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624317;
 			
 			// aapt resource value: 0x7F0E017E
-			public const int Widget_AppCompat_ActionBar = 2131624318;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624318;
+			
+			// aapt resource value: 0x7F0E013C
+			public const int Theme_AppCompat = 2131624252;
+			
+			// aapt resource value: 0x7F0E013D
+			public const int Theme_AppCompat_CompactMenu = 2131624253;
+			
+			// aapt resource value: 0x7F0E013E
+			public const int Theme_AppCompat_DayNight = 2131624254;
+			
+			// aapt resource value: 0x7F0E013F
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624255;
+			
+			// aapt resource value: 0x7F0E0140
+			public const int Theme_AppCompat_DayNight_Dialog = 2131624256;
+			
+			// aapt resource value: 0x7F0E0143
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624259;
+			
+			// aapt resource value: 0x7F0E0141
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624257;
+			
+			// aapt resource value: 0x7F0E0142
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624258;
+			
+			// aapt resource value: 0x7F0E0144
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624260;
+			
+			// aapt resource value: 0x7F0E0145
+			public const int Theme_AppCompat_Dialog = 2131624261;
+			
+			// aapt resource value: 0x7F0E0148
+			public const int Theme_AppCompat_DialogWhenLarge = 2131624264;
+			
+			// aapt resource value: 0x7F0E0146
+			public const int Theme_AppCompat_Dialog_Alert = 2131624262;
+			
+			// aapt resource value: 0x7F0E0147
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131624263;
+			
+			// aapt resource value: 0x7F0E0149
+			public const int Theme_AppCompat_Light = 2131624265;
+			
+			// aapt resource value: 0x7F0E014A
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131624266;
+			
+			// aapt resource value: 0x7F0E014B
+			public const int Theme_AppCompat_Light_Dialog = 2131624267;
+			
+			// aapt resource value: 0x7F0E014E
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624270;
+			
+			// aapt resource value: 0x7F0E014C
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624268;
+			
+			// aapt resource value: 0x7F0E014D
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624269;
+			
+			// aapt resource value: 0x7F0E014F
+			public const int Theme_AppCompat_Light_NoActionBar = 2131624271;
+			
+			// aapt resource value: 0x7F0E0150
+			public const int Theme_AppCompat_NoActionBar = 2131624272;
+			
+			// aapt resource value: 0x7F0E0151
+			public const int Theme_Design = 2131624273;
+			
+			// aapt resource value: 0x7F0E0152
+			public const int Theme_Design_BottomSheetDialog = 2131624274;
+			
+			// aapt resource value: 0x7F0E0153
+			public const int Theme_Design_Light = 2131624275;
+			
+			// aapt resource value: 0x7F0E0154
+			public const int Theme_Design_Light_BottomSheetDialog = 2131624276;
+			
+			// aapt resource value: 0x7F0E0155
+			public const int Theme_Design_Light_NoActionBar = 2131624277;
+			
+			// aapt resource value: 0x7F0E0156
+			public const int Theme_Design_NoActionBar = 2131624278;
+			
+			// aapt resource value: 0x7F0E0157
+			public const int Theme_MaterialComponents = 2131624279;
+			
+			// aapt resource value: 0x7F0E0158
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624280;
+			
+			// aapt resource value: 0x7F0E0159
+			public const int Theme_MaterialComponents_Bridge = 2131624281;
+			
+			// aapt resource value: 0x7F0E015A
+			public const int Theme_MaterialComponents_CompactMenu = 2131624282;
+			
+			// aapt resource value: 0x7F0E015B
+			public const int Theme_MaterialComponents_Dialog = 2131624283;
+			
+			// aapt resource value: 0x7F0E015E
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624286;
+			
+			// aapt resource value: 0x7F0E015C
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131624284;
+			
+			// aapt resource value: 0x7F0E015D
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624285;
+			
+			// aapt resource value: 0x7F0E015F
+			public const int Theme_MaterialComponents_Light = 2131624287;
+			
+			// aapt resource value: 0x7F0E0160
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624288;
+			
+			// aapt resource value: 0x7F0E0161
+			public const int Theme_MaterialComponents_Light_Bridge = 2131624289;
+			
+			// aapt resource value: 0x7F0E0162
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624290;
+			
+			// aapt resource value: 0x7F0E0163
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624291;
+			
+			// aapt resource value: 0x7F0E0164
+			public const int Theme_MaterialComponents_Light_Dialog = 2131624292;
+			
+			// aapt resource value: 0x7F0E0167
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624295;
+			
+			// aapt resource value: 0x7F0E0165
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624293;
+			
+			// aapt resource value: 0x7F0E0166
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624294;
+			
+			// aapt resource value: 0x7F0E0168
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624296;
+			
+			// aapt resource value: 0x7F0E0169
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624297;
+			
+			// aapt resource value: 0x7F0E016A
+			public const int Theme_MaterialComponents_NoActionBar = 2131624298;
+			
+			// aapt resource value: 0x7F0E016B
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624299;
 			
 			// aapt resource value: 0x7F0E017F
-			public const int Widget_AppCompat_ActionBar_Solid = 2131624319;
+			public const int Widget_AppCompat_ActionBar = 2131624319;
 			
 			// aapt resource value: 0x7F0E0180
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131624320;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131624320;
 			
 			// aapt resource value: 0x7F0E0181
-			public const int Widget_AppCompat_ActionBar_TabText = 2131624321;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131624321;
 			
 			// aapt resource value: 0x7F0E0182
-			public const int Widget_AppCompat_ActionBar_TabView = 2131624322;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131624322;
 			
 			// aapt resource value: 0x7F0E0183
-			public const int Widget_AppCompat_ActionButton = 2131624323;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131624323;
 			
 			// aapt resource value: 0x7F0E0184
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624324;
+			public const int Widget_AppCompat_ActionButton = 2131624324;
 			
 			// aapt resource value: 0x7F0E0185
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131624325;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624325;
 			
 			// aapt resource value: 0x7F0E0186
-			public const int Widget_AppCompat_ActionMode = 2131624326;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131624326;
 			
 			// aapt resource value: 0x7F0E0187
-			public const int Widget_AppCompat_ActivityChooserView = 2131624327;
+			public const int Widget_AppCompat_ActionMode = 2131624327;
 			
 			// aapt resource value: 0x7F0E0188
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131624328;
+			public const int Widget_AppCompat_ActivityChooserView = 2131624328;
 			
 			// aapt resource value: 0x7F0E0189
-			public const int Widget_AppCompat_Button = 2131624329;
-			
-			// aapt resource value: 0x7F0E018F
-			public const int Widget_AppCompat_ButtonBar = 2131624335;
-			
-			// aapt resource value: 0x7F0E0190
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624336;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131624329;
 			
 			// aapt resource value: 0x7F0E018A
-			public const int Widget_AppCompat_Button_Borderless = 2131624330;
+			public const int Widget_AppCompat_Button = 2131624330;
 			
-			// aapt resource value: 0x7F0E018B
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624331;
-			
-			// aapt resource value: 0x7F0E018C
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624332;
-			
-			// aapt resource value: 0x7F0E018D
-			public const int Widget_AppCompat_Button_Colored = 2131624333;
-			
-			// aapt resource value: 0x7F0E018E
-			public const int Widget_AppCompat_Button_Small = 2131624334;
+			// aapt resource value: 0x7F0E0190
+			public const int Widget_AppCompat_ButtonBar = 2131624336;
 			
 			// aapt resource value: 0x7F0E0191
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624337;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624337;
+			
+			// aapt resource value: 0x7F0E018B
+			public const int Widget_AppCompat_Button_Borderless = 2131624331;
+			
+			// aapt resource value: 0x7F0E018C
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624332;
+			
+			// aapt resource value: 0x7F0E018D
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624333;
+			
+			// aapt resource value: 0x7F0E018E
+			public const int Widget_AppCompat_Button_Colored = 2131624334;
+			
+			// aapt resource value: 0x7F0E018F
+			public const int Widget_AppCompat_Button_Small = 2131624335;
 			
 			// aapt resource value: 0x7F0E0192
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624338;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624338;
 			
 			// aapt resource value: 0x7F0E0193
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131624339;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624339;
 			
 			// aapt resource value: 0x7F0E0194
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131624340;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131624340;
 			
 			// aapt resource value: 0x7F0E0195
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624341;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131624341;
 			
 			// aapt resource value: 0x7F0E0196
-			public const int Widget_AppCompat_EditText = 2131624342;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624342;
 			
 			// aapt resource value: 0x7F0E0197
-			public const int Widget_AppCompat_ImageButton = 2131624343;
+			public const int Widget_AppCompat_EditText = 2131624343;
 			
 			// aapt resource value: 0x7F0E0198
-			public const int Widget_AppCompat_Light_ActionBar = 2131624344;
+			public const int Widget_AppCompat_ImageButton = 2131624344;
 			
 			// aapt resource value: 0x7F0E0199
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624345;
+			public const int Widget_AppCompat_Light_ActionBar = 2131624345;
 			
 			// aapt resource value: 0x7F0E019A
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624346;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624346;
 			
 			// aapt resource value: 0x7F0E019B
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624347;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624347;
 			
 			// aapt resource value: 0x7F0E019C
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624348;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624348;
 			
 			// aapt resource value: 0x7F0E019D
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624349;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624349;
 			
 			// aapt resource value: 0x7F0E019E
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624350;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624350;
 			
 			// aapt resource value: 0x7F0E019F
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624351;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624351;
 			
 			// aapt resource value: 0x7F0E01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624352;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624352;
 			
 			// aapt resource value: 0x7F0E01A1
-			public const int Widget_AppCompat_Light_ActionButton = 2131624353;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624353;
 			
 			// aapt resource value: 0x7F0E01A2
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624354;
+			public const int Widget_AppCompat_Light_ActionButton = 2131624354;
 			
 			// aapt resource value: 0x7F0E01A3
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624355;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624355;
 			
 			// aapt resource value: 0x7F0E01A4
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624356;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624356;
 			
 			// aapt resource value: 0x7F0E01A5
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624357;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624357;
 			
 			// aapt resource value: 0x7F0E01A6
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624358;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624358;
 			
 			// aapt resource value: 0x7F0E01A7
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624359;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624359;
 			
 			// aapt resource value: 0x7F0E01A8
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624360;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624360;
 			
 			// aapt resource value: 0x7F0E01A9
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624361;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624361;
 			
 			// aapt resource value: 0x7F0E01AA
-			public const int Widget_AppCompat_Light_PopupMenu = 2131624362;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624362;
 			
 			// aapt resource value: 0x7F0E01AB
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624363;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131624363;
 			
 			// aapt resource value: 0x7F0E01AC
-			public const int Widget_AppCompat_Light_SearchView = 2131624364;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624364;
 			
 			// aapt resource value: 0x7F0E01AD
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624365;
+			public const int Widget_AppCompat_Light_SearchView = 2131624365;
 			
 			// aapt resource value: 0x7F0E01AE
-			public const int Widget_AppCompat_ListMenuView = 2131624366;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624366;
 			
 			// aapt resource value: 0x7F0E01AF
-			public const int Widget_AppCompat_ListPopupWindow = 2131624367;
+			public const int Widget_AppCompat_ListMenuView = 2131624367;
 			
 			// aapt resource value: 0x7F0E01B0
-			public const int Widget_AppCompat_ListView = 2131624368;
+			public const int Widget_AppCompat_ListPopupWindow = 2131624368;
 			
 			// aapt resource value: 0x7F0E01B1
-			public const int Widget_AppCompat_ListView_DropDown = 2131624369;
+			public const int Widget_AppCompat_ListView = 2131624369;
 			
 			// aapt resource value: 0x7F0E01B2
-			public const int Widget_AppCompat_ListView_Menu = 2131624370;
+			public const int Widget_AppCompat_ListView_DropDown = 2131624370;
 			
 			// aapt resource value: 0x7F0E01B3
-			public const int Widget_AppCompat_PopupMenu = 2131624371;
+			public const int Widget_AppCompat_ListView_Menu = 2131624371;
 			
 			// aapt resource value: 0x7F0E01B4
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624372;
+			public const int Widget_AppCompat_PopupMenu = 2131624372;
 			
 			// aapt resource value: 0x7F0E01B5
-			public const int Widget_AppCompat_PopupWindow = 2131624373;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624373;
 			
 			// aapt resource value: 0x7F0E01B6
-			public const int Widget_AppCompat_ProgressBar = 2131624374;
+			public const int Widget_AppCompat_PopupWindow = 2131624374;
 			
 			// aapt resource value: 0x7F0E01B7
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624375;
+			public const int Widget_AppCompat_ProgressBar = 2131624375;
 			
 			// aapt resource value: 0x7F0E01B8
-			public const int Widget_AppCompat_RatingBar = 2131624376;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624376;
 			
 			// aapt resource value: 0x7F0E01B9
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131624377;
+			public const int Widget_AppCompat_RatingBar = 2131624377;
 			
 			// aapt resource value: 0x7F0E01BA
-			public const int Widget_AppCompat_RatingBar_Small = 2131624378;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131624378;
 			
 			// aapt resource value: 0x7F0E01BB
-			public const int Widget_AppCompat_SearchView = 2131624379;
+			public const int Widget_AppCompat_RatingBar_Small = 2131624379;
 			
 			// aapt resource value: 0x7F0E01BC
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131624380;
+			public const int Widget_AppCompat_SearchView = 2131624380;
 			
 			// aapt resource value: 0x7F0E01BD
-			public const int Widget_AppCompat_SeekBar = 2131624381;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131624381;
 			
 			// aapt resource value: 0x7F0E01BE
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131624382;
+			public const int Widget_AppCompat_SeekBar = 2131624382;
 			
 			// aapt resource value: 0x7F0E01BF
-			public const int Widget_AppCompat_Spinner = 2131624383;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131624383;
 			
 			// aapt resource value: 0x7F0E01C0
-			public const int Widget_AppCompat_Spinner_DropDown = 2131624384;
+			public const int Widget_AppCompat_Spinner = 2131624384;
 			
 			// aapt resource value: 0x7F0E01C1
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624385;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131624385;
 			
 			// aapt resource value: 0x7F0E01C2
-			public const int Widget_AppCompat_Spinner_Underlined = 2131624386;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624386;
 			
 			// aapt resource value: 0x7F0E01C3
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624387;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131624387;
 			
 			// aapt resource value: 0x7F0E01C4
-			public const int Widget_AppCompat_Toolbar = 2131624388;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624388;
 			
 			// aapt resource value: 0x7F0E01C5
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624389;
+			public const int Widget_AppCompat_Toolbar = 2131624389;
 			
 			// aapt resource value: 0x7F0E01C6
-			public const int Widget_Compat_NotificationActionContainer = 2131624390;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624390;
 			
 			// aapt resource value: 0x7F0E01C7
-			public const int Widget_Compat_NotificationActionText = 2131624391;
+			public const int Widget_Compat_NotificationActionContainer = 2131624391;
 			
 			// aapt resource value: 0x7F0E01C8
-			public const int Widget_Design_AppBarLayout = 2131624392;
+			public const int Widget_Compat_NotificationActionText = 2131624392;
 			
 			// aapt resource value: 0x7F0E01C9
-			public const int Widget_Design_BottomNavigationView = 2131624393;
+			public const int Widget_Design_AppBarLayout = 2131624393;
 			
 			// aapt resource value: 0x7F0E01CA
-			public const int Widget_Design_BottomSheet_Modal = 2131624394;
+			public const int Widget_Design_BottomNavigationView = 2131624394;
 			
 			// aapt resource value: 0x7F0E01CB
-			public const int Widget_Design_CollapsingToolbar = 2131624395;
+			public const int Widget_Design_BottomSheet_Modal = 2131624395;
 			
 			// aapt resource value: 0x7F0E01CC
-			public const int Widget_Design_FloatingActionButton = 2131624396;
+			public const int Widget_Design_CollapsingToolbar = 2131624396;
 			
 			// aapt resource value: 0x7F0E01CD
-			public const int Widget_Design_NavigationView = 2131624397;
+			public const int Widget_Design_FloatingActionButton = 2131624397;
 			
 			// aapt resource value: 0x7F0E01CE
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624398;
+			public const int Widget_Design_NavigationView = 2131624398;
 			
 			// aapt resource value: 0x7F0E01CF
-			public const int Widget_Design_Snackbar = 2131624399;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624399;
 			
 			// aapt resource value: 0x7F0E01D0
-			public const int Widget_Design_TabLayout = 2131624400;
+			public const int Widget_Design_Snackbar = 2131624400;
 			
 			// aapt resource value: 0x7F0E01D1
-			public const int Widget_Design_TextInputLayout = 2131624401;
+			public const int Widget_Design_TabLayout = 2131624401;
 			
 			// aapt resource value: 0x7F0E01D2
-			public const int Widget_MaterialComponents_BottomAppBar = 2131624402;
+			public const int Widget_Design_TextInputLayout = 2131624402;
 			
 			// aapt resource value: 0x7F0E01D3
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624403;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131624403;
 			
 			// aapt resource value: 0x7F0E01D4
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131624404;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624404;
 			
 			// aapt resource value: 0x7F0E01D5
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624405;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131624405;
 			
 			// aapt resource value: 0x7F0E01D6
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624406;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624406;
 			
 			// aapt resource value: 0x7F0E01D7
-			public const int Widget_MaterialComponents_Button = 2131624407;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624407;
 			
 			// aapt resource value: 0x7F0E01D8
-			public const int Widget_MaterialComponents_Button_Icon = 2131624408;
+			public const int Widget_MaterialComponents_Button = 2131624408;
 			
 			// aapt resource value: 0x7F0E01D9
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624409;
+			public const int Widget_MaterialComponents_Button_Icon = 2131624409;
 			
 			// aapt resource value: 0x7F0E01DA
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624410;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624410;
 			
 			// aapt resource value: 0x7F0E01DB
-			public const int Widget_MaterialComponents_Button_TextButton = 2131624411;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624411;
 			
 			// aapt resource value: 0x7F0E01DC
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624412;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131624412;
 			
 			// aapt resource value: 0x7F0E01DD
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624413;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624413;
 			
 			// aapt resource value: 0x7F0E01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624414;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624414;
 			
 			// aapt resource value: 0x7F0E01DF
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624415;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624415;
 			
 			// aapt resource value: 0x7F0E01E0
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624416;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624416;
 			
 			// aapt resource value: 0x7F0E01E1
-			public const int Widget_MaterialComponents_CardView = 2131624417;
-			
-			// aapt resource value: 0x7F0E01E6
-			public const int Widget_MaterialComponents_ChipGroup = 2131624422;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624417;
 			
 			// aapt resource value: 0x7F0E01E2
-			public const int Widget_MaterialComponents_Chip_Action = 2131624418;
-			
-			// aapt resource value: 0x7F0E01E3
-			public const int Widget_MaterialComponents_Chip_Choice = 2131624419;
-			
-			// aapt resource value: 0x7F0E01E4
-			public const int Widget_MaterialComponents_Chip_Entry = 2131624420;
-			
-			// aapt resource value: 0x7F0E01E5
-			public const int Widget_MaterialComponents_Chip_Filter = 2131624421;
+			public const int Widget_MaterialComponents_CardView = 2131624418;
 			
 			// aapt resource value: 0x7F0E01E7
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131624423;
+			public const int Widget_MaterialComponents_ChipGroup = 2131624423;
+			
+			// aapt resource value: 0x7F0E01E3
+			public const int Widget_MaterialComponents_Chip_Action = 2131624419;
+			
+			// aapt resource value: 0x7F0E01E4
+			public const int Widget_MaterialComponents_Chip_Choice = 2131624420;
+			
+			// aapt resource value: 0x7F0E01E5
+			public const int Widget_MaterialComponents_Chip_Entry = 2131624421;
+			
+			// aapt resource value: 0x7F0E01E6
+			public const int Widget_MaterialComponents_Chip_Filter = 2131624422;
 			
 			// aapt resource value: 0x7F0E01E8
-			public const int Widget_MaterialComponents_NavigationView = 2131624424;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131624424;
 			
 			// aapt resource value: 0x7F0E01E9
-			public const int Widget_MaterialComponents_Snackbar = 2131624425;
+			public const int Widget_MaterialComponents_NavigationView = 2131624425;
 			
 			// aapt resource value: 0x7F0E01EA
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624426;
+			public const int Widget_MaterialComponents_Snackbar = 2131624426;
 			
 			// aapt resource value: 0x7F0E01EB
-			public const int Widget_MaterialComponents_TabLayout = 2131624427;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624427;
 			
 			// aapt resource value: 0x7F0E01EC
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624428;
+			public const int Widget_MaterialComponents_TabLayout = 2131624428;
 			
 			// aapt resource value: 0x7F0E01ED
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624429;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624429;
 			
 			// aapt resource value: 0x7F0E01EE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624430;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624430;
 			
 			// aapt resource value: 0x7F0E01EF
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624431;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624431;
 			
 			// aapt resource value: 0x7F0E01F0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624432;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624432;
 			
 			// aapt resource value: 0x7F0E01F1
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624433;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624433;
 			
 			// aapt resource value: 0x7F0E01F2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624434;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624434;
 			
 			// aapt resource value: 0x7F0E01F3
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624435;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624435;
 			
 			// aapt resource value: 0x7F0E01F4
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624436;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624436;
 			
 			// aapt resource value: 0x7F0E01F5
-			public const int Widget_MaterialComponents_Toolbar = 2131624437;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624437;
 			
 			// aapt resource value: 0x7F0E01F6
-			public const int Widget_Support_CoordinatorLayout = 2131624438;
+			public const int Widget_MaterialComponents_Toolbar = 2131624438;
+			
+			// aapt resource value: 0x7F0E01F7
+			public const int Widget_Support_CoordinatorLayout = 2131624439;
 			
 			static Style()
 			{
